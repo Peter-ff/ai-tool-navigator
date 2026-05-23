@@ -1,0 +1,47 @@
+{
+  "slug": "cleanvoice",
+  "name": "Cleanvoice",
+  "tagline": "AI 播客音频清理，自动去除填充词、停顿和噪音",
+  "description": "Cleanvoice 是专为播客和音频创作者打造的 AI 清理工具。自动识别并删除录音中的“嗯”、“啊”等填充词、过长停顿和嘴唇啧声。也支持多语言填充词识别。处理速度极快，大幅减少音频后期编辑时间。",
+  "category": "ai-audio",
+  "subcategory": "",
+  "tags": [
+    "音频清理",
+    "播客",
+    "AI 编辑",
+    "商业产品"
+  ],
+  "website": "https://cleanvoice.ai",
+  "logo": "/logos/cleanvoice.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "30 分钟免费",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "填充词删除",
+    "停顿清理",
+    "嘴唇啧声去除",
+    "多语言支持",
+    "批量处理"
+  ],
+  "use_cases": [
+    "播客制作",
+    "视频配音",
+    "课程录制",
+    "会议记录"
+  ],
+  "rating": 4.5,
+  "review_count": 3000,
+  "favorites_count": 5000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

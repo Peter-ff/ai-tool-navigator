@@ -1,0 +1,33 @@
+{
+  "slug": "cursor",
+  "name": "Cursor",
+  "tagline": "AI 原生代码编辑器，基于 VS Code，深度集成 AI 编程能力",
+  "description": "Cursor 是基于 VS Code 的 AI 编程编辑器，将大语言模型深度集成到开发工作流中。支持 Tab 补全、内联编辑、聊天式编程、Composer 多文件重构等功能。支持 Claude、GPT-4o 等多种模型，能理解整个项目上下文。2025 年推出的 Agent 模式可以自主完成复杂的多步骤编程任务。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": ["代码编辑器", "AI 编程", "IDE", "商业产品"],
+  "website": "https://cursor.com",
+  "logo": "/logos/cursor.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "2000 次补全 + 50 次高级请求/月",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Hobby", "price": "免费", "features": ["2000 次补全", "50 次高级请求"] },
+      { "name": "Pro", "price": "$20/月", "features": ["无限补全", "500 次高级请求"] },
+      { "name": "Business", "price": "$40/人/月", "features": ["团队管理", "用量统计", "SSO"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["Tab 智能补全", "内联编辑 (Ctrl+K)", "聊天式编程", "Composer 多文件编辑", "Agent 自主编程", "多模型支持"],
+  "use_cases": ["日常编码", "代码重构", "Bug 修复", "项目生成", "代码审查"],
+  "rating": 4.9,
+  "review_count": 3450,
+  "favorites_count": 18900,
+  "alternatives": ["github-copilot", "windsurf", "cline"],
+  "related_collections": ["best-ai-coding-tools-2026"],
+  "added_date": "2026-01-03",
+  "updated_date": "2026-05-20",
+  "status": "published"
+}

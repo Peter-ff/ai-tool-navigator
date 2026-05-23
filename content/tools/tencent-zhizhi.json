@@ -1,0 +1,32 @@
+{
+  "slug": "tencent-zhizhi",
+  "name": "腾讯智影",
+  "tagline": "腾讯 AI 数字人视频创作平台，分钟级生成数字人播报和 AI 视频",
+  "description": "腾讯智影是腾讯推出的在线智能视频创作平台，核心功能包括：AI 数字人播报（上传文本即可生成数字人出镜视频）、AI 配音（多种风格语音合成）、AI 字幕自动生成、AI 视频剪辑、虚拟演播室。拥有丰富的数字人形象库和模板，无需真人出镜即可快速制作专业视频内容。广泛应用于自媒体、企业宣传、教育培训等场景。",
+  "category": "ai-video",
+  "subcategory": "digital-human",
+  "tags": ["数字人", "腾讯", "视频创作", "AI 配音", "商业产品"],
+  "website": "https://zenvideo.qq.com",
+  "logo": "/logos/zhizhi.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费，每月有限额度",
+    "starting_price": "¥99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础数字人", "AI 配音", "5 分钟导出"] },
+      { "name": "Pro", "price": "¥99/月", "features": ["更多数字人形象", "高清导出", "去水印", "商用授权"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 数字人出镜", "AI 智能配音", "AI 字幕生成", "云端视频剪辑", "虚拟演播室", "丰富模板库"],
+  "use_cases": ["企业宣传", "自媒体创作", "在线教育", "新闻播报", "产品介绍"],
+  "rating": 4.3,
+  "review_count": 7200,
+  "favorites_count": 16000,
+  "alternatives": ["heygen", "synthesia", "wanxing-virbo"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

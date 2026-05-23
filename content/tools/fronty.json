@@ -1,0 +1,48 @@
+{
+  "slug": "fronty",
+  "name": "Fronty",
+  "tagline": "图片转前端代码，截图直接生成 HTML/CSS",
+  "description": "Fronty 是 AI 图片转代码工具，上传 UI 设计截图或手绘草图，AI 自动生成 HTML/CSS 代码。生成的代码基于 Bootstrap 和现代 CSS，可直接使用或进一步编辑。是前端开发和设计师快速原型化的利器。",
+  "category": "ai-design",
+  "subcategory": "",
+  "tags": [
+    "图片转代码",
+    "前端",
+    "HTML/CSS",
+    "AI 生成",
+    "商业产品"
+  ],
+  "website": "https://fronty.com",
+  "logo": "/logos/fronty.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费转换",
+    "starting_price": "$9/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "图片转 HTML/CSS",
+    "Bootstrap 代码",
+    "响应式布局",
+    "在线编辑器",
+    "导出代码"
+  ],
+  "use_cases": [
+    "UI 开发",
+    "原型设计",
+    "设计稿转换",
+    "快速开发"
+  ],
+  "rating": 4.1,
+  "review_count": 3000,
+  "favorites_count": 4000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

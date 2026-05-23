@@ -1,0 +1,32 @@
+{
+  "slug": "dingtalk-ai",
+  "name": "钉钉AI",
+  "tagline": "钉钉 AI 日程和办公助手，AI 自动排期/智能提醒/会议预约",
+  "description": "钉钉AI 是阿里钉钉内置的 AI 办公助手，在日程管理方面功能突出：AI 智能排程（根据多人空闲时间自动推荐会议时间）、AI 日程助手（自然语言创建日程，如「下周三下午两点和张经理开会」）、AI 会议预约（自动预订会议室）、AI 出差安排（自动整合交通和住宿）。与钉钉深度整合，拥有超 5 亿用户，是中国企业日程管理和协作办公的事实标准。",
+  "category": "ai-office",
+  "subcategory": "schedule",
+  "tags": ["日程管理", "钉钉", "阿里", "AI 排程", "国产"],
+  "website": "https://www.dingtalk.com",
+  "logo": "/logos/dingtalk.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础日程和协作免费",
+    "starting_price": "¥20/人/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 日程", "日历管理", "基础协作"] },
+      { "name": "Pro", "price": "¥20/人/月", "features": ["高级 AI", "更多集成", "企业管理", "专属服务"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 智能排程", "自然语言日程", "AI 会议预约", "AI 出差安排", "团队日历", "多端同步"],
+  "use_cases": ["日程管理", "会议安排", "差旅规划", "团队协作", "时间管理"],
+  "rating": 4.3,
+  "review_count": 32000,
+  "favorites_count": 75000,
+  "alternatives": ["motion", "calendly", "feishu-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

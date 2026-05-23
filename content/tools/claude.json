@@ -1,0 +1,33 @@
+{
+  "slug": "claude",
+  "name": "Claude",
+  "tagline": "Anthropic 出品的 AI 助手，以长上下文和安全对齐著称",
+  "description": "Claude 由 Anthropic 开发，以 Constitutional AI 理念打造，强调安全性和有用性。支持 200K token 超长上下文窗口，可以一次性处理整本书级别的文本。Claude 4 系列在推理、编程和创意写作方面表现优异，Artifacts 功能支持实时预览代码和文档输出。",
+  "category": "ai-writing",
+  "subcategory": "general-writing",
+  "tags": ["对话助手", "写作", "编程", "长上下文", "安全对齐"],
+  "website": "https://claude.ai",
+  "logo": "/logos/claude.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "Claude Sonnet 有限使用",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["Claude Sonnet 有限额", "基础功能"] },
+      { "name": "Pro", "price": "$20/月", "features": ["所有模型更高限额", "Projects 功能", "优先访问"] },
+      { "name": "Team", "price": "$30/人/月", "features": ["团队协作", "更高限额", "管理控制台"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["200K 超长上下文", "Artifacts 实时预览", "代码生成与调试", "多文件处理", "Projects 项目管理"],
+  "use_cases": ["长文档分析", "编程开发", "学术研究", "内容创作", "代码审查"],
+  "rating": 4.8,
+  "review_count": 987,
+  "favorites_count": 7650,
+  "alternatives": ["chatgpt", "gemini", "deepseek"],
+  "related_collections": ["best-ai-chatbots-2026"],
+  "added_date": "2026-01-01",
+  "updated_date": "2026-05-20",
+  "status": "published"
+}

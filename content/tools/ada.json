@@ -1,0 +1,49 @@
+{
+  "slug": "ada",
+  "name": "Ada",
+  "tagline": "企业级 AI 客服自动化平台，无代码搭建智能客服机器人",
+  "description": "Ada 是面向企业的无代码 AI 客服机器人平台。通过拖拽式界面，非技术人员即可搭建能处理复杂问题的客服机器人。支持多语言、多渠道部署（Web、App、Messenger、WhatsApp 等），自动与 CRM 和工单系统集成。",
+  "category": "ai-customer-service",
+  "subcategory": "",
+  "tags": [
+    "客服机器人",
+    "无代码",
+    "多渠道",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://www.ada.cx",
+  "logo": "/logos/ada.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "联系销售",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "无代码搭建",
+    "多语言支持",
+    "多渠道部署",
+    "CRM 集成",
+    "分析仪表盘"
+  ],
+  "use_cases": [
+    "客户服务",
+    "售前咨询",
+    "订单查询",
+    "FAQ 自动化"
+  ],
+  "rating": 4.4,
+  "review_count": 3500,
+  "favorites_count": 5000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

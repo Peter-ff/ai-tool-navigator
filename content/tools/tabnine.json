@@ -1,0 +1,72 @@
+{
+  "slug": "tabnine",
+  "name": "Tabnine",
+  "tagline": "企业级 AI 代码补全，专注代码安全和隐私保护",
+  "description": "Tabnine 是最早的 AI 代码补全工具之一，定位企业市场，强调代码安全和隐私保护。支持私有部署和 IP 合规的模型训练。提供整行补全、全函数生成、代码解释和测试生成等功能。支持 30+ 种 IDE 集成。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": [
+    "代码补全",
+    "企业安全",
+    "私有部署",
+    "商业产品"
+  ],
+  "website": "https://www.tabnine.com",
+  "logo": "/logos/tabnine.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础补全免费",
+    "starting_price": "$12/月",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "免费",
+        "features": [
+          "基础代码补全"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$12/月",
+        "features": [
+          "高级AI补全",
+          "整行和全函数生成"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "定制",
+        "features": [
+          "私有部署",
+          "IP 合规",
+          "团队管理"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "desktop"
+  ],
+  "features": [
+    "整行补全",
+    "全函数生成",
+    "代码解释",
+    "测试生成",
+    "私有部署"
+  ],
+  "use_cases": [
+    "企业开发",
+    "代码补全",
+    "代码审查",
+    "安全优先场景"
+  ],
+  "rating": 4.4,
+  "review_count": 9000,
+  "favorites_count": 13000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mem",
+  "name": "Mem",
+  "tagline": "AI 原生笔记和知识管理，自动整理你的想法让信息不再丢失",
+  "description": "Mem 是 AI 原生的知识管理和笔记工具，理念是「你不整理，AI 帮你整理」。所有笔记自动关联、自动分类、自动生成知识图谱。核心 AI 功能：Mem Chat（基于你所有笔记的 AI 问答，问「我上周关于营销的想法是什么」即可得到精准答案）、Smart Write（AI 辅助写作和建议）、Auto-Organization（自动标记和归档）。支持网页、桌面和移动端无缝同步。",
+  "category": "ai-education",
+  "subcategory": "knowledge-management",
+  "tags": ["知识管理", "笔记", "AI 搜索", "自动整理", "商业产品"],
+  "website": "https://get.mem.ai",
+  "logo": "/logos/mem.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$14.99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["无限笔记", "AI 自动整理", "Mem Chat 基础"] },
+      { "name": "Pro", "price": "$14.99/月", "features": ["无限 AI 功能", "高级搜索", "导出", "优先支持"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 自动笔记关联", "Mem Chat 知识问答", "Smart Write 辅助写作", "自动分类与归档", "知识图谱可视化", "多端无缝同步"],
+  "use_cases": ["个人知识管理", "项目笔记", "研究收集", "灵感记录", "团队知识库"],
+  "rating": 4.4,
+  "review_count": 890,
+  "favorites_count": 3400,
+  "alternatives": ["notion-ai", "obsidian", "reflect"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "wps-ai",
+  "name": "WPS AI",
+  "tagline": "金山办公 AI 助手，深度融入 WPS Office，写文档做 PPT 一句话搞定",
+  "description": "WPS AI 是金山办公推出的 AI 智能助手，深度集成在 WPS Office 套件中（Writer/PPT/PDF/表格）。功能包括：AI 文档生成（一句话生成完整文档/报告）、AI PPT 一键生成、AI 表格公式与数据分析、AI PDF 智能阅读和总结、AI 翻译与润色。WPS 拥有超 5 亿月活用户，WPS AI 为用户带来零门槛的 AI 办公体验。",
+  "category": "ai-office",
+  "subcategory": "doc-processor",
+  "tags": ["办公", "金山", "文档", "PPT 生成", "商业产品"],
+  "website": "https://ai.wps.cn",
+  "logo": "/logos/wps.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础 AI 功能免费",
+    "starting_price": "¥59/年",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础 AI 写稿", "AI 校对"] },
+      { "name": "WPS AI Pro", "price": "¥59/年", "features": ["无限 AI 生成", "AI PPT", "AI 数据分析", "高级润色"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 文档生成", "AI PPT 一键制作", "AI 表格分析", "AI PDF 阅读", "AI 翻译润色", "多端同步"],
+  "use_cases": ["办公文档", "报告撰写", "PPT 制作", "数据分析", "合同审阅"],
+  "rating": 4.5,
+  "review_count": 18000,
+  "favorites_count": 42000,
+  "alternatives": ["notion-ai", "gamma", "gemini"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

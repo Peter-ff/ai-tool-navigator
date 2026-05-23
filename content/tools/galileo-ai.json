@@ -1,0 +1,47 @@
+{
+  "name": "Galileo AI",
+  "tagline": "AI UI 设计生成，从文字描述到高保真界面",
+  "description": "Galileo AI 是专为 UI/UX 设计师打造的 AI 工具。用户通过文字描述想要的界面，AI 在几秒内生成高保真设计稿。支持生成完整的 App 页面和 Web 界面，可直接导入 Figma 继续编辑。极大提升了设计效率。",
+  "category": "ai-design",
+  "tags": [
+    "UI 设计",
+    "UX",
+    "Figma",
+    "界面生成",
+    "商业产品"
+  ],
+  "website": "https://www.usegalileo.ai",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文字生 UI",
+    "高保真设计",
+    "Figma 导入",
+    "组件生成",
+    "多屏适配"
+  ],
+  "use_cases": [
+    "UI 设计",
+    "原型制作",
+    "App 设计",
+    "网页设计"
+  ],
+  "rating": 4.3,
+  "review_count": 4000,
+  "favorites_count": 7000,
+  "status": "published",
+  "slug": "galileo-ai",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费试用",
+    "starting_price": "$16/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

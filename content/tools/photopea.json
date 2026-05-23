@@ -1,0 +1,32 @@
+{
+  "slug": "photopea",
+  "name": "Photopea",
+  "tagline": "免费在线图像编辑器，AI 抠图/修图，Photoshop 最佳免费替代品",
+  "description": "Photopea 是完全免费的在线图像编辑工具，被称为 Photoshop 的最佳免费替代品。虽然本身不是纯 AI 工具，但已集成 AI 功能：AI 背景移除（一键抠图）、AI 智能选择（自动识别物体轮廓）、AI 图像扩展（智能填充边缘）、AI 风格迁移滤镜。支持 PSD、AI、Sketch、XD、SVG、RAW 等几乎所有图像格式。基于浏览器运行，界面与 Photoshop 高度一致。全球月活用户超 3000 万。",
+  "category": "ai-design",
+  "subcategory": "graphic-design",
+  "tags": ["图像编辑", "在线", "免费", "PSD", "设计"],
+  "website": "https://www.photopea.com",
+  "logo": "/logos/photopea.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基本功能免费",
+    "starting_price": "$5/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 抠图", "图像编辑", "PSD 支持", "有广告"] },
+      { "name": "Premium", "price": "$5/月", "features": ["无广告", "更多 AI 功能", "更多历史记录"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 背景移除", "AI 智能选择", "AI 图像扩展", "PSD 完整支持", "全格式兼容", "在线免安装"],
+  "use_cases": ["图像编辑", "设计改稿", "格式转换", "UI 切图", "日常修图"],
+  "rating": 4.7,
+  "review_count": 18000,
+  "favorites_count": 42000,
+  "alternatives": ["canva", "gaoding", "photoshop"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

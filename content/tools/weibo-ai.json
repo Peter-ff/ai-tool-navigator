@@ -1,0 +1,32 @@
+{
+  "slug": "weibo-ai",
+  "name": "微博AI助手",
+  "tagline": "微博 AI 内容创作工具，AI 写作/配图/话题推荐，社交运营效率翻倍",
+  "description": "微博AI助手是新浪微博推出的 AI 社媒内容创作工具，帮助博主和运营人员高效产出微博内容。AI 功能包括：AI 微博文案生成（根据主题自动生成微博正文）、AI 热门话题推荐（基于实时热搜推荐贴合主题的话题标签）、AI 配图生成（根据文案自动生成匹配的配图）、AI 互动回复（智能回复粉丝评论）。深度整合微博数据，了解微博平台的流量规律和用户偏好。",
+  "category": "ai-marketing",
+  "subcategory": "social-media",
+  "tags": ["社交媒体", "微博", "AI 写作", "运营", "国产"],
+  "website": "https://ai.weibo.com",
+  "logo": "/logos/weiboai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础功能免费",
+    "starting_price": "¥19.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 文案", "基础配图", "话题推荐"] },
+      { "name": "Pro", "price": "¥19.9/月", "features": ["高级 AI", "批量生成", "数据分析", "定时发布"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 微博文案生成", "AI 话题推荐", "AI 配图生成", "AI 评论回复", "流量规律分析", "定时发布"],
+  "use_cases": ["微博运营", "自媒体", "品牌宣传", "话题营销", "粉丝互动"],
+  "rating": 4.1,
+  "review_count": 3200,
+  "favorites_count": 7000,
+  "alternatives": ["buffer-ai", "hootsuite", "chatgpt"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

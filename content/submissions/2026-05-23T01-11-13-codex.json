@@ -1,0 +1,10 @@
+{
+  "slug": "codex",
+  "name": "Codex",
+  "website": "https://openai.com/zh-Hans-CN/index/codex-for-almost-everything/",
+  "tagline": "123",
+  "category": "AI 写作",
+  "description": "Codex 不仅能与你并肩操作电脑，还能深度集成更多日常工具与应用。它现在具备了生成图像、记住个性化偏好、从历史操作中学习的能力，并能胜任各类持续性、重复性的任务。此外，Codex 应用进一步深化了对开发者工作流的支持，涵盖了 PR 审查、多文件及终端视图查看、通过 SSH 连接远程开发机 (Devbox) 等核心场景。内置的应用程序浏览器更能助力开发者在前端设计、应用及游戏开发中实现更快速的迭代升级。",
+  "submitted_at": "2026-05-23T01:11:13.212Z",
+  "status": "published"
+}

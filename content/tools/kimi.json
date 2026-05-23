@@ -1,0 +1,32 @@
+{
+  "slug": "kimi",
+  "name": "Kimi",
+  "tagline": "月之暗面出品的长文本 AI 助手，支持 200 万字上下文，联网搜索 + 深度推理",
+  "description": "Kimi 是月之暗面（Moonshot AI）推出的 AI 对话助手，以超长上下文窗口（200 万字）为核心优势，可一次性处理整本书、完整财报或技术文档。功能包括：联网搜索（实时获取最新信息）、Kimi+ 智能体生态、文档解析（PDF/Word/PPT 一键总结）、深度推理模式、浏览器插件。月活用户超 2000 万，是国产 AI 助手中国内最受欢迎的产品之一。",
+  "category": "ai-writing",
+  "subcategory": "general-writing",
+  "tags": ["长文本", "AI 对话", "联网搜索", "文档解析", "免费增值"],
+  "website": "https://kimi.moonshot.cn",
+  "logo": "/logos/kimi.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费使用，基础模型无限次",
+    "starting_price": "¥49.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础模型", "联网搜索", "文档解析", "200 万字上下文"] },
+      { "name": "Pro", "price": "¥49.9/月", "features": ["优先响应", "高级模型", "更长输出", "专属客服"] }
+    ]
+  },
+  "platforms": ["web", "mobile", "browser-extension"],
+  "features": ["200 万字超长上下文", "联网实时搜索", "多文件格式解析", "Kimi+ 智能体", "深度推理", "浏览器插件"],
+  "use_cases": ["长文档分析", "学术研究", "编程辅助", "日常写作", "信息搜索"],
+  "rating": 4.6,
+  "review_count": 15000,
+  "favorites_count": 32000,
+  "alternatives": ["chatgpt", "claude", "deepseek"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

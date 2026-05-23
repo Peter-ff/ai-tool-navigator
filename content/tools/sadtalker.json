@@ -1,0 +1,30 @@
+{
+  "slug": "sadtalker",
+  "name": "SadTalker",
+  "tagline": "开源 AI 数字人说话视频生成，一张照片+一段音频即可生成逼真说话视频",
+  "description": "SadTalker 是开源的 AI 数字人视频生成项目（GitHub 10k+ Stars），可从一张静态人像照片和一段音频自动生成逼真的人物说话视频。AI 自动生成自然的头部运动、面部表情和口型同步。基于 3D 可变形模型（3DMM）和音频驱动面部动画技术。完全免费开源，支持本地部署和云端运行。虽不如商业产品精致，但作为研究级开源方案，是目前最知名的免费数字人工具之一。",
+  "category": "ai-video",
+  "subcategory": "digital-human",
+  "tags": ["数字人", "开源", "免费", "音频驱动", "面部动画"],
+  "website": "https://github.com/OpenTalker/SadTalker",
+  "logo": "/logos/sadtalker.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "完全免费开源",
+    "plans": [
+      { "name": "Self-hosted", "price": "免费", "features": ["本地部署", "无限生成", "所有功能", "社区支持"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["AI 照片转说话视频", "音频驱动口型", "自然头部运动", "3D 面部建模", "完全开源", "本地部署"],
+  "use_cases": ["数字人实验", "学术研究", "创意视频", "虚拟主播", "AI 学习"],
+  "rating": 4.2,
+  "review_count": 800,
+  "favorites_count": 3500,
+  "alternatives": ["heygen", "tencent-zhizhi", "synthesia"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

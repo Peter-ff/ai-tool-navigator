@@ -1,0 +1,47 @@
+{
+  "slug": "adcreative-ai",
+  "name": "AdCreative AI",
+  "tagline": "AI 广告创意生成，批量产出高转化率的广告素材",
+  "description": "AdCreative AI 是专注广告创意素材生成的 AI 平台。能批量生成符合各平台尺寸要求的广告图片、文案和短视频，支持品牌统一风格和 A/B 测试。与 Facebook、Google、Instagram 等广告平台直接对接，一键投放。",
+  "category": "ai-marketing",
+  "subcategory": "",
+  "tags": [
+    "广告创意",
+    "AI 生成",
+    "社交媒体",
+    "商业产品"
+  ],
+  "website": "https://www.adcreative.ai",
+  "logo": "/logos/adcreative-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$29/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "批量创意生成",
+    "多平台尺寸",
+    "品牌风格统一",
+    "A/B 测试",
+    "广告平台对接"
+  ],
+  "use_cases": [
+    "广告投放",
+    "创意测试",
+    "社媒运营",
+    "品牌推广"
+  ],
+  "rating": 4.4,
+  "review_count": 4000,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

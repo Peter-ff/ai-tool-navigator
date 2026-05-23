@@ -1,0 +1,32 @@
+{
+  "slug": "biaoxiaozhi",
+  "name": "标小智",
+  "tagline": "国产 AI Logo 生成器，输入品牌名一键生成专业 Logo，支持商用授权",
+  "description": "标小智是国内领先的 AI Logo 在线生成平台，用户只需输入品牌名称、行业和风格偏好，AI 即可生成数百个 Logo 方案供选择。支持中英文品牌名，对中国品牌视觉风格（国潮、简约、科技、餐饮等）有深度优化。提供 Logo 编辑器可对生成结果进行微调，支持下载高清矢量文件。价格亲民，购买后即获得完整商用授权，特别适合创业公司、个体商户和自媒体。",
+  "category": "ai-design",
+  "subcategory": "logo-generator",
+  "tags": ["Logo 生成", "品牌设计", "AI 设计", "商用授权", "国产"],
+  "website": "https://www.biaoxiaozhi.com",
+  "logo": "/logos/biaoxiaozhi.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费生成和预览 Logo",
+    "starting_price": "¥68/个",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 生成 Logo", "在线预览", "低清水印版"] },
+      { "name": "Buy", "price": "¥68/个", "features": ["高清源文件", "矢量格式", "品牌 VI 套件", "商用授权"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 智能 Logo 生成", "中英文品牌名优化", "多种风格模板", "在线编辑器", "高清矢量下载", "商用授权"],
+  "use_cases": ["创业品牌", "Logo 设计", "商标注册", "自媒体品牌", "产品 Logo"],
+  "rating": 4.5,
+  "review_count": 9500,
+  "favorites_count": 18000,
+  "alternatives": ["looka", "canva", "hatchful"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

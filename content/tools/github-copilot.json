@@ -1,0 +1,33 @@
+{
+  "slug": "github-copilot",
+  "name": "GitHub Copilot",
+  "tagline": "GitHub 出品的 AI 编程助手，深度集成开发环境",
+  "description": "GitHub Copilot 是微软/GitHub 推出的 AI 编程助手，深度集成在 VS Code、JetBrains、Neovim 等主流 IDE 中。基于 OpenAI Codex 模型，能根据注释和上下文自动生成代码。2025 年推出的 Copilot Workspace 和 Agent 模式支持全流程开发辅助，从需求理解到代码生成、测试、部署一气呵成。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": ["代码补全", "AI 编程", "IDE 插件", "微软", "商业产品"],
+  "website": "https://github.com/features/copilot",
+  "logo": "/logos/github-copilot.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "2000 次补全/月（免费版）",
+    "starting_price": "$10/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["2000 次补全/月", "基础功能"] },
+      { "name": "Individual", "price": "$10/月", "features": ["无限补全", "Agent 模式", "Workspace"] },
+      { "name": "Business", "price": "$19/人/月", "features": ["团队管理", "策略控制", "代码审查集成"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["智能代码补全", "Copilot Chat", "Agent 自主编程", "Workspace 全流程", "PR 描述生成", "代码审查辅助"],
+  "use_cases": ["日常编码", "代码生成", "Bug 修复", "测试编写", "代码审查"],
+  "rating": 4.6,
+  "review_count": 4100,
+  "favorites_count": 21000,
+  "alternatives": ["cursor", "windsurf", "cline", "codeium"],
+  "related_collections": ["best-ai-coding-tools-2026"],
+  "added_date": "2026-01-07",
+  "updated_date": "2026-05-20",
+  "status": "published"
+}

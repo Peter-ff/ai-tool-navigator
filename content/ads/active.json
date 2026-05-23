@@ -1,0 +1,21 @@
+{
+  "topBanner": {
+    "enabled": true,
+    "toolSlug": "chatgpt",
+    "text": "2026 年最受欢迎的 AI 助手，写文章、写代码、学外语样样精通",
+    "ctaText": "去看看"
+  },
+  "sidebar": {
+    "enabled": true,
+    "tools": [
+      { "slug": "cursor", "text": "AI 编程利器，开发者首选" },
+      { "slug": "midjourney", "text": "最强 AI 绘画工具，创意无限" }
+    ]
+  },
+  "featuredTools": ["chatgpt", "claude", "midjourney", "cursor"],
+  "thirdParty": {
+    "topBanner": "",
+    "sidebar": "",
+    "inFeed": ""
+  }
+}

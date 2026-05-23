@@ -1,0 +1,58 @@
+{
+  "slug": "deepseek",
+  "name": "DeepSeek",
+  "tagline": "国产开源大模型，性能比肩 GPT-4o，免费使用",
+  "description": "DeepSeek 由深度求索公司开发，是国内最具影响力的开源大模型之一。DeepSeek-V3 在多个基准测试中达到 GPT-4o 水平，训练成本仅为同类模型的 1/10。支持 128K 上下文，擅长编程、数学推理和中文理解。提供 Web 端、App 端免费使用，同时开源模型权重供开发者本地部署。2025 年初因高性价比引发全球关注。",
+  "category": "ai-writing",
+  "subcategory": "general-writing",
+  "tags": [
+    "对话助手",
+    "开源",
+    "免费",
+    "编程",
+    "国产"
+  ],
+  "website": "https://chat.deepseek.com",
+  "logo": "/logos/deepseek.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "Web/App 端完全免费，API 按量计费极低",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "128K 上下文",
+    "深度思考模式 (R1)",
+    "联网搜索",
+    "文件上传",
+    "开源可部署",
+    "API 极低价"
+  ],
+  "use_cases": [
+    "编程开发",
+    "学术研究",
+    "中文写作",
+    "数学推理",
+    "本地部署"
+  ],
+  "rating": 4.6,
+  "review_count": 2100,
+  "favorites_count": 11200,
+  "alternatives": [
+    "chatgpt",
+    "claude",
+    "kimi",
+    "qwen"
+  ],
+  "related_collections": [
+    "best-free-ai-tools-2026",
+    "best-ai-chatbots-2026"
+  ],
+  "added_date": "2026-01-05",
+  "updated_date": "2026-05-20",
+  "status": "published"
+}

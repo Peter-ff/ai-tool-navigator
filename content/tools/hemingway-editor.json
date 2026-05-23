@@ -1,0 +1,48 @@
+{
+  "slug": "hemingway-editor",
+  "name": "Hemingway Editor",
+  "tagline": "让写作更简洁有力的风格编辑器，海明威式写作助手",
+  "description": "Hemingway Editor 是一款专注于写作风格改进的编辑工具。它高亮标记复杂句、被动语态、副词滥用和难读段落，帮助用户写出更清晰、更有力的文字。虽然不是生成式 AI，但结合 AI 分析能力后能精准定位写作问题并提供改进建议。",
+  "category": "ai-writing",
+  "subcategory": "",
+  "tags": [
+    "写作风格",
+    "简洁写作",
+    "可读性",
+    "编辑"
+  ],
+  "website": "https://hemingwayapp.com",
+  "logo": "/logos/hemingway-editor.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "网页版免费",
+    "starting_price": "$19.99",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop"
+  ],
+  "features": [
+    "可读性评分",
+    "复杂句高亮",
+    "被动语态检测",
+    "副词标记",
+    "格式导出"
+  ],
+  "use_cases": [
+    "文章润色",
+    "博客写作",
+    "商务报告",
+    "英文写作"
+  ],
+  "rating": 4.4,
+  "review_count": 6000,
+  "favorites_count": 8000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

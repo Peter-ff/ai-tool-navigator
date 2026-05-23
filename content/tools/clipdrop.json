@@ -1,0 +1,49 @@
+{
+  "slug": "clipdrop",
+  "name": "Clipdrop",
+  "tagline": "AI 图像编辑工具套件，由 Stability AI 提供支持",
+  "description": "Clipdrop 是 Stability AI 推出的 AI 图像处理工具集，功能涵盖背景删除、物体移除、图像放大、光线重打、文字移除等。使用简单直观，无需设计经验。已被 Jasper 收购，但独立产品仍然运营良好。",
+  "category": "ai-image",
+  "subcategory": "image-editing",
+  "tags": [
+    "图像编辑",
+    "背景处理",
+    "AI 工具集",
+    "商业产品"
+  ],
+  "website": "https://clipdrop.co",
+  "logo": "/logos/clipdrop.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费使用",
+    "starting_price": "$9/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "背景删除",
+    "物体移除",
+    "图像超分",
+    "光线重打",
+    "文字移除",
+    "素描生成"
+  ],
+  "use_cases": [
+    "电商修图",
+    "照片编辑",
+    "产品摄影",
+    "社交媒体"
+  ],
+  "rating": 4.6,
+  "review_count": 8000,
+  "favorites_count": 12000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "speak",
+  "name": "Speak",
+  "tagline": "AI 口语学习应用，与 AI 进行沉浸式对话练习",
+  "description": "Speak 是 AI 驱动的语言学习应用，专注于口语能力提升。通过 AI 对话引擎，用户可以与 AI 进行真实场景的口语对话练习。AI 提供实时发音反馈、语法纠正和流利度评分。支持英语和韩语，在韩国和日本市场增长迅猛。",
+  "category": "ai-education",
+  "subcategory": "",
+  "tags": [
+    "语言学习",
+    "AI 对话",
+    "口语",
+    "商业产品"
+  ],
+  "website": "https://www.speak.com",
+  "logo": "/logos/speak.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础课程免费",
+    "starting_price": "$14.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "AI 对话练习",
+    "实时发音反馈",
+    "语法纠正",
+    "流利度评分",
+    "场景化学习"
+  ],
+  "use_cases": [
+    "英语口语",
+    "面试准备",
+    "商务对话",
+    "日常交流"
+  ],
+  "rating": 4.7,
+  "review_count": 8000,
+  "favorites_count": 12000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

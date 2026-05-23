@@ -1,0 +1,49 @@
+{
+  "slug": "lalalai",
+  "name": "LALAL.AI",
+  "tagline": "AI 音轨分离工具，从任何歌曲中提取人声和乐器",
+  "description": "LALAL.AI 是专业的 AI 音轨分离工具，可以精准地从音乐中分离人声和伴奏，或分离出鼓、贝斯、钢琴等独立乐器轨道。使用先进的神经网络技术，分离质量在同类产品中名列前茅。DJ、音乐制作人和卡拉 OK 爱好者的必备工具。",
+  "category": "ai-audio",
+  "subcategory": "audio-editing",
+  "tags": [
+    "音轨分离",
+    "人声提取",
+    "音乐制作",
+    "AI 音频",
+    "商业产品"
+  ],
+  "website": "https://www.lalal.ai",
+  "logo": "/logos/lalalai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "10 分钟免费处理",
+    "starting_price": "$15/次",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop"
+  ],
+  "features": [
+    "人声伴奏分离",
+    "多乐器分离",
+    "高精度算法",
+    "批量处理",
+    "多格式导出"
+  ],
+  "use_cases": [
+    "音乐制作",
+    "卡拉OK",
+    "Remix",
+    "采样提取"
+  ],
+  "rating": 4.5,
+  "review_count": 7000,
+  "favorites_count": 10000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

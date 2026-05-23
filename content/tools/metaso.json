@@ -1,0 +1,32 @@
+{
+  "slug": "metaso",
+  "name": "秘塔AI",
+  "tagline": "国产 AI 搜索引擎，无广告直达答案，学术搜索和深度研究利器",
+  "description": "秘塔AI（Metaso/秘塔科技）是国内领先的 AI 搜索引擎和知识管理工具。功能包括：无广告 AI 搜索（直接给出结构化答案而非链接列表）、学术搜索（精确检索论文和学术资料）、文库（AI 知识库自动整理）、播客生成。没有竞价排名，结果纯净，支持追问和深度研究模式。被称为中国版 Perplexity，是知识工作者和研究人员的高效工具。",
+  "category": "ai-education",
+  "subcategory": "knowledge-management",
+  "tags": ["AI 搜索", "学术", "知识管理", "国产", "商业产品"],
+  "website": "https://metaso.cn",
+  "logo": "/logos/metaso.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础搜索免费使用",
+    "starting_price": "¥29/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 搜索", "基础回答", "文库"] },
+      { "name": "Pro", "price": "¥29/月", "features": ["深度研究", "更大上下文", "优先联网", "去广告"] }
+    ]
+  },
+  "platforms": ["web", "mobile", "browser-extension"],
+  "features": ["AI 无广告搜索", "学术论文检索", "结构化答案", "追问与深度研究", "AI 知识库整理", "播客生成"],
+  "use_cases": ["学术研究", "行业调研", "信息搜索", "知识整理", "竞争分析"],
+  "rating": 4.7,
+  "review_count": 9600,
+  "favorites_count": 21000,
+  "alternatives": ["perplexity", "chatgpt", "kimi"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

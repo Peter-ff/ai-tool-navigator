@@ -1,0 +1,47 @@
+{
+  "slug": "augment-code",
+  "name": "Augment Code",
+  "tagline": "企业级 AI 编程平台，理解百万行代码库全局上下文",
+  "description": "Augment Code 是面向专业开发者的 AI 编程助手，主打对大型代码库的深度理解。支持百万行级别的代码上下文分析，提供精准的补全建议和重构方案。由前 Google Brain 和 Stripe 工程师联合创立。",
+  "category": "ai-coding",
+  "subcategory": "",
+  "tags": [
+    "AI 编程",
+    "企业",
+    "大型代码库",
+    "商业产品"
+  ],
+  "website": "https://www.augmentcode.com",
+  "logo": "/logos/augment-code.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$30/月",
+    "plans": []
+  },
+  "platforms": [
+    "desktop"
+  ],
+  "features": [
+    "超长上下文",
+    "智能补全",
+    "代码重构",
+    "团队协作",
+    "安全优先"
+  ],
+  "use_cases": [
+    "企业开发",
+    "大型项目",
+    "代码维护",
+    "技术债管理"
+  ],
+  "rating": 4.4,
+  "review_count": 3000,
+  "favorites_count": 5000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

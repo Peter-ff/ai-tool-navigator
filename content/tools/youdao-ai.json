@@ -1,0 +1,32 @@
+{
+  "slug": "youdao-ai",
+  "name": "有道AI",
+  "tagline": "网易有道 AI 学习平台，AI 翻译/口语练习/作文批改，语言学习一站式",
+  "description": "有道AI 是网易有道推出的 AI 语言学习平台，依托有道翻译和词典的深厚积累。AI 功能包括：AI 翻译（支持 100+ 语言，文档/图片/语音翻译）、AI 口语陪练（跟 AI 进行沉浸式英语对话练习，实时纠音和语法建议）、AI 作文批改（英语和语文作文智能评分和修改建议）、AI 单词记忆（个性化词汇学习方案）。有道词典累计用户超 9 亿，是国内最主流的语言学习工具之一。",
+  "category": "ai-education",
+  "subcategory": "language-learning",
+  "tags": ["语言学习", "网易有道", "AI 翻译", "口语练习", "国产"],
+  "website": "https://ai.youdao.com",
+  "logo": "/logos/youdao.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础翻译和词典免费",
+    "starting_price": "¥29/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 翻译", "词典", "单词记忆"] },
+      { "name": "VIP", "price": "¥29/月", "features": ["AI 口语陪练", "AI 作文批改", "离线翻译", "无广告"] }
+    ]
+  },
+  "platforms": ["web", "mobile", "desktop"],
+  "features": ["AI 多语言翻译", "AI 口语陪练", "AI 作文批改", "AI 单词记忆", "实时纠音语法", "100+ 语言支持"],
+  "use_cases": ["英语学习", "翻译工作", "口语练习", "作文批改", "留学备考"],
+  "rating": 4.6,
+  "review_count": 28000,
+  "favorites_count": 59000,
+  "alternatives": ["duolingo-max", "grammarly", "memrise"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

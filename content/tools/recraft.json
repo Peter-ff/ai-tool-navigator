@@ -1,0 +1,47 @@
+{
+  "name": "Recraft",
+  "tagline": "AI 矢量图形生成，支持 SVG 和品牌风格统一",
+  "description": "Recraft 是首个能生成矢量图形（SVG）的 AI 设计工具。用户可创建品牌风格库，AI 确保所有生成的设计保持品牌一致性。支持图标、插画、LOGO 等多种格式，生成的 SVG 可直接用于产品开发。在设计师群体中口碑极佳。",
+  "category": "ai-design",
+  "tags": [
+    "矢量图形",
+    "SVG",
+    "品牌设计",
+    "UI 设计",
+    "商业产品"
+  ],
+  "website": "https://www.recraft.ai",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "矢量生成",
+    "品牌风格",
+    "SVG 导出",
+    "图标生成",
+    "插画创作"
+  ],
+  "use_cases": [
+    "LOGO 设计",
+    "图标制作",
+    "品牌素材",
+    "UI 资源"
+  ],
+  "rating": 4.5,
+  "review_count": 5000,
+  "favorites_count": 8000,
+  "status": "published",
+  "slug": "recraft",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费额度有限",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

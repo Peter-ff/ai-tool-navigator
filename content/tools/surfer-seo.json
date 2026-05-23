@@ -1,0 +1,32 @@
+{
+  "slug": "surfer-seo",
+  "name": "Surfer SEO",
+  "tagline": "AI 内容优化和 SEO 写作平台，基于 SERP 数据驱动内容策略",
+  "description": "Surfer SEO 是面向内容创作者和 SEO 专业人士的 AI 优化平台。核心功能通过分析 Google 排名前 50 的页面数据，给出精确的内容优化建议：关键词密度、文章结构、字数、图片数量、标题等。内置 AI 写作助手可根据优化框架生成 SEO 友好的文章。2025 年推出的 Auto-Optimize 功能可自动对已发布内容进行排名优化，无需手动编辑。",
+  "category": "ai-marketing",
+  "subcategory": "seo",
+  "tags": ["SEO 优化", "内容策略", "AI 写作", "数据分析", "商业产品"],
+  "website": "https://surferseo.com",
+  "logo": "/logos/surfer-seo.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$89/月",
+    "plans": [
+      { "name": "Essential", "price": "$89/月", "features": ["180 篇文章/年", "基础优化", "AI 写作"] },
+      { "name": "Scale", "price": "$199/月", "features": ["540 篇文章/年", "Audit 审计", "Auto-Optimize"] },
+      { "name": "Enterprise", "price": "定制", "features": ["无限文章", "API 访问", "白标报告"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["SERP 数据分析", "AI 内容编辑器", "关键词密度优化", "文章结构建议", "自动排名优化", "竞品分析"],
+  "use_cases": ["博客 SEO 优化", "内容策略制定", "关键词研究", "竞品分析", "排名提升"],
+  "rating": 4.5,
+  "review_count": 2800,
+  "favorites_count": 6300,
+  "alternatives": ["ahrefs", "semrush", "clearscope"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

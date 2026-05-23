@@ -1,0 +1,53 @@
+{
+  "slug": "adobe-podcast",
+  "name": "Adobe Podcast",
+  "tagline": "专业级 AI 音频处理，一键降噪增强让任何录音听起来像录音棚品质",
+  "description": "Adobe Podcast 是 Adobe 推出的免费 AI 音频处理工具，核心功能 Enhance Speech 可将任何环境下的录音一键优化为录音棚品质——消除背景噪音、增强人声清晰度、调整音量和均衡。无需任何音频处理经验，上传音频即可获得专业效果。还提供 Mic Check（检测录音环境质量问题）、AI 转录和编辑功能，被播客创作者和视频创作者广泛使用。",
+  "category": "ai-audio",
+  "subcategory": "audio-editing",
+  "tags": [
+    "音频编辑",
+    "降噪",
+    "播客",
+    "AI 处理",
+    "免费"
+  ],
+  "website": "https://podcast.adobe.com",
+  "logo": "/logos/adobe-podcast.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "完全免费使用",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 一键降噪增强",
+    "录音棚品质人声",
+    "Mic Check 环境检测",
+    "AI 音频转录",
+    "多轨道编辑",
+    "完全免费"
+  ],
+  "use_cases": [
+    "播客后期",
+    "视频配音处理",
+    "在线会议录音",
+    "采访音频清理",
+    "有声内容制作"
+  ],
+  "rating": 4.5,
+  "review_count": 2300,
+  "favorites_count": 6200,
+  "alternatives": [
+    "auphonic",
+    "descript",
+    "cleanvoice"
+  ],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

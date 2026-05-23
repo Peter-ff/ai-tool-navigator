@@ -1,0 +1,33 @@
+{
+  "slug": "gamma",
+  "name": "Gamma",
+  "tagline": "AI 驱动的演示文稿和文档生成工具，一句话生成精美 PPT",
+  "description": "Gamma 是新一代 AI 演示工具，颠覆了传统的 PPT 制作方式。用户只需输入一句话主题或导入已有文档，Gamma 即可自动生成结构清晰、设计精美的演示文稿、文档或网页。内置 AI 图像生成、智能排版、实时协作等功能，大幅降低内容创建的耗时。支持导出为 PPTX 和 PDF 格式。",
+  "category": "ai-office",
+  "subcategory": "ppt-generator",
+  "tags": ["PPT 生成", "演示文稿", "文档", "商业产品"],
+  "website": "https://gamma.app",
+  "logo": "/logos/gamma.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "400 AI 积分，基础模板",
+    "starting_price": "$10/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["400 AI 积分", "基础模板", "Gamma 水印"] },
+      { "name": "Plus", "price": "$10/月", "features": ["无限 AI 生成", "去水印", "高级模板", "导出 PPTX"] },
+      { "name": "Pro", "price": "$20/月", "features": ["自定义域名", "高级分析", "无限上传", "优先支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["一句话生成 PPT", "AI 智能排版", "AI 图像生成", "实时协作", "PPTX/PDF 导出", "分析追踪"],
+  "use_cases": ["商业演示", "课程课件", "项目汇报", "产品介绍", "个人主页"],
+  "rating": 4.6,
+  "review_count": 890,
+  "favorites_count": 5400,
+  "alternatives": ["beautiful-ai", "tome", "decktopus"],
+  "related_collections": ["best-ai-office-tools-2026"],
+  "added_date": "2026-01-04",
+  "updated_date": "2026-05-15",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "wanderboat",
+  "name": "Wanderboat",
+  "tagline": "AI 旅行规划师，输入喜好即刻生成个性化旅行方案",
+  "description": "Wanderboat 是 AI 驱动的旅行规划工具，用户只需输入目的地、旅行天数、预算和偏好风格（美食、户外、文化、亲子等），AI 即刻生成详细的每日行程安排——包含景点路线、餐厅推荐、交通方式、天气建议和预算预估。支持实时调整（「我想多花时间在海边」）、多人协作规划、离线行程查看。整合 Google Maps 实时交通数据和 TripAdvisor 评价数据，确保推荐准确可行。",
+  "category": "ai-lifestyle",
+  "subcategory": "travel",
+  "tags": ["旅行规划", "AI 推荐", "行程安排", "协作", "免费增值"],
+  "website": "https://wanderboat.ai",
+  "logo": "/logos/wanderboat.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础行程规划",
+    "starting_price": "$9.99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础行程", "手动调整", "离线查看"] },
+      { "name": "Pro", "price": "$9.99/月", "features": ["无限行程", "AI 实时调整", "多人协作", "导出 PDF"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 每日行程生成", "个性化偏好匹配", "实时行程调整", "多人协作规划", "地图集成", "预算预估"],
+  "use_cases": ["旅行规划", "周末出游", "蜜月行程", "家庭旅行", "商务出差"],
+  "rating": 4.3,
+  "review_count": 560,
+  "favorites_count": 2100,
+  "alternatives": ["tripadvisor", "google-travel", "kayak"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

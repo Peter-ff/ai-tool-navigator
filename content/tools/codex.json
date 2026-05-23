@@ -1,0 +1,32 @@
+{
+  "slug": "codex",
+  "name": "Codex",
+  "tagline": "OpenAI 推出的 AI 代理，可操控电脑、深度集成开发工具与日常应用",
+  "description": "Codex 不仅能与你并肩操作电脑，还能深度集成更多日常工具与应用。它现在具备了生成图像、记住个性化偏好、从历史操作中学习的能力，并能胜任各类持续性、重复性的任务。此外，Codex 应用进一步深化了对开发者工作流的支持，涵盖了 PR 审查、多文件及终端视图查看、通过 SSH 连接远程开发机 (Devbox) 等核心场景。内置的应用程序浏览器更能助力开发者在前端设计、应用及游戏开发中实现更快速的迭代升级。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": ["AI 编程", "代码助手", "AI 代理", "自动化", "商业产品"],
+  "website": "https://openai.com/zh-Hans-CN/index/codex-for-almost-everything/",
+  "logo": "/logos/codex.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "有限免费试用",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["有限次数的交互", "基础功能"] },
+      { "name": "Pro", "price": "$20/月", "features": ["无限交互", "高级功能", "优先访问"] }
+    ]
+  },
+  "platforms": ["desktop", "web"],
+  "features": ["操控电脑执行任务", "PR 审查", "多文件及终端视图", "SSH 远程开发", "图像生成", "个性化偏好记忆", "应用浏览器快速迭代"],
+  "use_cases": ["日常编程", "代码审查", "前端设计", "游戏开发", "自动化任务"],
+  "rating": 4.5,
+  "review_count": 1280,
+  "favorites_count": 5600,
+  "alternatives": ["cursor", "github-copilot", "claude"],
+  "related_collections": ["best-ai-coding-tools-2026"],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ishidesign-ppt",
+  "name": "iSlide AI",
+  "tagline": "国产 AI PPT 生成工具，一句话生成专业演示文稿，模板库超百万",
+  "description": "iSlide AI 是国内领先的 PPT 设计和 AI 生成工具，插件内嵌于 PowerPoint 和 WPS。AI 功能包括：AI 一键生成 PPT（输入主题即可生成完整演示文稿）、AI 智能排版（自动优化页面布局和配色）、AI 图标和图片推荐、AI 统一风格（一键统一全 PPT 的设计风格）。拥有超百万高质量 PPT 模板、图标和素材库。是国内职场人做 PPT 的首选效率工具。",
+  "category": "ai-office",
+  "subcategory": "ppt-generator",
+  "tags": ["PPT 生成", "AI 设计", "模板", "演示文稿", "国产"],
+  "website": "https://www.islide.cc",
+  "logo": "/logos/islide.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础模板和 AI 功能免费",
+    "starting_price": "¥99/年",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础模板", "AI 生成基础版", "在线编辑"] },
+      { "name": "VIP", "price": "¥99/年", "features": ["全量模板", "AI 高级生成", "高清导出", "商用授权"] }
+    ]
+  },
+  "platforms": ["web", "desktop"],
+  "features": ["AI 一键生成 PPT", "AI 智能排版", "AI 图标推荐", "风格统一", "百万模板库", "PPT/WPS 插件"],
+  "use_cases": ["工作汇报", "商业提案", "培训课件", "学术演示", "产品介绍"],
+  "rating": 4.4,
+  "review_count": 12000,
+  "favorites_count": 26000,
+  "alternatives": ["gamma", "beautiful-ai", "wps-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

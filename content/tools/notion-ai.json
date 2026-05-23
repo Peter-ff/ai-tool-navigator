@@ -1,0 +1,31 @@
+{
+  "slug": "notion-ai",
+  "name": "Notion AI",
+  "tagline": "内置于 Notion 的 AI 助手，连接你的所有知识进行写作和问答",
+  "description": "Notion AI 深度集成在 Notion 工作空间中，可以直接访问你的文档、数据库和笔记来提供上下文感知的回答。支持 AI 写作、翻译、摘要、问答等多种功能。2025 年推出的 Notion AI 连接器可以对接 Slack、Google Drive、GitHub 等外部数据源，让 AI 真正理解团队的全部知识。",
+  "category": "ai-office",
+  "subcategory": "doc-processor",
+  "tags": ["文档处理", "知识管理", "团队协作", "AI 写作", "商业产品"],
+  "website": "https://notion.so/product/ai",
+  "logo": "/logos/notion-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$10/月（含 Notion Plus）",
+    "plans": [
+      { "name": "Plus + AI", "price": "$10/月", "features": ["无限 AI 使用", "单用户"] },
+      { "name": "Business + AI", "price": "$18/人/月", "features": ["团队 AI 使用", "AI 连接器", "管理控制台"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 写作辅助", "文档问答", "自动翻译", "内容摘要", "AI 连接器（外部数据）", "数据库 AI 分析"],
+  "use_cases": ["团队文档", "知识管理", "项目协作", "会议记录", "内容创作"],
+  "rating": 4.4,
+  "review_count": 1560,
+  "favorites_count": 8700,
+  "alternatives": ["mem", "craft", "anytype"],
+  "related_collections": ["best-ai-office-tools-2026"],
+  "added_date": "2026-01-08",
+  "updated_date": "2026-05-12",
+  "status": "published"
+}

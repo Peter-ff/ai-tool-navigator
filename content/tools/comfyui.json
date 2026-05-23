@@ -1,0 +1,30 @@
+{
+  "slug": "comfyui",
+  "name": "ComfyUI",
+  "tagline": "开源 Stable Diffusion 节点式工作流工具，AI 绘图专业人士的终极选择",
+  "description": "ComfyUI 是开源的 Stable Diffusion 图形化工作流编辑器，采用节点式（Node-based）界面连接 AI 模型和处理步骤。支持加载和串联多种模型（SD、SDXL、ControlNet、LoRA 等），可视化构建从文生图到图生图、高清修复、视频生成的完整流水线。性能极佳（内存优化好、生成速度快），社区庞大，工作流可分享复用。虽然学习曲线略陡，但灵活性和可控性远超任何商业产品。完全免费开源。",
+  "category": "ai-image",
+  "subcategory": "text-to-image",
+  "tags": ["Stable Diffusion", "开源", "节点式", "AI 绘画", "免费"],
+  "website": "https://github.com/comfyanonymous/ComfyUI",
+  "logo": "/logos/comfyui.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "完全免费开源",
+    "plans": [
+      { "name": "Self-hosted", "price": "免费", "features": ["无限生成", "所有功能", "社区工作流", "本地运行"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["节点式工作流", "多模型串联", "文生图/图生图", "ControlNet 支持", "LoRA 热加载", "社区工作流分享"],
+  "use_cases": ["AI 绘画", "专业出图", "模型组合", "批量生成", "视频生成"],
+  "rating": 4.8,
+  "review_count": 6500,
+  "favorites_count": 18000,
+  "alternatives": ["midjourney", "automatic1111", "liblibai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "sleep-cycle",
+  "name": "Sleep Cycle",
+  "tagline": "AI 智能闹钟，在浅睡阶段唤醒你，醒来精力充沛",
+  "description": "Sleep Cycle 是全球下载量最高的智能闹钟应用之一。通过手机传感器分析睡眠周期，AI 在用户处于最浅睡眠阶段时唤醒，减少起床疲惫感。提供详细的睡眠质量报告、打鼾检测和睡前放松指导。帮助数百万人改善睡眠质量。",
+  "category": "ai-lifestyle",
+  "subcategory": "lifestyle",
+  "tags": [
+    "睡眠",
+    "AI 闹钟",
+    "健康",
+    "数据分析",
+    "商业产品"
+  ],
+  "website": "https://www.sleepcycle.com",
+  "logo": "/logos/sleep-cycle.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础闹钟免费",
+    "starting_price": "$29.99/年",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "智能唤醒",
+    "睡眠周期分析",
+    "打鼾检测",
+    "睡前放松",
+    "睡眠报告"
+  ],
+  "use_cases": [
+    "睡眠改善",
+    "作息规律",
+    "健康追踪",
+    "早起辅助"
+  ],
+  "rating": 4.6,
+  "review_count": 20000,
+  "favorites_count": 25000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

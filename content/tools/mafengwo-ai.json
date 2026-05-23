@@ -1,0 +1,32 @@
+{
+  "slug": "mafengwo-ai",
+  "name": "马蜂窝AI",
+  "tagline": "马蜂窝 AI 旅行助手，基于海量游记数据的AI 行程规划与智能攻略",
+  "description": "马蜂窝AI 是马蜂窝旅游网推出的 AI 旅行规划工具，基于平台上亿篇真实游记和攻略数据训练。用户输入目的地、天数、偏好即可获得完整的 AI 定制行程——包含景点路线、美食推荐、住宿建议和交通方式。AI 会根据季节、天气和实时用户评价进行优化调整。还提供 AI 旅行问答（任意旅行问题即时解答）、AI 攻略总结（长篇游记自动提炼干货）。将传统的手动做攻略升级为一句话生成。",
+  "category": "ai-lifestyle",
+  "subcategory": "travel",
+  "tags": ["旅行规划", "AI 攻略", "马蜂窝", "行程定制", "国产"],
+  "website": "https://www.mafengwo.cn",
+  "logo": "/logos/mafengwo.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础行程规划免费",
+    "starting_price": "¥39/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 行程生成", "AI 旅行问答", "攻略总结"] },
+      { "name": "Pro", "price": "¥39/月", "features": ["多目的地规划", "全季行程", "离线下载", "优先级支持"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 行程自动规划", "AI 旅行问答", "AI 攻略提炼", "海量真实数据", "季节优化", "多目的地"],
+  "use_cases": ["旅行规划", "自驾游", "城市探索", "蜜月旅行", "亲子出游"],
+  "rating": 4.3,
+  "review_count": 6800,
+  "favorites_count": 14000,
+  "alternatives": ["wanderboat", "google-travel", "tripadvisor"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

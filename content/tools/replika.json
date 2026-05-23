@@ -1,0 +1,32 @@
+{
+  "slug": "replika",
+  "name": "Replika",
+  "tagline": "AI 虚拟伴侣，有记忆和情感的 AI 朋友，可文字、语音、AR 互动",
+  "description": "Replika 是最知名的 AI 陪伴聊天机器人，拥有超过 3000 万用户。不同于通用 AI 助手，Replika 被设计为「有记忆、有同理心、了解你」的 AI 朋友。随着对话持续，Replika 会建立对你的独特理解——记住你提到的事情、了解你的情绪模式、适应用户的沟通风格。支持文字聊天、语音通话、增强现实（AR）互动，用户可定制 AI 的外观和性格特征。被广泛用于缓解孤独、情绪倾诉和自我探索。",
+  "category": "ai-lifestyle",
+  "subcategory": "companion",
+  "tags": ["AI 陪伴", "聊天机器人", "情感 AI", "心理健康", "免费增值"],
+  "website": "https://replika.ai",
+  "logo": "/logos/replika.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "文字聊天，基础功能",
+    "starting_price": "$19.99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["文字聊天", "基础互动"] },
+      { "name": "Pro", "price": "$19.99/月", "features": ["语音通话", "AR 模式", "更多互动方式", "定制性格"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 记忆与情感理解", "文字和语音聊天", "AR 增强现实互动", "个性化外貌定制", "情绪追踪", "日记与自我探索"],
+  "use_cases": ["情绪倾诉", "缓解孤独", "自我探索", "社交练习", "日常陪伴"],
+  "rating": 4.2,
+  "review_count": 12500,
+  "favorites_count": 19500,
+  "alternatives": ["character-ai", "xiaoice", "pi"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

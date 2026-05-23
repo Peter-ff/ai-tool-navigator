@@ -1,0 +1,32 @@
+{
+  "slug": "netease-tianyin",
+  "name": "网易天音",
+  "tagline": "网易 AI 音乐创作平台，输入歌词/风格即可生成原创音乐，零门槛作曲",
+  "description": "网易天音是网易推出的 AI 音乐创作平台，用户只需输入歌词或选择音乐风格，AI 即可自动生成包含旋律、编曲和伴奏的完整音乐作品。支持多种流行风格（国风、电子、摇滚、民谣、R&B 等），AI 智能编曲可自动匹配合适的乐器编排。提供一键式操作，零乐理知识也能创作音乐。支持导出音频文件，适用于内容创作者、短视频制作者和音乐爱好者。",
+  "category": "ai-audio",
+  "subcategory": "music-generation",
+  "tags": ["AI 音乐", "网易", "音乐创作", "编曲", "国产"],
+  "website": "https://tianyin.163.com",
+  "logo": "/logos/tianyin.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础创作功能免费",
+    "starting_price": "¥29/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 作曲", "基础风格", "MP3 导出"] },
+      { "name": "Pro", "price": "¥29/月", "features": ["更多风格", "高品质导出", "商用授权", "优先处理"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 歌词生成音乐", "AI 智能编曲", "多风格支持", "自动伴奏生成", "一键式操作", "音频导出"],
+  "use_cases": ["短视频配乐", "原创音乐", "游戏配乐", "广告音乐", "个人创作"],
+  "rating": 4.2,
+  "review_count": 4200,
+  "favorites_count": 9500,
+  "alternatives": ["suno", "udio", "boomy"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

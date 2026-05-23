@@ -1,0 +1,31 @@
+{
+  "slug": "logseq",
+  "name": "Logseq",
+  "tagline": "开源双向链接知识库，AI 插件生态丰富，Obsidian 的强有力替代品",
+  "description": "Logseq 是开源的本地优先知识管理和笔记工具，基于双向链接和图谱。虽然不是原生 AI 工具，但拥有活跃的 AI 插件生态：AI 自动摘要（总结长篇笔记）、AI 语义搜索（自然语言搜索知识库）、AI 写作辅助（GPT 集成插件）、AI 知识图谱分析（自动发现笔记间的隐藏联系）。数据完全本地存储（也可同步），支持 Markdown 和 Org-mode，完全免费开源。深受开发者、研究人员和个人知识管理者的喜爱。",
+  "category": "ai-education",
+  "subcategory": "knowledge-management",
+  "tags": ["知识管理", "开源", "免费", "双向链接", "笔记"],
+  "website": "https://logseq.com",
+  "logo": "/logos/logseq.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "完全免费开源",
+    "plans": [
+      { "name": "Self-hosted", "price": "免费", "features": ["无限笔记", "AI 插件", "知识图谱", "本地存储"] },
+      { "name": "Sync", "price": "$5/月", "features": ["设备同步", "在线发布", "优先支持"] }
+    ]
+  },
+  "platforms": ["desktop", "mobile"],
+  "features": ["AI 插件生态", "双向链接", "知识图谱", "本地优先", "Markdown 支持", "完全开源"],
+  "use_cases": ["个人知识管理", "学习笔记", "研究整理", "日记", "项目管理"],
+  "rating": 4.5,
+  "review_count": 4200,
+  "favorites_count": 12000,
+  "alternatives": ["mem", "metaso", "obsidian"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

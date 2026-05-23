@@ -1,0 +1,49 @@
+{
+  "slug": "mint-ai",
+  "name": "Mint AI",
+  "tagline": "AI 个人财务管理，自动记账和智能预算建议",
+  "description": "Mint 是 Intuit 旗下的个人财务管理应用，AI 增强后提供更智能的财务洞察。自动同步银行账户和信用卡，AI 分析消费模式、预测账单和提供省钱建议。是北美最受欢迎的个人理财应用之一。",
+  "category": "ai-lifestyle",
+  "subcategory": "",
+  "tags": [
+    "理财",
+    "记账",
+    "AI 分析",
+    "预算",
+    "免费"
+  ],
+  "website": "https://mint.intuit.com",
+  "logo": "/logos/mint-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "完全免费（广告支持）",
+    "starting_price": "",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "自动记账",
+    "AI 消费分析",
+    "预算建议",
+    "账单提醒",
+    "财务规划"
+  ],
+  "use_cases": [
+    "个人记账",
+    "预算管理",
+    "财务规划",
+    "省钱"
+  ],
+  "rating": 4.5,
+  "review_count": 25000,
+  "favorites_count": 28000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

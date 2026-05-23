@@ -1,0 +1,32 @@
+{
+  "slug": "tencent-coding",
+  "name": "腾讯云Coding",
+  "tagline": "腾讯 DevOps 平台，代码托管 + CI/CD，AI 辅助全流程自动化部署",
+  "description": "腾讯云 Coding 是腾讯推出的云端开发协作和 DevOps 平台。AI 功能包括：AI 代码质量检测、AI 自动构建和部署、AI 故障预测。提供私有 Git 仓库、CI/CD 流水线、制品库、测试管理、项目协同等一站式服务。支持自动部署到腾讯云、腾讯云开发等各种运行环境。与 TAPD（腾讯敏捷协作平台）深度打通，实现需求-开发-测试-部署全链路自动化。",
+  "category": "ai-coding",
+  "subcategory": "deployment",
+  "tags": ["DevOps", "部署", "腾讯", "CI/CD", "国产"],
+  "website": "https://coding.net",
+  "logo": "/logos/coding.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费支持 5 人团队",
+    "starting_price": "¥99/人/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["Git 仓库", "基础 CI/CD", "5 人团队"] },
+      { "name": "Pro", "price": "¥99/人/月", "features": ["AI 检测", "并行构建", "更多容量", "专属支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 代码质量检测", "CI/CD 流水线", "自动部署", "Git 仓库托管", "AI 故障预测", "TAPD 集成"],
+  "use_cases": ["代码部署", "持续集成", "团队协作", "项目管理", "云原生开发"],
+  "rating": 4.4,
+  "review_count": 5800,
+  "favorites_count": 12000,
+  "alternatives": ["vercel", "github-actions", "gitlab-ci"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

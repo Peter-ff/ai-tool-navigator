@@ -1,0 +1,32 @@
+{
+  "slug": "gaoding",
+  "name": "稿定设计",
+  "tagline": "国内领先的 AI 在线设计平台，海量模板 + AI 生成，零基础做专业设计",
+  "description": "稿定设计是国内领先的在线 AI 设计平台，提供海量设计模板和 AI 设计工具。功能包括：AI 海报生成（一句话描述生成海报）、AI 电商设计（主图、详情页、Banner 一键生成）、AI 新媒体设计（小红书/公众号封面）、AI 抠图、视频模板编辑。拥有数百万高质量模板和素材库，用户无需设计基础即可快速产出专业视觉内容。",
+  "category": "ai-design",
+  "subcategory": "graphic-design",
+  "tags": ["在线设计", "模板", "AI 生成", "电商", "商业产品"],
+  "website": "https://www.gaoding.com",
+  "logo": "/logos/gaoding.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础模板和编辑免费",
+    "starting_price": "¥99/年",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础模板", "在线编辑", "低清导出"] },
+      { "name": "VIP", "price": "¥99/年", "features": ["全量模板", "AI 生成", "高清导出", "商用授权"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 海报生成", "AI 电商图设计", "AI 新媒体封面", "AI 智能抠图", "海量模板素材", "在线编辑"],
+  "use_cases": ["电商设计", "社交媒体", "品牌物料", "活动海报", "新媒体运营"],
+  "rating": 4.5,
+  "review_count": 22000,
+  "favorites_count": 40000,
+  "alternatives": ["canva", "looka", "adobe-express"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

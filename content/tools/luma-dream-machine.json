@@ -1,0 +1,47 @@
+{
+  "name": "Luma Dream Machine",
+  "tagline": "AI 视频和 3D 内容生成平台",
+  "description": "Luma AI 的 Dream Machine 是 AI 视频生成领域的重要玩家。用户可以通过文字描述或图片快速生成高质量视频。Luma 还在 3D 捕捉和重建领域有深厚积累，其手机扫描 3D 技术被广泛使用。",
+  "category": "ai-video",
+  "tags": [
+    "AI 视频",
+    "3D 生成",
+    "AI 捕捉",
+    "商业产品"
+  ],
+  "website": "https://lumalabs.ai",
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "AI 视频生成",
+    "图生视频",
+    "3D 捕捉",
+    "NeRF 技术",
+    "高帧率输出"
+  ],
+  "use_cases": [
+    "视频创作",
+    "3D 建模",
+    "产品展示",
+    "空间视频"
+  ],
+  "rating": 4.4,
+  "review_count": 7000,
+  "favorites_count": 12000,
+  "status": "published",
+  "slug": "luma-dream-machine",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费基础使用",
+    "starting_price": "$29.99/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

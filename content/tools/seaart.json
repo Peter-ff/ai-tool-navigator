@@ -1,0 +1,48 @@
+{
+  "slug": "seaart",
+  "name": "SeaArt",
+  "tagline": "国产 AI 绘画平台，海量模型和在线工作流一站搞定",
+  "description": "SeaArt（海艺）是国产 AI 绘画平台的佼佼者，整合了大量 Stable Diffusion 模型和 LoRA，用户无需本地部署即可在线使用。提供文生图、图生图、ControlNet、AI 写真等功能。中文界面友好，在国内 AI 绘画社区拥有广泛用户基础。",
+  "category": "ai-image",
+  "subcategory": "image-generation",
+  "tags": [
+    "AI 绘画",
+    "国产",
+    "在线创作",
+    "社区"
+  ],
+  "website": "https://www.seaart.ai",
+  "logo": "/logos/seaart.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日免费额度",
+    "starting_price": "¥29/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生图",
+    "图生图",
+    "ControlNet",
+    "AI 写真",
+    "海量 LoRA",
+    "在线工作流"
+  ],
+  "use_cases": [
+    "二次元创作",
+    "AI 写真",
+    "角色设计",
+    "数字艺术"
+  ],
+  "rating": 4.3,
+  "review_count": 22000,
+  "favorites_count": 18000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

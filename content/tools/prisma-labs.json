@@ -1,0 +1,32 @@
+{
+  "slug": "prisma-labs",
+  "name": "Prisma",
+  "tagline": "AI 艺术风格滤镜，将照片转化为世界名画风格的艺术作品",
+  "description": "Prisma 是开创性的 AI 风格迁移应用，使用深度学习卷积神经网络技术，将用户照片实时转化为各种艺术风格的图像。提供 700+ 滤镜，涵盖梵高、毕加索、蒙克等大师风格，以及漫画、水彩、油画等艺术形式。采用边缘计算在手机上本地处理，无需联网。巅峰时期月活用户超过 1 亿，是 AI 图像处理大众化的里程碑产品。",
+  "category": "ai-image",
+  "subcategory": "style-transfer",
+  "tags": ["风格迁移", "艺术滤镜", "照片编辑", "免费增值", "移动端"],
+  "website": "https://prisma-ai.com",
+  "logo": "/logos/prisma.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础滤镜免费使用",
+    "starting_price": "$7.99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础滤镜", "水印"] },
+      { "name": "Premium", "price": "$7.99/月", "features": ["700+ 滤镜", "高清输出", "去水印", "批量处理"] }
+    ]
+  },
+  "platforms": ["mobile", "web"],
+  "features": ["700+ 艺术滤镜", "实时风格迁移", "本地处理无需联网", "高清输出", "批量处理"],
+  "use_cases": ["社交媒体创作", "艺术头像", "海报设计", "个人创作", "品牌视觉"],
+  "rating": 4.3,
+  "review_count": 8500,
+  "favorites_count": 32000,
+  "alternatives": ["deepart", "artbreeder", "dream-by-wombo"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

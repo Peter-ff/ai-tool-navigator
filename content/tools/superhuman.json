@@ -1,0 +1,31 @@
+{
+  "slug": "superhuman",
+  "name": "Superhuman",
+  "tagline": "极速 AI 邮件客户端，智能撰写、自动分类、一键批量处理",
+  "description": "Superhuman 是面向高效能人士的 AI 增强邮件客户端，以极快的操作响应速度著称。AI 功能包括 Smart Reply（智能回复建议）、Write with AI（一句话生成完整邮件）、Instant Reply（基于邮件上下文的一键回复）、自动邮件分类和提醒。支持 Gmail 和 Outlook 账户，通过键盘快捷键和 AI 辅助将邮件处理效率提升 2-3 倍。",
+  "category": "ai-writing",
+  "subcategory": "email-assistant",
+  "tags": ["邮件助手", "AI 写作", "生产力", "商业产品"],
+  "website": "https://superhuman.com",
+  "logo": "/logos/superhuman.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$30/月",
+    "plans": [
+      { "name": "Individual", "price": "$30/月", "features": ["AI 智能撰写", "键盘快捷键", "邮件追踪", "跟进提醒"] },
+      { "name": "Team", "price": "$40/人/月", "features": ["全部功能", "团队协作", "共享模板", "管理控制台"] }
+    ]
+  },
+  "platforms": ["desktop", "web", "mobile"],
+  "features": ["AI 智能邮件撰写", "一句话生成邮件", "智能回复建议", "自动邮件分类", "极速键盘操作", "邮件追踪与提醒"],
+  "use_cases": ["日常邮件处理", "商务沟通", "团队协作", "客户跟进", "批量邮件"],
+  "rating": 4.5,
+  "review_count": 2100,
+  "favorites_count": 5600,
+  "alternatives": ["shortwave", "spark", "missive"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

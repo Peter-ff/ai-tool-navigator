@@ -1,0 +1,48 @@
+{
+  "slug": "akkio",
+  "name": "Akkio",
+  "tagline": "无代码 AI 预测平台，拖拽数据即可构建模型",
+  "description": "Akkio 是面向非技术用户的 AI 预测平台。用户上传 CSV 数据后，AI 自动探索数据模式、选择最优模型并生成预测报告。所有操作通过拖拽完成，无需编写代码。特别适合营销和销售团队进行客户行为预测。",
+  "category": "ai-data",
+  "subcategory": "",
+  "tags": [
+    "无代码",
+    "预测分析",
+    "数据分析",
+    "商业智能",
+    "商业产品"
+  ],
+  "website": "https://www.akkio.com",
+  "logo": "/logos/akkio.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费使用",
+    "starting_price": "$49/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "无代码建模",
+    "AI 数据探索",
+    "预测报告",
+    "模型比较",
+    "API 部署"
+  ],
+  "use_cases": [
+    "销售预测",
+    "客户分析",
+    "营销优化",
+    "风险估计"
+  ],
+  "rating": 4.3,
+  "review_count": 2000,
+  "favorites_count": 3000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "sanebox",
+  "name": "Sanebox",
+  "tagline": "AI 邮件管理，自动分类重要邮件和清理垃圾",
+  "description": "Sanebox 是 AI 邮件管理工具，通过分析你的邮件行为模式自动将邮件分类为重要、一般和低优先级。支持 Gmail、Outlook、Yahoo 等所有主流邮箱。AI 学习你的习惯，重要邮件不被淹没，垃圾邮件自动归档。",
+  "category": "ai-office",
+  "subcategory": "",
+  "tags": [
+    "邮件管理",
+    "AI 分类",
+    "效率",
+    "商业产品"
+  ],
+  "website": "https://www.sanebox.com",
+  "logo": "/logos/sanebox.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$7/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 邮件分类",
+    "重要邮件优先",
+    "垃圾过滤",
+    "邮件摘要",
+    "跨邮箱支持"
+  ],
+  "use_cases": [
+    "邮件管理",
+    "效率提升",
+    "商务沟通",
+    "信息整理"
+  ],
+  "rating": 4.3,
+  "review_count": 5000,
+  "favorites_count": 7000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

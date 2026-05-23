@@ -1,0 +1,32 @@
+{
+  "slug": "pixlr",
+  "name": "Pixlr",
+  "tagline": "免费在线 AI 图像编辑器，AI 修图/抠图/背景替换，无需安装打开即用",
+  "description": "Pixlr 是广受欢迎的免费在线图像编辑和设计工具，内置丰富的 AI 功能：AI 背景移除（一键抠图，无需手动选区）、AI 智能补全（擦除内容自动填充背景）、AI 面部修饰（自动美颜和修容）、AI 艺术滤镜（多种创意风格一键套用）。支持 PSD、PNG、JPG、WebP 等主流格式，完全基于浏览器运行，无需下载安装。免费版功能相当完整，是 Photoshop 的轻量级在线替代品。全球用户超千万。",
+  "category": "ai-image",
+  "subcategory": "ai-retouch",
+  "tags": ["AI 修图", "在线", "免费", "抠图", "滤镜"],
+  "website": "https://pixlr.com",
+  "logo": "/logos/pixlr.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础 AI 功能免费使用",
+    "starting_price": "$7.99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 抠图", "基础滤镜", "在线编辑", "720P 导出"] },
+      { "name": "Premium", "price": "$7.99/月", "features": ["全量 AI 功能", "HD 导出", "无广告", "更多模板"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 背景移除", "AI 智能补全", "AI 面部修饰", "AI 艺术滤镜", "在线免安装", "多格式支持"],
+  "use_cases": ["快速修图", "电商素材", "社交媒体", "人像美化", "日常编辑"],
+  "rating": 4.4,
+  "review_count": 12000,
+  "favorites_count": 25000,
+  "alternatives": ["remove-bg", "meitu-miraclevision", "photopea"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tencent-weda",
+  "name": "腾讯云微搭",
+  "tagline": "腾讯低代码开发平台，AI 驱动应用搭建，拖拽式开发 + 微信生态打通",
+  "description": "腾讯云微搭（WeDa）是腾讯云推出的低代码开发平台，支持通过拖拽组件和可视化配置快速搭建 Web 应用、小程序和 H5 页面。AI 功能包括：AI 生成页面（描述需求自动生成页面布局）、AI 数据建模、AI 代码辅助。深度打通微信生态，天然支持微信小程序、企业微信、视频号等腾讯系产品。适合无编程基础的用户快速落地业务需求。",
+  "category": "ai-coding",
+  "subcategory": "low-code",
+  "tags": ["低代码", "腾讯", "小程序", "可视化开发", "国产"],
+  "website": "https://cloud.tencent.com/product/weda",
+  "logo": "/logos/weda.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费套餐支持基础开发和小程序发布",
+    "starting_price": "¥299/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["可视化搭建", "小程序发布", "基础组件", "社区支持"] },
+      { "name": "Pro", "price": "¥299/月", "features": ["AI 页面生成", "高级组件", "API 集成", "企业微信"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 页面生成", "拖拽式可视化搭建", "微信小程序一键发布", "AI 数据建模", "企业微信打通", "模板市场"],
+  "use_cases": ["小程序开发", "企业应用", "H5 页面", "表单系统", "内部工具"],
+  "rating": 4.2,
+  "review_count": 3200,
+  "favorites_count": 8000,
+  "alternatives": ["bolt-new", "retool", "outSystems"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

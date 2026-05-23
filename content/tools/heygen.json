@@ -1,0 +1,33 @@
+{
+  "slug": "heygen",
+  "name": "HeyGen",
+  "tagline": "AI 数字人视频生成平台，用虚拟主播和数字分身轻松制作专业视频",
+  "description": "HeyGen（原 HeyGen）是领先的 AI 数字人视频平台，让用户通过上传一段 2 分钟视频即可创建自己的数字分身，之后只需输入文字就能让数字人用你的声音和形象朗读。支持 300+ 种语音、40+ 种语言、100+ 个预设 AI 数字人形象。广泛应用于企业培训、营销视频、产品演示、内部沟通等场景，生产级视频无需真人出镜。",
+  "category": "ai-video",
+  "subcategory": "digital-human",
+  "tags": ["数字人", "虚拟主播", "视频生成", "营销", "商业产品"],
+  "website": "https://www.heygen.com",
+  "logo": "/logos/heygen.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 1 分钟免费视频",
+    "starting_price": "$24/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每月 1 分钟", "基础数字人", "720p"] },
+      { "name": "Creator", "price": "$24/月", "features": ["15 分钟/月", "自定义数字人", "1080p", "品牌去除"] },
+      { "name": "Team", "price": "$120/月", "features": ["60 分钟/月", "最多 3 个数字人", "4K", "团队协作"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["2 分钟创建数字分身", "300+ AI 语音", "100+ 预设数字人", "40+ 语言", "1080p/4K 输出", "品牌模板"],
+  "use_cases": ["企业培训", "营销视频", "产品演示", "内部沟通", "在线课程"],
+  "rating": 4.6,
+  "review_count": 2100,
+  "favorites_count": 5600,
+  "alternatives": ["synthesia", "elai", "d-id"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

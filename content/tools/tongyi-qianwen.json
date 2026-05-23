@@ -1,0 +1,32 @@
+{
+  "slug": "tongyi-qianwen",
+  "name": "通义千问",
+  "tagline": "阿里云出品的千亿参数大模型，深度整合阿里生态，办公效率利器",
+  "description": "通义千问（Tongyi Qianwen）是阿里巴巴达摩院研发的大语言模型，基于 Qwen 系列开源模型。功能涵盖：通义千问对话、通义听悟（音视频转文字）、通义智文（文档理解）、通义灵码（代码生成）。与钉钉、阿里云深度集成，是企业和个人办公场景的强力 AI 助手。Qwen 开源模型在 HuggingFace 下载量超 1 亿次。",
+  "category": "ai-writing",
+  "subcategory": "general-writing",
+  "tags": ["大模型", "开源", "阿里云", "办公", "商业产品"],
+  "website": "https://tongyi.aliyun.com",
+  "logo": "/logos/tongyi.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "个人用户免费使用",
+    "starting_price": "¥9.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础对话", "文档解析", "通义听悟基础"] },
+      { "name": "Pro", "price": "¥9.9/月", "features": ["更大上下文", "更多额度", "高级功能"] }
+    ]
+  },
+  "platforms": ["web", "mobile", "browser-extension"],
+  "features": ["千亿参数大模型", "通义听悟音视频转写", "通义智文文档理解", "通义灵码代码生成", "开源 Qwen 系列", "钉钉深度集成"],
+  "use_cases": ["文档处理", "会议记录", "代码开发", "知识问答", "内容创作"],
+  "rating": 4.4,
+  "review_count": 12000,
+  "favorites_count": 25000,
+  "alternatives": ["chatgpt", "claude", "deepseek"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

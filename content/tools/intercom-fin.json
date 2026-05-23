@@ -1,0 +1,48 @@
+{
+  "slug": "intercom-fin",
+  "name": "Intercom Fin",
+  "tagline": "AI 客服机器人新标准，直接回答而非仅给出文章链接",
+  "description": "Fin 是 Intercom 推出的新一代 AI 客服机器人，由 GPT-4 驱动。与传统机器人不同，Fin 能直接理解和回答客户问题，而非简单地推送帮助文章链接。支持多语言自动切换，无法回答时无缝转接人工。大幅降低了企业的客服工单量。",
+  "category": "ai-customer-service",
+  "subcategory": "chatbot",
+  "tags": [
+    "AI 机器人",
+    "客服",
+    "GPT-4",
+    "自动化",
+    "商业产品"
+  ],
+  "website": "https://www.intercom.com/fin",
+  "logo": "/logos/intercom-fin.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$0.99/解决",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 直接回答",
+    "多语言自动切换",
+    "人工无缝转接",
+    "知识库学习",
+    "数据分析"
+  ],
+  "use_cases": [
+    "客户支持",
+    "售前咨询",
+    "帮助中心",
+    "SaaS 客服"
+  ],
+  "rating": 4.6,
+  "review_count": 6000,
+  "favorites_count": 9000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

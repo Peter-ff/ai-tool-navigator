@@ -1,0 +1,33 @@
+{
+  "slug": "relume",
+  "name": "Relume",
+  "tagline": "AI Web 设计和线框图工具，用 AI 生成网站 Sitemap 和页面线框",
+  "description": "Relume 是面向 Web 设计师和产品团队的 AI 设计工具，将网站设计流程从数周缩短到数小时。核心能力：输入公司描述即可让 AI 生成完整网站站点地图（Sitemap），然后一键生成所有页面的线框图。内置 1000+ 个 Webflow 和 Figma 组件，线框图可直接在 Figma 中编辑或导入 Webflow 生成可上线网站。大幅简化了从需求到原型的设计流程。",
+  "category": "ai-design",
+  "subcategory": "ui-design",
+  "tags": ["UI 设计", "Web 设计", "线框图", "Webflow", "商业产品"],
+  "website": "https://www.relume.io",
+  "logo": "/logos/relume.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 1 个项目",
+    "starting_price": "$38/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["1 个项目/月", "基础组件"] },
+      { "name": "Pro", "price": "$38/月", "features": ["无限项目", "AI 站点地图", "AI 线框图", "1000+ 组件"] },
+      { "name": "Team", "price": "$58/人/月", "features": ["全部功能", "团队库", "审批工作流"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 生成站点地图", "AI 一键生成线框图", "1000+ Webflow/Figma 组件", "Figma 同步", "Webflow 一键导出"],
+  "use_cases": ["网站设计", "线框图制作", "原型设计", "产品页面设计", "客户提案"],
+  "rating": 4.7,
+  "review_count": 680,
+  "favorites_count": 2800,
+  "alternatives": ["figma-ai", "ux-pilot", "uizard"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

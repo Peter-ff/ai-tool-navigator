@@ -1,0 +1,48 @@
+{
+  "slug": "aiva",
+  "name": "AIVA",
+  "tagline": "AI 音乐作曲大师，创作原创配乐和背景音乐",
+  "description": "AIVA（Artificial Intelligence Virtual Artist）是 AI 音乐作曲工具的先锋。能根据风格、情感和用途参数生成原创音乐，覆盖古典、电子、电影配乐等 250+ 种风格。已为多部电影和游戏创作配乐，被 SACEM 认可为正式作曲家。",
+  "category": "ai-audio",
+  "subcategory": "",
+  "tags": [
+    "音乐创作",
+    "AI 作曲",
+    "配乐",
+    "版权音乐",
+    "商业产品"
+  ],
+  "website": "https://www.aiva.ai",
+  "logo": "/logos/aiva.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 3 次下载",
+    "starting_price": "€11/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 音乐创作",
+    "250+ 风格",
+    "情感参数调节",
+    "版权免费",
+    "乐谱编辑"
+  ],
+  "use_cases": [
+    "视频配乐",
+    "游戏音乐",
+    "播客背景",
+    "广告配乐"
+  ],
+  "rating": 4.4,
+  "review_count": 5000,
+  "favorites_count": 8000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

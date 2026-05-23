@@ -1,0 +1,48 @@
+{
+  "slug": "dataiku",
+  "name": "Dataiku",
+  "tagline": "企业级 AI 和数据科学平台，从数据准备到模型部署全流程",
+  "description": "Dataiku 是面向企业的一体化数据科学和机器学习平台。提供可视化数据准备、AutoML 建模、模型部署和 MLOps 全流程支持。支持代码和无代码两种工作模式，让数据科学家和业务分析师在同一平台上协作。",
+  "category": "ai-data",
+  "subcategory": "data-analysis",
+  "tags": [
+    "数据科学",
+    "AutoML",
+    "MLOps",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://www.dataiku.com",
+  "logo": "/logos/dataiku.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "联系销售",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "可视化数据准备",
+    "AutoML",
+    "模型部署",
+    "MLOps",
+    "协作开发"
+  ],
+  "use_cases": [
+    "数据科学",
+    "机器学习",
+    "商业智能",
+    "AI 部署"
+  ],
+  "rating": 4.5,
+  "review_count": 5000,
+  "favorites_count": 7000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "buffer-ai",
+  "name": "Buffer AI",
+  "tagline": "AI 社交媒体管理工具，智能内容创作、排期发布与数据分析",
+  "description": "Buffer 是老牌社交媒体管理平台，2025 年全面集成 AI 功能。核心 AI 能力包括：AI Assistant 根据品牌声音自动生成多平台社媒帖子、Best Time to Post 智能推荐发布时机、Content Ideas 基于行业趋势自动建议内容选题、AI 帖子改写与多语言翻译、AI 绩效分析。支持 Instagram、X/Twitter、LinkedIn、Facebook、Pinterest、Threads 等主流平台。",
+  "category": "ai-marketing",
+  "subcategory": "social-media",
+  "tags": ["社媒运营", "内容创作", "数据分析", "自动化", "商业产品"],
+  "website": "https://buffer.com",
+  "logo": "/logos/buffer.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "3 个频道，基础排期",
+    "starting_price": "$6/月/频道",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["3 个频道", "基础排期", "基础分析"] },
+      { "name": "Essentials", "price": "$6/月/频道", "features": ["AI Assistant", "最佳发布时间", "高级分析"] },
+      { "name": "Team", "price": "$12/月/频道", "features": ["无限频道", "团队协作", "审批工作流"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 社媒内容生成", "智能排期发布", "最佳发布时间推荐", "多平台统一管理", "AI 绩效分析", "内容选题建议"],
+  "use_cases": ["社媒运营", "品牌营销", "内容规划", "多平台管理", "数据分析"],
+  "rating": 4.4,
+  "review_count": 2500,
+  "favorites_count": 6800,
+  "alternatives": ["hootsuite", "later", "sprout-social"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

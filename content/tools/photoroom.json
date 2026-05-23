@@ -1,0 +1,49 @@
+{
+  "slug": "photoroom",
+  "name": "Photoroom",
+  "tagline": "AI 电商产品图片处理，一键去背景和生成场景图",
+  "description": "Photoroom 是面向电商和营销的 AI 图片编辑工具。核心功能包括：AI 背景移除（精确到发丝级别）、AI 场景生成（产品融入生活场景）、批量处理和 API 接口。深受 Shopify 卖家和电商运营团队喜爱。",
+  "category": "ai-image",
+  "subcategory": "",
+  "tags": [
+    "图片编辑",
+    "电商",
+    "去背景",
+    "AI 场景",
+    "商业产品"
+  ],
+  "website": "https://www.photoroom.com",
+  "logo": "/logos/photoroom.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费处理",
+    "starting_price": "$7.49/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "AI 背景移除",
+    "AI 场景生成",
+    "批量处理",
+    "API 接口",
+    "模板库"
+  ],
+  "use_cases": [
+    "电商产品图",
+    "社交营销",
+    "商品展示",
+    "品牌视觉"
+  ],
+  "rating": 4.7,
+  "review_count": 12000,
+  "favorites_count": 16000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

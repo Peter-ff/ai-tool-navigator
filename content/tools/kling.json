@@ -1,0 +1,32 @@
+{
+  "slug": "kling",
+  "name": "可灵 Kling",
+  "tagline": "快手出品的 AI 视频生成神器，文生视频和图生视频质量国际领先",
+  "description": "可灵（Kling）是快手推出的 AI 视频生成大模型，支持文生视频和图生视频。基于快手海量短视频数据训练，在视频连贯性、物理真实感和运动流畅度方面表现出色。支持生成最长 2 分钟的 1080P 高清视频，具备运动笔刷、镜头控制、首尾帧指定等高级创作功能。在全球 AI 视频生成领域获得广泛关注，是国产视频生成模型的标杆产品。",
+  "category": "ai-video",
+  "subcategory": "text-to-video",
+  "tags": ["文生视频", "图生视频", "快手", "高清", "商业产品"],
+  "website": "https://klingai.com",
+  "logo": "/logos/kling.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日免费生成额度",
+    "starting_price": "¥66/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 66 积分", "5s 视频生成"] },
+      { "name": "Pro", "price": "¥66/月", "features": ["每月 3000 积分", "高清输出", "去水印", "2 分钟长视频"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["文生视频", "图生视频", "1080P 高清输出", "运动笔刷", "镜头控制", "首尾帧指定"],
+  "use_cases": ["短视频创作", "广告素材", "影视前期", "社交媒体", "艺术表达"],
+  "rating": 4.5,
+  "review_count": 8500,
+  "favorites_count": 18000,
+  "alternatives": ["runway", "jimeng", "hailuo-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

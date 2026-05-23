@@ -1,0 +1,46 @@
+{
+  "name": "Udio",
+  "tagline": "AI 音乐创作平台，与 Suno 并称 AI 音乐双雄",
+  "description": "Udio 是最受欢迎的 AI 音乐生成平台之一。由前 Google DeepMind 研究人员创建，能根据文本描述生成高质量原创歌曲。支持音乐风格自定义、段落编辑和人声调节。社区活跃，用户已生成数百万首歌曲。",
+  "category": "ai-audio",
+  "tags": [
+    "AI 音乐",
+    "音乐创作",
+    "AI 作曲",
+    "商业产品"
+  ],
+  "website": "https://www.udio.com",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 音乐生成",
+    "风格自定义",
+    "段落编辑",
+    "人声调节",
+    "社区分享"
+  ],
+  "use_cases": [
+    "音乐创作",
+    "内容配乐",
+    "歌曲翻唱",
+    "灵感激发"
+  ],
+  "rating": 4.5,
+  "review_count": 12000,
+  "favorites_count": 20000,
+  "status": "published",
+  "slug": "udio",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 10 首歌曲",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

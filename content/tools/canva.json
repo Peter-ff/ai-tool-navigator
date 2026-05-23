@@ -1,0 +1,33 @@
+{
+  "slug": "canva",
+  "name": "Canva",
+  "tagline": "全球最大的 AI 增强在线设计平台，拖拽式操作 + AI 魔法设计",
+  "description": "Canva 是全球用户量最大的在线设计平台，月活超 1.7 亿。集成全面的 AI 设计功能：Magic Design（描述需求自动生成整套设计）、AI 图像生成（Text to Image）、Magic Edit（选中区域替换内容）、Magic Eraser（智能擦除）、AI 背景移除、AI 文案生成、Beat Sync（视频自动卡点）。拥有海量模板库和素材库，覆盖社交媒体、演示文稿、海报、视频等全品类设计需求。",
+  "category": "ai-design",
+  "subcategory": "graphic-design",
+  "tags": ["平面设计", "在线设计", "AI 设计", "模板", "免费增值"],
+  "website": "https://www.canva.com",
+  "logo": "/logos/canva.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "250,000+ 模板，100万+ 素材",
+    "starting_price": "$15/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["25万+ 模板", "基础 AI 功能", "5GB 存储"] },
+      { "name": "Pro", "price": "$15/月", "features": ["完整 AI 功能", "1 亿+ 素材", "1TB 存储", "品牌套件"] },
+      { "name": "Teams", "price": "$10/人/月", "features": ["团队协作", "品牌控制", "审批工作流", "SSO"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["Magic Design AI 生成设计", "AI 文生图", "Magic Edit 内容替换", "AI 背景移除", "Beat Sync 视频卡点", "海量模板素材"],
+  "use_cases": ["社交媒体设计", "演示文稿", "海报设计", "视频编辑", "品牌设计"],
+  "rating": 4.8,
+  "review_count": 18500,
+  "favorites_count": 52000,
+  "alternatives": ["figma-ai", "adobe-express", "vista-create"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

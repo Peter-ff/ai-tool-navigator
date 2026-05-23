@@ -1,0 +1,49 @@
+{
+  "slug": "figma-ai",
+  "name": "Figma AI",
+  "tagline": "设计师最爱的协作工具，AI 加持让设计更快更智能",
+  "description": "Figma AI 是 Figma 内置的 AI 功能套件，帮助设计师在熟悉的工作流中运用 AI 加速创作。包括 AI 生成设计初稿、自动命名图层、智能搜索资源、背景移除等。保持了 Figma 一贯的协作优势，AI 作为辅助而非替代设计师。",
+  "category": "ai-design",
+  "subcategory": "ux-ui",
+  "tags": [
+    "UI 设计",
+    "协作",
+    "AI 辅助",
+    "设计系统",
+    "商业产品"
+  ],
+  "website": "https://www.figma.com/ai",
+  "logo": "/logos/figma-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费计划可用",
+    "starting_price": "$12/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop"
+  ],
+  "features": [
+    "AI 生成设计",
+    "自动命名图层",
+    "智能搜索",
+    "背景移除",
+    "设计系统管理"
+  ],
+  "use_cases": [
+    "UI/UX 设计",
+    "原型制作",
+    "设计系统",
+    "团队协作"
+  ],
+  "rating": 4.8,
+  "review_count": 30000,
+  "favorites_count": 38000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

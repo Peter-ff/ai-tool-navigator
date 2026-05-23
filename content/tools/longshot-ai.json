@@ -1,0 +1,47 @@
+{
+  "slug": "longshot-ai",
+  "name": "LongShot AI",
+  "tagline": "长篇文章 AI 写作专家，事实核查和 SEO 优化一步到位",
+  "description": "LongShot AI 是专注长篇内容创作的 AI 平台。特色功能包括实时事实核查（减少 AI 幻觉）、SEO 评分和多语言支持。适合需要专业长文内容的博主、记者和内容营销团队。",
+  "category": "ai-writing",
+  "subcategory": "",
+  "tags": [
+    "长文写作",
+    "事实核查",
+    "SEO",
+    "商业产品"
+  ],
+  "website": "https://www.longshot.ai",
+  "logo": "/logos/longshot-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费生成",
+    "starting_price": "$19/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "事实核查",
+    "长文生成",
+    "SEO 评分",
+    "多语言",
+    "内容模板"
+  ],
+  "use_cases": [
+    "博客写作",
+    "新闻报道",
+    "白皮书",
+    "SEO 内容"
+  ],
+  "rating": 4.3,
+  "review_count": 2500,
+  "favorites_count": 4000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "quillbot",
+  "name": "QuillBot",
+  "tagline": "AI 驱动的文章改写和摘要工具，让写作更流畅",
+  "description": "QuillBot 是一款专注于文本改写和摘要生成的 AI 写作工具。核心功能包括文章智能改写（多种模式可选）、语法检查、摘要生成和引用管理。学术用户特别青睐其改写功能，可有效避免抄袭并提升表达质量。",
+  "category": "ai-writing",
+  "subcategory": "rewriting",
+  "tags": [
+    "改写工具",
+    "摘要生成",
+    "学术写作",
+    "商业产品"
+  ],
+  "website": "https://quillbot.com",
+  "logo": "/logos/quillbot.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "125 词/次改写",
+    "starting_price": "$9.95/月",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "免费",
+        "features": [
+          "125 词改写",
+          "2 种改写模式"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$9.95/月",
+        "features": [
+          "无限改写",
+          "8 种模式",
+          "查重",
+          "摘要生成"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "智能改写",
+    "语法检查",
+    "摘要生成",
+    "引用管理",
+    "查重"
+  ],
+  "use_cases": [
+    "学术写作",
+    "文章润色",
+    "论文降重",
+    "多语言改写"
+  ],
+  "rating": 4.6,
+  "review_count": 28000,
+  "favorites_count": 22000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

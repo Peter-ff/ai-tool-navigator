@@ -1,0 +1,33 @@
+{
+  "slug": "runway",
+  "name": "Runway",
+  "tagline": "专业的 AI 视频生成和编辑平台，Gen-4 模型引领视频生成新高度",
+  "description": "Runway 是面向专业创作者的 AI 视频工具平台。Gen-4 模型能根据文本描述或参考图生成高质量视频片段，支持多镜头一致性、运动笔刷、视频扩展等功能。除了生成，Runway 也提供视频编辑、绿幕抠像、运动追踪等传统 VFX 工具的 AI 增强版。好莱坞多家工作室已将 Runway 纳入后期制作流程。",
+  "category": "ai-video",
+  "subcategory": "text-to-video",
+  "tags": ["文生视频", "视频编辑", "专业工具", "商业产品"],
+  "website": "https://runwayml.com",
+  "logo": "/logos/runway.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 125 积分，基础功能",
+    "starting_price": "$15/月",
+    "plans": [
+      { "name": "Basic", "price": "免费", "features": ["125 积分/月", "720p 导出", "基础功能"] },
+      { "name": "Standard", "price": "$15/月", "features": ["625 积分/月", "1080p 导出", "去水印"] },
+      { "name": "Unlimited", "price": "$95/月", "features": ["无限生成", "4K 导出", "优先渲染", "团队协作"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["文本生成视频 (Gen-4)", "图像生成视频", "运动笔刷", "视频扩展", "AI 抠像", "视频风格迁移"],
+  "use_cases": ["短视频创作", "广告制作", "概念演示", "社交媒体", "影视后期"],
+  "rating": 4.5,
+  "review_count": 780,
+  "favorites_count": 4300,
+  "alternatives": ["pika", "kling", "sora"],
+  "related_collections": ["best-ai-video-tools-2026"],
+  "added_date": "2026-01-06",
+  "updated_date": "2026-05-16",
+  "status": "published"
+}

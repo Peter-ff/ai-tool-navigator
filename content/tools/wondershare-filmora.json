@@ -1,0 +1,32 @@
+{
+  "slug": "wondershare-filmora",
+  "name": "万兴喵影 Filmora",
+  "tagline": "万兴科技出品的 AI 视频编辑软件，桌面端+移动端，AI 功能全面",
+  "description": "万兴喵影（Filmora）是万兴科技（Wondershare）出品的专业级 AI 视频编辑软件，全球用户超 1 亿。AI 功能包括：AI 智能剪辑（自动识别精彩片段）、AI 文本转视频、AI 背景移除（无需绿幕）、AI 运动追踪、AI 音频降噪、AI 色彩校正、AI 字幕生成。提供桌面版（Windows/Mac）和移动版，模板和特效资源丰富，适合从新手到专业的创作者。",
+  "category": "ai-video",
+  "subcategory": "video-editing",
+  "tags": ["视频编辑", "万兴", "AI 剪辑", "国产", "商业产品"],
+  "website": "https://filmora.wondershare.com",
+  "logo": "/logos/filmora.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费试用，导出带水印",
+    "starting_price": "¥249/年",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础剪辑", "AI 功能试用", "导出带水印"] },
+      { "name": "Pro", "price": "¥249/年", "features": ["全量 AI 功能", "无限制导出", "特效资源包", "商用授权"] }
+    ]
+  },
+  "platforms": ["desktop", "mobile"],
+  "features": ["AI 智能剪辑", "AI 文本转视频", "AI 背景移除", "AI 运动追踪", "AI 音频降噪", "AI 字幕生成"],
+  "use_cases": ["短视频创作", "Vlog 制作", "企业宣传", "婚礼视频", "YouTube 内容"],
+  "rating": 4.5,
+  "review_count": 32000,
+  "favorites_count": 55000,
+  "alternatives": ["descript", "capcut", "runway"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

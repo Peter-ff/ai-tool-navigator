@@ -1,0 +1,32 @@
+{
+  "slug": "fireflies",
+  "name": "Fireflies.ai",
+  "tagline": "AI 会议记录和转录工具，Zoom/Teams/Meet 全集成，免费版功能齐全",
+  "description": "Fireflies.ai 是 AI 会议记录和转录工具，自动加入 Zoom、Teams、Google Meet 等会议平台，实时转录会议内容并生成结构化纪要。AI 功能包括：自动提取行动项（Action Items）、会议要点、关键问题和决策；AI 搜索全部会议内容（问「上次谁说了什么」即得答案）；声纹识别区分发言人。支持导出到 Notion、Slack 等工具。免费版支持每月 800 分钟转录，功能完整。",
+  "category": "ai-office",
+  "subcategory": "meeting-notes",
+  "tags": ["会议记录", "AI 转录", "免费", "Zoom", "协作"],
+  "website": "https://fireflies.ai",
+  "logo": "/logos/fireflies.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费版 800 分钟/月",
+    "starting_price": "$18/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["800 分钟/月", "AI 转录", "行动项提取", "基础搜索"] },
+      { "name": "Pro", "price": "$18/月", "features": ["8000 分钟/月", "AI 超级搜索", "声纹识别", "API"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 会议自动转录", "AI 行动项提取", "AI 搜索会议内容", "声纹识别", "多平台集成", "自动纪要及时推送"],
+  "use_cases": ["会议纪要", "远程协作", "采访记录", "销售通话", "客户反馈"],
+  "rating": 4.5,
+  "review_count": 8500,
+  "favorites_count": 19000,
+  "alternatives": ["otter-ai", "iflytek-recorder", "descript"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "midjourney",
+  "name": "Midjourney",
+  "tagline": "顶级 AI 图像生成工具，以艺术品质感和美学表现力著称",
+  "description": "Midjourney 是最受欢迎的 AI 图像生成工具之一，以其独特的艺术风格和高质量的图像输出闻名。通过自然语言描述（prompt）即可生成令人惊叹的图像。V7 版本进一步提升了真实感和细节表现力，新增角色一致性、风格参考等高级功能。广泛用于概念设计、广告创意、游戏美术等领域。",
+  "category": "ai-image",
+  "subcategory": "text-to-image",
+  "tags": ["文生图", "艺术创作", "设计", "商业产品", "Discord"],
+  "website": "https://midjourney.com",
+  "logo": "/logos/midjourney.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$10/月",
+    "plans": [
+      { "name": "Basic", "price": "$10/月", "features": ["200 张图/月", "基础功能"] },
+      { "name": "Standard", "price": "$30/月", "features": ["无限生成（放松模式）", "15 小时快速模式"] },
+      { "name": "Pro", "price": "$60/月", "features": ["30 小时快速模式", "隐身模式", "优先支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["文本生成图像", "风格参考", "角色一致性", "图像变体生成", "放大增强", "Web 编辑器"],
+  "use_cases": ["概念设计", "广告创意", "游戏美术", "插画创作", "建筑可视化"],
+  "rating": 4.8,
+  "review_count": 2340,
+  "favorites_count": 12300,
+  "alternatives": ["dalle", "stable-diffusion", "leonardo-ai"],
+  "related_collections": ["best-ai-image-tools-2026"],
+  "added_date": "2026-01-02",
+  "updated_date": "2026-05-18",
+  "status": "published"
+}

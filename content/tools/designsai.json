@@ -1,0 +1,48 @@
+{
+  "slug": "designsai",
+  "name": "Designs.ai",
+  "tagline": "一站式 AI 创作平台，Logo、视频和图片全覆盖",
+  "description": "Designs.ai 是面向营销团队的一站式 AI 创意平台。整合了 Logo 设计、视频制作、图片编辑、文案生成等功能。AI 根据品牌信息自动生成统一的视觉素材，确保品牌一致性。特别适合小型团队和自由职业者。",
+  "category": "ai-design",
+  "subcategory": "branding",
+  "tags": [
+    "品牌设计",
+    "AI 创作",
+    "Logo",
+    "营销",
+    "商业产品"
+  ],
+  "website": "https://designs.ai",
+  "logo": "/logos/designsai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$19/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI Logo 设计",
+    "视频制作",
+    "图片编辑",
+    "文案生成",
+    "品牌套件"
+  ],
+  "use_cases": [
+    "品牌设计",
+    "营销素材",
+    "社媒内容",
+    "Logo 创作"
+  ],
+  "rating": 4.2,
+  "review_count": 5000,
+  "favorites_count": 7000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "open-sora",
+  "name": "Open-Sora",
+  "tagline": "开源文生视频模型，任何人都可免费使用和部署的 AI 视频生成",
+  "description": "Open-Sora 是受 OpenAI Sora 启发的开源文生视频项目，致力于让所有人免费使用 AI 视频生成能力。支持文生视频（输入文字描述生成短视频）、图生视频（静态图转动态视频）、视频延长（基于已有片段延长时间）。虽然生成的视频时长和画质不如商用产品（Runway/Kling），但完全开源免费，可本地部署和二次开发。对于研究、学习和预算有限的创作者来说，是了解和使用 AI 视频生成技术的绝佳入口。",
+  "category": "ai-video",
+  "subcategory": "text-to-video",
+  "tags": ["文生视频", "开源", "免费", "AI 视频", "本地部署"],
+  "website": "https://github.com/hpcaitech/Open-Sora",
+  "logo": "/logos/opensora.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "完全免费开源",
+    "plans": [
+      { "name": "Self-hosted", "price": "免费", "features": ["本地部署", "无限生成", "所有功能", "社区支持"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["文生视频", "图生视频", "视频延长", "开源可商用", "本地部署", "活跃社区"],
+  "use_cases": ["AI 视频实验", "学术研究", "创意制作", "技术学习", "低成本创作"],
+  "rating": 4.0,
+  "review_count": 1500,
+  "favorites_count": 5500,
+  "alternatives": ["runway", "kling", "hailuo-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

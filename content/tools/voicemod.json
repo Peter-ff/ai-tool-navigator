@@ -1,0 +1,48 @@
+{
+  "slug": "voicemod",
+  "name": "Voicemod",
+  "tagline": "实时 AI 变声器，游戏、直播和娱乐的声音变形工具",
+  "description": "Voicemod 是业界领先的实时 AI 变声器，可在游戏、直播和通话中实时改变声音。提供数百种声音效果和 AI 语音皮肤，支持自定义声音创作。深受游戏玩家、直播主和内容创作者喜爱，月活用户超 4000 万。",
+  "category": "ai-audio",
+  "subcategory": "voice-changer",
+  "tags": [
+    "变声器",
+    "AI 声音",
+    "游戏",
+    "直播",
+    "商业产品"
+  ],
+  "website": "https://www.voicemod.net",
+  "logo": "/logos/voicemod.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限声音效果",
+    "starting_price": "一次性付费 $14.99",
+    "plans": []
+  },
+  "platforms": [
+    "desktop"
+  ],
+  "features": [
+    "实时变声",
+    "数百种音效",
+    "AI 语音皮肤",
+    "自定义声音",
+    "Voicelab 声音创作"
+  ],
+  "use_cases": [
+    "游戏娱乐",
+    "直播互动",
+    "内容创作",
+    "声音匿名"
+  ],
+  "rating": 4.3,
+  "review_count": 12000,
+  "favorites_count": 16000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tongyi-wanxiang",
+  "name": "通义万相",
+  "tagline": "阿里云 AI 图像生成平台，文生图、图生图、风格迁移全覆盖",
+  "description": "通义万相是阿里巴巴推出的 AI 图像生成平台，支持文生图、图生图、图像风格迁移、虚拟模特、涂鸦生成等多种模式。基于自研大模型，在中文语义理解和东方审美方面有显著优势。提供丰富的风格模板和参数调节，适合电商、设计、内容创作等场景。与阿里云生态打通，企业用户可 API 调用。",
+  "category": "ai-image",
+  "subcategory": "text-to-image",
+  "tags": ["文生图", "阿里云", "图像生成", "电商", "商业产品"],
+  "website": "https://tongyi.aliyun.com/wanxiang",
+  "logo": "/logos/wanxiang.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日免费生成额度",
+    "starting_price": "按量付费",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 50 张图片", "基础风格", "社区分享"] },
+      { "name": "Pro", "price": "按量付费", "features": ["无限生成", "高清水印去除", "API 调用", "商用授权"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["文生图", "图生图", "风格迁移", "虚拟模特", "涂鸦生成", "API 接口"],
+  "use_cases": ["电商设计", "海报制作", "内容配图", "品牌设计", "创意构思"],
+  "rating": 4.3,
+  "review_count": 4500,
+  "favorites_count": 11000,
+  "alternatives": ["midjourney", "liblibai", "dall-e"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

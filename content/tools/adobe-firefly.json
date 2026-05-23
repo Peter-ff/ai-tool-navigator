@@ -1,0 +1,49 @@
+{
+  "slug": "adobe-firefly",
+  "name": "Adobe Firefly",
+  "tagline": "Adobe 出品的企业级 AI 图像生成，安全合规可商用",
+  "description": "Adobe Firefly 是 Adobe 推出的 AI 创意工具套件，深度集成在 Photoshop、Illustrator 等 Creative Cloud 应用中。使用 Adobe Stock 授权内容训练，确保生成内容安全可商用。支持文字生成图像、生成式填充、文字效果、3D 转图像等功能。",
+  "category": "ai-image",
+  "subcategory": "image-generation",
+  "tags": [
+    "图像生成",
+    "Adobe",
+    "企业创意",
+    "商用安全",
+    "商业产品"
+  ],
+  "website": "https://www.adobe.com/products/firefly.html",
+  "logo": "/logos/adobe-firefly.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 25 次生成",
+    "starting_price": "$4.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生图",
+    "生成式填充",
+    "文字效果",
+    "3D 转图像",
+    "Photoshop 集成",
+    "商用安全"
+  ],
+  "use_cases": [
+    "平面设计",
+    "广告创意",
+    "产品展示",
+    "社交媒体"
+  ],
+  "rating": 4.6,
+  "review_count": 22000,
+  "favorites_count": 28000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

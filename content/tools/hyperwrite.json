@@ -1,0 +1,48 @@
+{
+  "slug": "hyperwrite",
+  "name": "HyperWrite",
+  "tagline": "AI 写作助手，学习你的风格并自动完成写作",
+  "description": "HyperWrite 是学习用户写作风格的 AI 助手。通过分析你的历史写作，AI 学会模仿你的语气和风格，在写作时提供个性化建议和自动补全。支持浏览器扩展，在 Gmail、Google Docs 等场景中无缝辅助。",
+  "category": "ai-writing",
+  "subcategory": "",
+  "tags": [
+    "写作助手",
+    "个性化",
+    "风格学习",
+    "商业产品"
+  ],
+  "website": "https://www.hyperwriteai.com",
+  "logo": "/logos/hyperwrite.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日有限使用",
+    "starting_price": "$19.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "风格学习",
+    "智能补全",
+    "邮件辅助",
+    "长文生成",
+    "浏览器集成"
+  ],
+  "use_cases": [
+    "日常写作",
+    "邮件",
+    "社交媒体",
+    "内容创作"
+  ],
+  "rating": 4.3,
+  "review_count": 3000,
+  "favorites_count": 5000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Perplexity AI",
+  "tagline": "AI 搜索引擎，用对话方式探索知识",
+  "description": "Perplexity AI 是当下最受关注的 AI 搜索引擎之一。用户以对话方式提问，AI 实时联网搜索并整合多个来源给出带引用的答案。支持文件上传分析、图片搜索和深度研究模式。被福布斯、纽约时报等媒体评为最好的 AI 搜索工具。",
+  "category": "ai-writing",
+  "tags": [
+    "AI 搜索",
+    "知识问答",
+    "实时联网",
+    "学术研究",
+    "商业产品"
+  ],
+  "website": "https://www.perplexity.ai",
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "实时联网搜索",
+    "多来源引用",
+    "文件分析",
+    "深度研究",
+    "图片搜索"
+  ],
+  "use_cases": [
+    "学术研究",
+    "事实核查",
+    "市场调研",
+    "快速学习"
+  ],
+  "rating": 4.8,
+  "review_count": 25000,
+  "favorites_count": 40000,
+  "status": "published",
+  "slug": "perplexity-ai",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础搜索免费",
+    "starting_price": "$20/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

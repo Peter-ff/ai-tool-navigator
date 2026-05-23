@@ -1,0 +1,50 @@
+{
+  "slug": "otter-ai",
+  "name": "Otter AI",
+  "tagline": "AI 会议记录和转录专家，实时转写自动生成会议纪要",
+  "description": "Otter AI 是 AI 驱动的会议助手，能实时转录会议对话并自动生成摘要和行动项。支持 Zoom、Google Meet、Teams 等主流平台。会议结束后自动发送包含要点、关键词和待办事项的会议记录。是远程办公人士的效率工具。",
+  "category": "ai-office",
+  "subcategory": "",
+  "tags": [
+    "会议记录",
+    "转录",
+    "AI 摘要",
+    "远程办公",
+    "商业产品"
+  ],
+  "website": "https://otter.ai",
+  "logo": "/logos/otter-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 300 分钟",
+    "starting_price": "$16.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile",
+    "browser-extension"
+  ],
+  "features": [
+    "实时转录",
+    "AI 会议摘要",
+    "行动项提取",
+    "多平台集成",
+    "回放搜索"
+  ],
+  "use_cases": [
+    "会议记录",
+    "访谈转录",
+    "课堂笔记",
+    "远程协作"
+  ],
+  "rating": 4.6,
+  "review_count": 18000,
+  "favorites_count": 22000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "datarobot",
+  "name": "DataRobot",
+  "tagline": "自动化机器学习平台先驱，让 AI 模型构建变得简单高效",
+  "description": "DataRobot 是自动化机器学习（AutoML）领域的先驱和领导者。平台自动完成特征工程、模型选择、超参数调优和部署，大幅降低企业构建 AI 模型的门槛。支持时间序列预测、分类、回归等多种建模任务。",
+  "category": "ai-data",
+  "subcategory": "data-analysis",
+  "tags": [
+    "AutoML",
+    "机器学习",
+    "预测建模",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://www.datarobot.com",
+  "logo": "/logos/datarobot.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "联系销售",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "自动特征工程",
+    "模型自动选择",
+    "超参数调优",
+    "一键部署",
+    "模型监控"
+  ],
+  "use_cases": [
+    "预测建模",
+    "客户流失预测",
+    "需求预测",
+    "风险评估"
+  ],
+  "rating": 4.4,
+  "review_count": 4000,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

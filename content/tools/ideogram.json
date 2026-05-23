@@ -1,0 +1,47 @@
+{
+  "slug": "ideogram",
+  "name": "Ideogram",
+  "tagline": "文字渲染最精准的 AI 图像生成工具，Logo 和海报首选",
+  "description": "Ideogram 以精准的文字渲染能力在 AI 图像工具中脱颖而出。特别擅长在图像中准确生成文字内容，使其成为 Logo 设计、海报制作和社交图片创作的理想选择。多次迭代后图像质量和风格多样性显著提升。",
+  "category": "ai-image",
+  "subcategory": "image-generation",
+  "tags": [
+    "图像生成",
+    "文字渲染",
+    "Logo 设计",
+    "商业产品"
+  ],
+  "website": "https://ideogram.ai",
+  "logo": "/logos/ideogram.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每天 25 次生成",
+    "starting_price": "$8/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "精准文字渲染",
+    "文生图",
+    "多种风格",
+    "Logo 生成",
+    "海报设计"
+  ],
+  "use_cases": [
+    "Logo 设计",
+    "海报制作",
+    "社交媒体图片",
+    "品牌视觉"
+  ],
+  "rating": 4.5,
+  "review_count": 15000,
+  "favorites_count": 20000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

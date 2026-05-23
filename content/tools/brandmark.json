@@ -1,0 +1,47 @@
+{
+  "slug": "brandmark",
+  "name": "Brandmark",
+  "tagline": "AI Logo 和品牌视觉设计，几分钟搞定全套品牌标识",
+  "description": "Brandmark 是 AI 驱动的品牌设计工具，能根据品牌名称和行业自动生成 Logo、配色方案、字体搭配和名片设计。AI 提供数百个设计方案供选择，支持在线微调和矢量格式导出。是创业者在零预算阶段的品牌设计首选。",
+  "category": "ai-design",
+  "subcategory": "",
+  "tags": [
+    "Logo 设计",
+    "品牌设计",
+    "AI 生成",
+    "商业产品"
+  ],
+  "website": "https://brandmark.io",
+  "logo": "/logos/brandmark.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$25/一次性",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI Logo 生成",
+    "配色方案",
+    "字体推荐",
+    "品牌套件",
+    "矢量导出"
+  ],
+  "use_cases": [
+    "品牌设计",
+    "Logo 创作",
+    "创业品牌",
+    "个人品牌"
+  ],
+  "rating": 4.3,
+  "review_count": 5000,
+  "favorites_count": 7000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

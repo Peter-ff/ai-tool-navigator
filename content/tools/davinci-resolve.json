@@ -1,0 +1,32 @@
+{
+  "slug": "davinci-resolve",
+  "name": "DaVinci Resolve",
+  "tagline": "好莱坞级免费视频编辑和调色软件，AI 功能强大，专业创作者首选",
+  "description": "DaVinci Resolve 是好莱坞后期制作标准软件，免费版功能极其强大。AI 功能涵盖：AI 智能剪辑（自动检测场景切换和精彩片段）、AI 面部识别和跟踪、AI 物体移除、AI 速度变形（超级慢动作生成中间帧）、AI 音频降噪和分类、AI 智能调色（自动匹配镜头颜色）、AI 字幕生成。虽然学习曲线略陡，但免费版功能远超大多数付费剪辑软件。被《阿凡达》《权游》等大片用于调色和剪辑。",
+  "category": "ai-video",
+  "subcategory": "video-editing",
+  "tags": ["视频编辑", "免费", "专业", "调色", "好莱坞"],
+  "website": "https://www.blackmagicdesign.com/products/davinciresolve",
+  "logo": "/logos/davinci.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费版功能几无限制",
+    "starting_price": "$295（一次性）",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["4K 编辑", "AI 调色", "AI 降噪", "多格式导出"] },
+      { "name": "Studio", "price": "$295（一次性）", "features": ["8K 编辑", "更多 AI 功能", "多 GPU 加速", "专业工具"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["AI 智能剪辑", "AI 面部跟踪", "AI 物体移除", "AI 速度变形", "AI 音频降噪", "专业调色"],
+  "use_cases": ["专业视频剪辑", "电影调色", "YouTube 创作", "纪录片制作", "广告后期"],
+  "rating": 4.8,
+  "review_count": 28000,
+  "favorites_count": 62000,
+  "alternatives": ["descript", "wondershare-filmora", "premiere"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

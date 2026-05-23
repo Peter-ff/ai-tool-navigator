@@ -1,0 +1,47 @@
+{
+  "slug": "dreamstudio",
+  "name": "DreamStudio",
+  "tagline": "Stability AI 官方出品的在线 AI 绘画工作台，SD 模型原生体验",
+  "description": "DreamStudio 是 Stability AI 的官方在线图像生成平台，提供 Stable Diffusion 模型的原生体验。支持文生图、图生图、Negative Prompt 和多种画幅比例。是体验 SD 模型最简单的方式，无需本地部署。",
+  "category": "ai-image",
+  "subcategory": "",
+  "tags": [
+    "图像生成",
+    "Stable Diffusion",
+    "在线工具",
+    "商业产品"
+  ],
+  "website": "https://dreamstudio.ai",
+  "logo": "/logos/dreamstudio.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$10/次充值",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生图",
+    "图生图",
+    "Negative Prompt",
+    "多种模型",
+    "高分辨率输出"
+  ],
+  "use_cases": [
+    "数字艺术",
+    "概念设计",
+    "创意探索",
+    "图像素材"
+  ],
+  "rating": 4.5,
+  "review_count": 15000,
+  "favorites_count": 20000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

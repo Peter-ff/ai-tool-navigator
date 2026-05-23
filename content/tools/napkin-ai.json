@@ -1,0 +1,33 @@
+{
+  "slug": "napkin-ai",
+  "name": "Napkin AI",
+  "tagline": "AI 图表和数据可视化生成器，输入文字自动生成专业的信息图表",
+  "description": "Napkin AI 是一键将文字内容转化为精美信息图表和可视化图表的 AI 工具。不需要任何设计技能：粘贴你的文字内容（文章、报告、演示文稿），AI 自动提取关键数据并生成多种风格的可视化图表——流程图、时间轴、对比图、数据图表、概念图等。支持实时编辑和风格切换（800+ 样式），输出矢量格式可直接粘贴到 PowerPoint、Google Slides、Figma 等工具中。",
+  "category": "ai-data",
+  "subcategory": "visualization",
+  "tags": ["数据可视化", "图表生成", "信息图表", "AI 设计", "商业产品"],
+  "website": "https://www.napkin.ai",
+  "logo": "/logos/napkin-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 10 个 Napkin，基础风格",
+    "starting_price": "$12/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每月 10 个", "基础风格"] },
+      { "name": "Pro", "price": "$12/月", "features": ["无限生成", "800+ 风格", "矢量导出", "品牌色"] },
+      { "name": "Team", "price": "$12/人/月", "features": ["团队协作", "共享品牌色", "管理控制台"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["文字自动生成图表", "800+ 视觉风格", "实时编辑", "矢量格式导出", "PPT/Figma 粘贴", "品牌色自定义"],
+  "use_cases": ["商业演示", "报告可视化", "教学内容", "营销素材", "数据报告"],
+  "rating": 4.6,
+  "review_count": 720,
+  "favorites_count": 2900,
+  "alternatives": ["infographics", "piktochart", "canva"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

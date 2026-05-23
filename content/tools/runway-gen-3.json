@@ -1,0 +1,47 @@
+{
+  "slug": "runway-gen-3",
+  "name": "Runway Gen-3",
+  "tagline": "AI 视频生成标杆，Gen-3 模型带来电影级画质",
+  "description": "Runway 是 AI 创意工具的行业引领者。Gen-3 模型在视频生成的画质、连贯性和可控性上都有质的飞跃。除了文生视频，还提供视频到视频的风格转换、运动画笔、绿幕抠像等功能。影视级创作工具的标杆。",
+  "category": "ai-video",
+  "subcategory": "",
+  "tags": [
+    "视频生成",
+    "电影级",
+    "创意工具",
+    "商业产品"
+  ],
+  "website": "https://runwayml.com",
+  "logo": "/logos/runway-gen-3.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费生成",
+    "starting_price": "$12/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生视频 Gen-3",
+    "运动画笔",
+    "视频风格转换",
+    "绿幕抠像",
+    "多工具集成"
+  ],
+  "use_cases": [
+    "短片创作",
+    "广告制作",
+    "概念可视化",
+    "影视后期"
+  ],
+  "rating": 4.6,
+  "review_count": 20000,
+  "favorites_count": 28000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

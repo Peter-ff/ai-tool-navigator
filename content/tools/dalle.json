@@ -1,0 +1,48 @@
+{
+  "slug": "dalle",
+  "name": "DALL·E",
+  "tagline": "OpenAI 的图像生成模型，以精准的语义理解和创意表现见长",
+  "description": "DALL·E 是 OpenAI 开发的 AI 图像生成系统，以惊人的语义理解能力和创意表现力著称。DALL·E 3 深度集成在 ChatGPT 中，用户可通过自然语言对话迭代优化图像。擅长文字渲染、精确构图和风格化创作。",
+  "category": "ai-image",
+  "subcategory": "image-generation",
+  "tags": [
+    "图像生成",
+    "OpenAI",
+    "语义理解",
+    "商业产品"
+  ],
+  "website": "https://openai.com/dall-e-3",
+  "logo": "/logos/dalle.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "包含在 ChatGPT Plus 订阅中",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "文生图",
+    "对话式迭代",
+    "文字渲染",
+    "风格化创作",
+    "ChatGPT 集成"
+  ],
+  "use_cases": [
+    "创意设计",
+    "插画创作",
+    "品牌设计",
+    "概念可视化"
+  ],
+  "rating": 4.7,
+  "review_count": 35000,
+  "favorites_count": 40000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

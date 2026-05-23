@@ -1,0 +1,49 @@
+{
+  "slug": "h2oai",
+  "name": "H2O.ai",
+  "tagline": "开源 AI 和机器学习平台，企业级 AutoML 民主化",
+  "description": "H2O.ai 是开源 AI 和机器学习的先驱，为企业提供完整的 AI 平台解决方案。H2O-3 和 Driverless AI 自动完成特征工程、模型选择和部署。开源社区活跃，广泛用于金融风控、医疗诊断和市场营销等场景。",
+  "category": "ai-data",
+  "subcategory": "",
+  "tags": [
+    "AutoML",
+    "开源",
+    "数据科学",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://www.h2o.ai",
+  "logo": "/logos/h2oai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "开源免费",
+    "starting_price": "企业版联系销售",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop"
+  ],
+  "features": [
+    "AutoML",
+    "特征工程",
+    "模型部署",
+    "开源",
+    "Driverless AI"
+  ],
+  "use_cases": [
+    "金融风控",
+    "医疗诊断",
+    "营销预测",
+    "时间序列"
+  ],
+  "rating": 4.5,
+  "review_count": 5000,
+  "favorites_count": 8000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bolt-new",
+  "name": "Bolt.new",
+  "tagline": "浏览器内 AI 全栈应用生成器，一句话描述即可生成可运行的 Web 应用",
+  "description": "Bolt.new 是 StackBlitz 推出的革命性 AI 开发工具，直接在浏览器中用自然语言描述需求，即可生成完整的前后端 Web 应用。内置 WebContainer 技术，应用在浏览器沙箱中实时运行，无需本地环境。支持 React、Next.js、Vue、Node.js 等主流框架，可在浏览器中直接部署到 Netlify 或导出代码继续开发。适合快速原型、MVP 验证和全栈学习。",
+  "category": "ai-coding",
+  "subcategory": "low-code",
+  "tags": ["低代码", "无代码", "Web 开发", "原型设计", "免费"],
+  "website": "https://bolt.new",
+  "logo": "/logos/bolt-new.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日 50 次 AI 请求",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 50 次请求", "公开项目", "基础功能"] },
+      { "name": "Pro", "price": "$20/月", "features": ["每日 500 次请求", "私有项目", "自定义域名"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["自然语言生成全栈应用", "浏览器内实时运行", "一键部署到 Netlify", "代码导出", "支持主流框架", "WebContainer 沙箱"],
+  "use_cases": ["快速原型开发", "MVP 验证", "全栈学习", "内部工具搭建", "Hackathon 项目"],
+  "rating": 4.8,
+  "review_count": 1800,
+  "favorites_count": 6200,
+  "alternatives": ["v0", "replit-agent", "lovable"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

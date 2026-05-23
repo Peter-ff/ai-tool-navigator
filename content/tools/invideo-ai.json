@@ -1,0 +1,49 @@
+{
+  "slug": "invideo-ai",
+  "name": "InVideo AI",
+  "tagline": "AI 一键生成视频，输入主题自动完成剪辑和配音",
+  "description": "InVideo AI 是面向营销和社交媒体的一站式 AI 视频创作平台。用户只需输入视频主题或文章链接，AI 即可自动生成包含素材、字幕、配音和背景音乐的完整视频。内置海量模板和素材库，支持多平台尺寸适配。",
+  "category": "ai-video",
+  "subcategory": "video-editing",
+  "tags": [
+    "视频制作",
+    "AI 剪辑",
+    "营销",
+    "社交媒体",
+    "商业产品"
+  ],
+  "website": "https://invideo.io",
+  "logo": "/logos/invideo-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费有限导出",
+    "starting_price": "$20/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "AI 主题生成视频",
+    "海量模板",
+    "自动配音",
+    "素材库",
+    "多平台尺寸"
+  ],
+  "use_cases": [
+    "社媒视频",
+    "营销广告",
+    "YouTube",
+    "产品宣传"
+  ],
+  "rating": 4.5,
+  "review_count": 12000,
+  "favorites_count": 16000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

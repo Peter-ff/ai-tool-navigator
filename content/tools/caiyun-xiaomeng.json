@@ -1,0 +1,32 @@
+{
+  "slug": "caiyun-xiaomeng",
+  "name": "彩云小梦",
+  "tagline": "AI 小说创作助手，给定开头 AI 续写，网文作者的秘密武器",
+  "description": "彩云小梦是彩云科技推出的 AI 小说创作和续写工具，在网文创作圈拥有极高人气。用户只需写下开头（一句话或几段），AI 即可按照设定的世界观、人物性格和故事风格进行续写。支持多种流派风格设置（玄幻、言情、悬疑、科幻等），AI 会学习用户的写作风格进行匹配。与起点、番茄等网文平台创作者社区深度绑定，被誉为「网文作者的第二大脑」。支持纯文本、Markdown 和逐段辅助多种模式。",
+  "category": "ai-writing",
+  "subcategory": "novel-writing",
+  "tags": ["小说创作", "AI 续写", "网文", "AI 助手", "国产"],
+  "website": "https://www.caiyunai.com",
+  "logo": "/logos/xiaomeng.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "每日免费续写额度",
+    "starting_price": "¥19.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 3000 字续写", "基础风格", "AI 续写"] },
+      { "name": "Pro", "price": "¥19.9/月", "features": ["无限续写", "高级世界观设定", "角色管理", "导出"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 小说续写", "多流派风格支持", "世界观设定", "角色性格管理", "学写作风格", "逐段辅助模式"],
+  "use_cases": ["网文创作", "小说续写", "灵感激发", "剧情构思", "角色发展"],
+  "rating": 4.4,
+  "review_count": 8600,
+  "favorites_count": 21000,
+  "alternatives": ["sudowrite", "novel-ai", "jenni-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

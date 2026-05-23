@@ -1,0 +1,48 @@
+{
+  "slug": "khanmigo",
+  "name": "Khanmigo",
+  "tagline": "可汗学院的 AI 导师，一对一引导式学习而非直接给答案",
+  "description": "Khanmigo 是可汗学院基于 GPT-4 打造的 AI 学习助手。不同于直接给学生答案，Khanmigo 采用苏格拉底式提问，引导学习者独立思考。覆盖数学、科学、编程、人文等多个学科，提供个性化辅导和写作反馈。K-12 教育 AI 应用的标杆。",
+  "category": "ai-education",
+  "subcategory": "tutoring",
+  "tags": [
+    "AI 辅导",
+    "教育",
+    "可汗学院",
+    "K-12",
+    "学习"
+  ],
+  "website": "https://www.khanmigo.ai",
+  "logo": "/logos/khanmigo.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$4/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 一对一辅导",
+    "苏格拉底式提问",
+    "写作反馈",
+    "多学科覆盖",
+    "教师工具"
+  ],
+  "use_cases": [
+    "课后辅导",
+    "家庭学习",
+    "写作提升",
+    "教师辅助"
+  ],
+  "rating": 4.6,
+  "review_count": 8000,
+  "favorites_count": 12000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

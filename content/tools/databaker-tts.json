@@ -1,0 +1,32 @@
+{
+  "slug": "databaker-tts",
+  "name": "标贝AI语音",
+  "tagline": "标贝科技 AI 语音合成平台，超拟人语音，多角色多情感免费试用",
+  "description": "标贝AI语音是标贝科技（DataBaker）推出的语音合成（TTS）和语音识别平台。拥有超千种 AI 音色库，支持多角色（老人/儿童/青年）、多情感（开心/悲伤/愤怒/平静）、多方言（粤语/四川话/东北话等）。合成效果自然流畅、几可乱真。广泛应用于有声书制作、智能客服、车载语音、短视频配音等场景。提供在线体验、API 和 SDK，新用户有免费额度。",
+  "category": "ai-audio",
+  "subcategory": "tts",
+  "tags": ["语音合成", "TTS", "标贝科技", "AI 配音", "国产"],
+  "website": "https://www.databaker.com",
+  "logo": "/logos/databaker.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "新用户免费 100 万字符",
+    "starting_price": "¥99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["免费 100 万字", "基础音色", "在线体验"] },
+      { "name": "Pro", "price": "¥99/月", "features": ["无限合成", "全量音色", "API 调用", "商用授权"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 超拟人语音合成", "1000+ AI 音色", "多情感表达", "多方言支持", "API 和 SDK", "有声书制作"],
+  "use_cases": ["有声书", "短视频配音", "智能客服", "车载语音", "无障碍朗读"],
+  "rating": 4.3,
+  "review_count": 2800,
+  "favorites_count": 6500,
+  "alternatives": ["elevenlabs", "xunfei-tts", "microsoft-azure-tts"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "seventh-sense",
+  "name": "Seventh Sense",
+  "tagline": "AI 邮件发送时间优化，在最佳时刻触达每个收件人",
+  "description": "Seventh Sense 是专注邮件发送时间优化的 AI 工具。不同于批量群发，它分析每个收件人的邮件打开行为，为每个联系人选择最佳发送时刻。与 HubSpot 和 Marketo 集成，显著提升邮件打开率和点击率。",
+  "category": "ai-marketing",
+  "subcategory": "",
+  "tags": [
+    "邮件营销",
+    "AI 优化",
+    "HubSpot",
+    "转化率",
+    "商业产品"
+  ],
+  "website": "https://www.theseventhsense.com",
+  "logo": "/logos/seventh-sense.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$64/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "个性化发送时间",
+    "行为分析",
+    "HubSpot 集成",
+    "A/B 测试",
+    "报告分析"
+  ],
+  "use_cases": [
+    "邮件营销",
+    "线索培育",
+    "客户沟通",
+    "活动推广"
+  ],
+  "rating": 4.5,
+  "review_count": 2000,
+  "favorites_count": 3000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

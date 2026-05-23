@@ -1,0 +1,33 @@
+{
+  "slug": "spline",
+  "name": "Spline",
+  "tagline": "浏览器内实时 3D 设计工具，AI 驱动 3D 建模与交互动效创作",
+  "description": "Spline 是颠覆性的在线 3D 设计工具，直接在浏览器中进行实时 3D 建模、材质编辑和交互动效创作。2025 年集成的 AI 功能包括：AI Text to 3D（文字描述生成 3D 物体）、AI Style Transfer（风格迁移到 3D 场景）、AI Animation（自动生成交互动画）。支持实时协作、Web 导出（Three.js/react-three-fiber），是 Web 3D 交互设计的首选工具。",
+  "category": "ai-design",
+  "subcategory": "3d-generation",
+  "tags": ["3D 生成", "交互设计", "Web 3D", "建模", "协作"],
+  "website": "https://spline.design",
+  "logo": "/logos/spline.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "无限个人项目，核心功能",
+    "starting_price": "$9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["无限项目", "基础导出", "社区支持"] },
+      { "name": "Pro", "price": "$9/月", "features": ["AI 功能", "高级导出", "无品牌标识"] },
+      { "name": "Team", "price": "$15/人/月", "features": ["实时协作", "团队库", "SSO"] }
+    ]
+  },
+  "platforms": ["web", "desktop"],
+  "features": ["AI Text to 3D", "实时 3D 建模", "材质与光照编辑", "AI 交互动画", "Web 导出 (Three.js)", "实时协作"],
+  "use_cases": ["Web 3D 交互", "产品展示", "品牌页面", "游戏原型", "创意设计"],
+  "rating": 4.7,
+  "review_count": 1200,
+  "favorites_count": 5100,
+  "alternatives": ["blender", "three-js", "womp"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

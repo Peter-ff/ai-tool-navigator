@@ -1,0 +1,49 @@
+{
+  "slug": "stable-diffusion",
+  "name": "Stable Diffusion",
+  "tagline": "开源 AI 图像生成模型之王，无限创意可能",
+  "description": "Stable Diffusion 是 Stability AI 开发的开源 AI 图像生成模型，拥有庞大的社区生态和海量衍生模型。用户可以通过文生图、图生图、图像修复等多种模式创作高质量图像。开源性使其在自定义模型训练和工作流集成方面拥有无与伦比的灵活性。",
+  "category": "ai-image",
+  "subcategory": "image-generation",
+  "tags": [
+    "图像生成",
+    "开源",
+    "文生图",
+    "社区驱动"
+  ],
+  "website": "https://stability.ai",
+  "logo": "/logos/stable-diffusion.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "",
+    "starting_price": "免费",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop"
+  ],
+  "features": [
+    "文生图",
+    "图生图",
+    "图像修复",
+    "自定义模型",
+    "ControlNet 精准控制",
+    "ComfyUI 工作流"
+  ],
+  "use_cases": [
+    "数字艺术",
+    "概念设计",
+    "产品展示",
+    "社交媒体配图"
+  ],
+  "rating": 4.8,
+  "review_count": 38000,
+  "favorites_count": 45000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

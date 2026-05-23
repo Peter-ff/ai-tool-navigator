@@ -1,0 +1,52 @@
+{
+  "slug": "microsoft-copilot",
+  "name": "Microsoft Copilot",
+  "tagline": "微软全家桶内置 AI 助手，Office 和 Windows 的智能副驾驶",
+  "description": "Microsoft Copilot 是微软将 AI 深度整合进其产品生态的旗舰功能，覆盖 Word、Excel、PowerPoint、Outlook、Teams 等办公应用。在 Word 中可起草和改写文档，在 Excel 中可用自然语言分析数据，在 PowerPoint 中可一键生成演示文稿。Windows 11 系统级集成更实现了跨应用的 AI 辅助。",
+  "category": "ai-office",
+  "subcategory": "office-suite",
+  "tags": [
+    "办公套件",
+    "Microsoft",
+    "写作",
+    "数据分析",
+    "商业产品"
+  ],
+  "website": "https://copilot.microsoft.com",
+  "logo": "/logos/microsoft-copilot.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$30/用户/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop",
+    "mobile"
+  ],
+  "features": [
+    "Word 文档生成",
+    "Excel 数据分析",
+    "PPT 自动生成",
+    "Outlook 邮件辅助",
+    "Teams 会议摘要",
+    "Windows 系统集成"
+  ],
+  "use_cases": [
+    "文档写作",
+    "数据分析",
+    "演示制作",
+    "会议纪要",
+    "邮件管理"
+  ],
+  "rating": 4.5,
+  "review_count": 25000,
+  "favorites_count": 35000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

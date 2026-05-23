@@ -1,0 +1,47 @@
+{
+  "slug": "pika",
+  "name": "Pika",
+  "tagline": "AI 视频生成新秀，简单易用的视频创作工具",
+  "description": "Pika Labs 是快速崛起的 AI 视频生成平台，以极简的用户体验和不断创新的功能著称。支持文生视频、图生视频、视频风格转换、视频扩展和 Lip Sync 等。Pika 2.0 引入了场景元素和更精准的运动控制。",
+  "category": "ai-video",
+  "subcategory": "video-generation",
+  "tags": [
+    "视频生成",
+    "AI 创作",
+    "创意工具",
+    "商业产品"
+  ],
+  "website": "https://pika.art",
+  "logo": "/logos/pika.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费有限生成",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生视频",
+    "图生视频",
+    "视频风格转换",
+    "Lip Sync",
+    "视频扩展"
+  ],
+  "use_cases": [
+    "短视频创作",
+    "社交内容",
+    "创意表达",
+    "广告素材"
+  ],
+  "rating": 4.4,
+  "review_count": 14000,
+  "favorites_count": 22000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

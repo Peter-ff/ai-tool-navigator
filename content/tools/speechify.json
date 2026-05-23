@@ -1,0 +1,50 @@
+{
+  "slug": "speechify",
+  "name": "Speechify",
+  "tagline": "AI 文字转语音阅读器，让每篇文章都能被听见",
+  "description": "Speechify 是广受欢迎的 AI 文字转语音应用。可以将网页、PDF、电子书和文档转换为自然流畅的音频朗读。支持名人声音（如 Snoop Dogg、Gwyneth Paltrow），提供跨设备同步阅读进度。对阅读障碍者和多任务学习者特别有帮助。",
+  "category": "ai-audio",
+  "subcategory": "tts",
+  "tags": [
+    "文字转语音",
+    "阅读",
+    "名人声音",
+    "学习辅助",
+    "商业产品"
+  ],
+  "website": "https://speechify.com",
+  "logo": "/logos/speechify.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础声音免费",
+    "starting_price": "$11.58/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "browser-extension",
+    "mobile"
+  ],
+  "features": [
+    "自然语音朗读",
+    "名人声音",
+    "PDF/电子书朗读",
+    "跨设备同步",
+    "速度调节"
+  ],
+  "use_cases": [
+    "文章朗读",
+    "学习辅助",
+    "文档审听",
+    "多任务阅读"
+  ],
+  "rating": 4.7,
+  "review_count": 18000,
+  "favorites_count": 22000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

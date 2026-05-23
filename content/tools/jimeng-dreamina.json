@@ -1,0 +1,32 @@
+{
+  "slug": "jimeng-dreamina",
+  "name": "即梦 Dreamina",
+  "tagline": "字节跳动 AI 图像平台，图生图/局部重绘/AI 扩图，免费额度充足",
+  "description": "即梦（Dreamina）是字节跳动推出的 AI 图像生成和编辑平台。区别于文生图为主的工具，即梦在图生图、AI 图像编辑方面更为突出——支持以图生图（上传参考图生成同风格新图）、智能局部重绘（涂抹区域 AI 替换）、AI 扩图（扩展画幅 AI 补全边缘）、AI 高清修复。中文提示词理解精准，抖音/头条素材风格优化。免费额度充足（每日可生成的张数多），对国内创作者非常友好。",
+  "category": "ai-image",
+  "subcategory": "image-to-image",
+  "tags": ["图生图", "字节跳动", "图像编辑", "AI 扩图", "国产"],
+  "website": "https://www.dreamina.cn",
+  "logo": "/logos/dreamina.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "每日免费生成多张",
+    "starting_price": "¥29/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日免费额度", "图生图", "局部重绘", "AI 扩图"] },
+      { "name": "Pro", "price": "¥29/月", "features": ["高产额度", "高清导出", "去水印", "商用授权"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["图生图", "AI 局部重绘", "AI 扩图", "AI 高清修复", "中文提示词优化", "抖音风格适配"],
+  "use_cases": ["图像编辑", "创意设计", "电商改图", "社交媒体", "艺术二次创作"],
+  "rating": 4.4,
+  "review_count": 5800,
+  "favorites_count": 13000,
+  "alternatives": ["leonardo-ai", "midjourney", "tongyi-wanxiang"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

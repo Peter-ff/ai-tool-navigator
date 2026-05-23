@@ -1,0 +1,31 @@
+{
+  "slug": "looka",
+  "name": "Looka",
+  "tagline": "AI Logo 和品牌设计平台，输入名称即刻生成专业品牌视觉方案",
+  "description": "Looka（原 Logojoy）是用 AI 驱动品牌设计的平台，通过输入品牌名称和偏好风格，自动生成数百个 Logo 方案供选择。不仅能生成 Logo，还提供完整的品牌套件（Brand Kit），包括配色方案、字体搭配、名片、社交媒体素材等。设计过程简单直观：输入品牌信息 → 选择你喜欢的风格 → AI 生成 → 精调定制 → 下载源文件。",
+  "category": "ai-image",
+  "subcategory": "logo-generator",
+  "tags": ["Logo 生成", "品牌设计", "AI 设计", "商业产品"],
+  "website": "https://looka.com",
+  "logo": "/logos/looka.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$20/一次性",
+    "plans": [
+      { "name": "Basic", "price": "$20", "features": ["1 个低分辨率 Logo", "基础格式"] },
+      { "name": "Premium", "price": "$65", "features": ["多个高清 Logo", "矢量文件", "品牌套件", "无限修改"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI Logo 自动生成", "数百个设计方案", "实时编辑定制", "品牌套件生成", "矢量文件下载", "名片与物料设计"],
+  "use_cases": ["创业公司 Logo", "品牌设计", "社交媒体头像", "名片设计", "品牌重塑"],
+  "rating": 4.4,
+  "review_count": 4100,
+  "favorites_count": 8700,
+  "alternatives": ["canva", "brandmark", "hatchful"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

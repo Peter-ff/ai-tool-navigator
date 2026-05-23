@@ -1,0 +1,32 @@
+{
+  "slug": "coderabbit",
+  "name": "CodeRabbit",
+  "tagline": "AI 代码审查平台，自动分析 PR 并提供上下文感知的改进建议",
+  "description": "CodeRabbit 是 AI 驱动的自动化代码审查工具，深度集成 GitHub 和 GitLab。不同于传统 lint 工具，CodeRabbit 能理解代码语义和业务逻辑，提供行级评论、代码质量分析、安全漏洞检测和改进建议。支持增量审查（只审变更部分）、自动总结 PR 变更、生成变更日志。广泛应用于开源项目和企业团队，显著减少人工 Code Review 时间。",
+  "category": "ai-coding",
+  "subcategory": "testing",
+  "tags": ["代码审查", "PR 分析", "安全检测", "CI/CD", "开源友好"],
+  "website": "https://coderabbit.ai",
+  "logo": "/logos/coderabbit.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "开源项目免费，私有仓库 7 天试用",
+    "starting_price": "$12/人/月",
+    "plans": [
+      { "name": "Open Source", "price": "免费", "features": ["无限审查", "行级评论", "自动总结"] },
+      { "name": "Pro", "price": "$12/人/月", "features": ["全部功能", "私有仓库", "优先支持", "自定义规则"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 代码行级审查", "PR 变更自动总结", "安全漏洞检测", "增量审查", "自定义审查规则", "变更日志生成"],
+  "use_cases": ["代码审查", "PR 检查", "安全审计", "代码质量管理", "开源项目维护"],
+  "rating": 4.6,
+  "review_count": 780,
+  "favorites_count": 3400,
+  "alternatives": ["codeclimate", "deepcode", "snyk-code"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

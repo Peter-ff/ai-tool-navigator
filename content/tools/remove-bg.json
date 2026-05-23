@@ -1,0 +1,33 @@
+{
+  "slug": "remove-bg",
+  "name": "Remove.bg",
+  "tagline": "一键 AI 抠图工具，5 秒去除图片背景，无需任何手动操作",
+  "description": "Remove.bg 是最受欢迎的 AI 自动抠图工具，上传图片后 5 秒内即可去除背景，输出透明 PNG。基于深度学习模型，能精准识别人物、动物、产品、汽车等主体边缘，处理发丝、透明物体等复杂边缘效果出色。提供 API 接口供开发者集成，支持批量处理、背景替换、智能裁剪等功能。月处理图片量超过 10 亿张。",
+  "category": "ai-image",
+  "subcategory": "ai-retouch",
+  "tags": ["AI 修图", "抠图", "背景移除", "API", "商业产品"],
+  "website": "https://www.remove.bg",
+  "logo": "/logos/remove-bg.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 1 张免费（低分辨率预览）",
+    "starting_price": "€0.20/张",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每月 1 张", "预览分辨率"] },
+      { "name": "Pay as you go", "price": "€0.20/张起", "features": ["高分辨率", "API 访问", "按需付费"] },
+      { "name": "Subscription", "price": "€9/月起", "features": ["月度额度", "更高分辨率", "批量处理"] }
+    ]
+  },
+  "platforms": ["web", "desktop"],
+  "features": ["5 秒自动抠图", "发丝级边缘识别", "批量处理", "API 集成", "背景替换", "智能裁剪"],
+  "use_cases": ["电商产品图", "人物照片处理", "设计素材准备", "证件照", "社交媒体创作"],
+  "rating": 4.8,
+  "review_count": 5600,
+  "favorites_count": 14500,
+  "alternatives": ["clipdrop", "photoroom", "adobe-firefly"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

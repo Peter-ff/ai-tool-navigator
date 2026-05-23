@@ -1,0 +1,32 @@
+{
+  "slug": "netease-sight",
+  "name": "网易见外",
+  "tagline": "网易 AI 音视频处理平台，音频/视频转文字、翻译、AI 配音一站式",
+  "description": "网易见外是网易推出的 AI 音视频智能处理平台。核心功能包括：AI 音频转文字（准确率极高，支持中英日韩等语种）、AI 视频字幕自动生成、AI 音频翻译（实时多语言翻译）、AI 语音合成配音、AI 音频降噪和修复。支持批量处理，是视频创作者、播客制作者、翻译工作者的高效工具。与网易云音乐、网易新闻等生态打通，提供免费额度充足的日常使用方案。",
+  "category": "ai-audio",
+  "subcategory": "audio-editing",
+  "tags": ["音频转写", "AI 翻译", "语音合成", "网易", "国产"],
+  "website": "https://sight.youdao.com",
+  "logo": "/logos/sight.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "每日免费转写额度",
+    "starting_price": "¥29/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 1 小时", "基础转写", "中英双语"] },
+      { "name": "Pro", "price": "¥29/月", "features": ["无限转写", "多语种翻译", "AI 配音", "高清导出"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 音频转文字", "AI 视频加字幕", "AI 多语言翻译", "AI 语音合成配音", "AI 音频降噪", "批量处理"],
+  "use_cases": ["视频字幕", "播客转文字", "音频翻译", "会议记录", "有声内容"],
+  "rating": 4.2,
+  "review_count": 3800,
+  "favorites_count": 9000,
+  "alternatives": ["adobe-podcast", "descript", "otter-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

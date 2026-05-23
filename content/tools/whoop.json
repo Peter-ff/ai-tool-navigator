@@ -1,0 +1,31 @@
+{
+  "slug": "whoop",
+  "name": "Whoop",
+  "tagline": "AI 驱动的健康与体能监测，基于心率变异自动优化训练和恢复",
+  "description": "Whoop 是专业级 AI 健康监测平台（配合可穿戴手环），24/7 追踪心率、心率变异性 (HRV)、睡眠质量、血氧、皮肤温度等生理指标。AI 教练每天给出 Strain（运动负荷建议）、Recovery（恢复状态评分）和 Sleep（睡眠需求分析）三大核心指标。基于个体长期数据的 AI 模型能够预测最佳训练强度、提醒恢复不足、评估生活方式变化对健康的影响。LeBron James、Tiger Woods 等顶级运动员都在使用。",
+  "category": "ai-lifestyle",
+  "subcategory": "health",
+  "tags": ["健康管理", "运动追踪", "睡眠分析", "AI 教练", "商业产品"],
+  "website": "https://www.whoop.com",
+  "logo": "/logos/whoop.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$30/月（含硬件）",
+    "plans": [
+      { "name": "Annual", "price": "$230/年", "features": ["手环免费", "AI 健康分析", "24/7 监测"] },
+      { "name": "Monthly", "price": "$30/月", "features": ["全部功能", "可随时取消"] }
+    ]
+  },
+  "platforms": ["mobile", "web"],
+  "features": ["HRV 心率变异追踪", "AI 恢复状态评分", "运动负荷建议", "睡眠质量分析", "长期健康趋势", "生活习惯影响分析"],
+  "use_cases": ["运动训练优化", "睡眠改善", "压力管理", "健康追踪", "竞技备战"],
+  "rating": 4.4,
+  "review_count": 8700,
+  "favorites_count": 15000,
+  "alternatives": ["oura-ring", "fitbit", "apple-watch"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

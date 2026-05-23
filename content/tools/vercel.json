@@ -1,0 +1,33 @@
+{
+  "slug": "vercel",
+  "name": "Vercel",
+  "tagline": "AI 原生前端云平台，Git 推送即自动部署，全球 CDN 加速",
+  "description": "Vercel 是 Next.js 的创造者提供的云部署平台，已成为现代 Web 应用部署的事实标准。AI 功能包括：AI 辅助部署诊断（自动检测构建错误并给出修复建议）、自动 HTTPS 和全球 CDN、Edge Functions（Serverless 边缘计算）、Preview Deployments（每个 PR 自动生成预览环境）、Analytics 性能分析。与 GitHub/GitLab 深度集成，git push 即可自动部署，零运维负担。免费层足以支撑个人和小团队项目。",
+  "category": "ai-coding",
+  "subcategory": "deployment",
+  "tags": ["部署", "云平台", "Serverless", "CDN", "免费增值"],
+  "website": "https://vercel.com",
+  "logo": "/logos/vercel.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "100GB 带宽，无限站点",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Hobby", "price": "免费", "features": ["无限站点", "100GB 带宽", "自动部署", "社区支持"] },
+      { "name": "Pro", "price": "$20/月", "features": ["1TB 带宽", "高级分析", "团队协作", "优先支持"] },
+      { "name": "Enterprise", "price": "定制", "features": ["无限带宽", "SSO", "审计日志", "专属支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["Git 推送自动部署", "全球 CDN 加速", "Preview Deployments", "Edge Functions", "自动 HTTPS", "AI 构建诊断"],
+  "use_cases": ["前端项目部署", "全栈应用上线", "静态网站托管", "API 服务部署", "Preview 环境"],
+  "rating": 4.8,
+  "review_count": 5600,
+  "favorites_count": 22000,
+  "alternatives": ["netlify", "cloudflare-pages", "railway"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

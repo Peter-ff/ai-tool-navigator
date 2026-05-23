@@ -1,0 +1,32 @@
+{
+  "slug": "captions",
+  "name": "Captions",
+  "tagline": "AI 字幕和短视频制作工具，自动生成精准字幕和 AI 特效",
+  "description": "Captions 是专注短视频内容的 AI 工具，以自动语音识别字幕为核心，逐渐扩展为 AI 视频创作平台。核心功能：AI 自动生成多语言字幕（支持 28 种语言）、AI 字幕样式美化（自动跟随语音节奏的高亮效果）、AI 眼神矫正（让眼睛看起来对着镜头）、AI 降噪增强、AI 视频压缩、表情包和贴纸。被 TikTok、Instagram Reels、YouTube Shorts 创作者广泛使用，月活用户超 1000 万。",
+  "category": "ai-video",
+  "subcategory": "subtitle",
+  "tags": ["字幕生成", "短视频", "AI 编辑", "社交媒体", "商业产品"],
+  "website": "https://www.captions.ai",
+  "logo": "/logos/captions.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每天 3 个视频，基础字幕",
+    "starting_price": "$9.99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 3 个视频", "基础字幕"] },
+      { "name": "Pro", "price": "$9.99/月", "features": ["无限视频", "字幕样式定制", "AI 眼神矫正", "无品牌标识"] }
+    ]
+  },
+  "platforms": ["mobile", "web"],
+  "features": ["AI 自动字幕生成", "28 种语言支持", "字幕样式动效", "AI 眼神矫正", "AI 降噪增强", "智能视频压缩"],
+  "use_cases": ["短视频创作", "社交媒体内容", "YouTube Shorts", "抖音/TikTok", "Instagram Reels"],
+  "rating": 4.6,
+  "review_count": 3400,
+  "favorites_count": 8900,
+  "alternatives": ["capcut", "veed", "descript"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

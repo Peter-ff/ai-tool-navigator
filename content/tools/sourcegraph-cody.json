@@ -1,0 +1,48 @@
+{
+  "slug": "sourcegraph-cody",
+  "name": "Sourcegraph Cody",
+  "tagline": "基于代码知识图谱的 AI 编程助手，理解整个代码库",
+  "description": "Cody 是 Sourcegraph 推出的 AI 编程助手，核心优势是能理解整个代码仓库的上下文而非仅当前文件。通过代码知识图谱技术，Cody 可以精准回答关于代码库的问题、生成符合项目风格的代码、自动编写单元测试。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": [
+    "代码助手",
+    "代码搜索",
+    "知识图谱",
+    "商业产品"
+  ],
+  "website": "https://sourcegraph.com/cody",
+  "logo": "/logos/sourcegraph-cody.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "个人开发者免费",
+    "starting_price": "$9/月",
+    "plans": []
+  },
+  "platforms": [
+    "desktop",
+    "browser-extension"
+  ],
+  "features": [
+    "全仓库上下文理解",
+    "代码搜索问答",
+    "自动补全",
+    "单元测试生成",
+    "代码审查"
+  ],
+  "use_cases": [
+    "大型项目开发",
+    "代码库理解",
+    "代码审查",
+    "技术文档"
+  ],
+  "rating": 4.5,
+  "review_count": 7000,
+  "favorites_count": 10000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-22",
+  "type": "theme-pack",
+  "title": "独立开发者效率四件套：从代码到产品只需这些 AI 工具",
+  "description": "独立开发者一个人就是一个团队，选对工具能帮你省掉半个团队的活。今天推荐 4 个全栈独立开发者必备的 AI 效率工具。",
+  "tools": [
+    { "slug": "cursor", "reason": "AI 时代的代码编辑器，Agent 模式帮你自主完成多步骤任务" },
+    { "slug": "gamma", "reason": "产品 PPT 和文档一句话生成，节省大量设计时间" },
+    { "slug": "chatgpt", "reason": "充当产品经理和测试，帮你理清需求" },
+    { "slug": "notion-ai", "reason": "项目文档和知识库管理，保持思路清晰" }
+  ]
+}

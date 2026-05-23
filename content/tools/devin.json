@@ -1,0 +1,46 @@
+{
+  "name": "Devin",
+  "tagline": "全球首个 AI 软件工程师，全自动编程和部署",
+  "description": "Devin 是 Cognition AI 推出的全球首个 AI 软件工程师。不仅能写代码，还能独立规划项目、搭建环境、调试错误、甚至部署上线。用户只需描述需求，Devin 可以全程自主完成。已在实际工程任务中展现出惊人的能力，被誉为 AI 编程的里程碑。",
+  "category": "ai-coding",
+  "tags": [
+    "AI 编程",
+    "自动部署",
+    "AI 工程师",
+    "编程代理",
+    "商业产品"
+  ],
+  "website": "https://www.cognition.ai",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "全栈开发",
+    "自主规划",
+    "环境搭建",
+    "部署上线",
+    "Bug 修复"
+  ],
+  "use_cases": [
+    "全栈项目",
+    "Bug 修复",
+    "代码重构",
+    "项目搭建"
+  ],
+  "rating": 4.6,
+  "review_count": 8000,
+  "favorites_count": 15000,
+  "status": "published",
+  "slug": "devin",
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$500/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

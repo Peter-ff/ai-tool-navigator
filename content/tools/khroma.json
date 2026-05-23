@@ -1,0 +1,47 @@
+{
+  "slug": "khroma",
+  "name": "Khroma",
+  "tagline": "AI 色彩搭配工具，训练你的专属配色模型",
+  "description": "Khroma 是一款创新的 AI 配色工具。用户首先选择一组喜欢的颜色，AI 学习你的色彩偏好后生成专属配色方案。提供无限配色组合、渐变色建议和色板管理功能。是设计师和品牌运营的配色利器。",
+  "category": "ai-design",
+  "subcategory": "color-palette",
+  "tags": [
+    "配色",
+    "AI 学习",
+    "设计工具",
+    "免费"
+  ],
+  "website": "https://www.khroma.co",
+  "logo": "/logos/khroma.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "完全免费",
+    "starting_price": "",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 配色学习",
+    "无限配色生成",
+    "渐变色建议",
+    "色板管理",
+    "对比度检测"
+  ],
+  "use_cases": [
+    "品牌配色",
+    "UI 设计",
+    "插画配色",
+    "营销设计"
+  ],
+  "rating": 4.3,
+  "review_count": 4000,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

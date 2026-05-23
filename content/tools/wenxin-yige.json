@@ -1,0 +1,32 @@
+{
+  "slug": "wenxin-yige",
+  "name": "文心一格",
+  "tagline": "百度 AI 绘画平台，中文语义理解领先，多种艺术风格一键生成",
+  "description": "文心一格是百度推出的 AI 艺术和创意辅助平台，基于文心大模型。核心理念是「人人都是创作者」——用户输入中文描述即可生成高质量画作。支持文生图、图生图、风格迁移等多种模式。在中文语义理解和东方美学风格方面有显著优势，对中国传统画风（水墨、工笔、山水等）的渲染尤为出色。提供 API 接口供开发者调用。",
+  "category": "ai-image",
+  "subcategory": "style-transfer",
+  "tags": ["AI 绘画", "百度", "中文语义", "风格迁移", "国产"],
+  "website": "https://yige.baidu.com",
+  "logo": "/logos/yige.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "新用户免费额度",
+    "starting_price": "¥50/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日免费额度", "基础风格", "社区交流"] },
+      { "name": "VIP", "price": "¥50/月", "features": ["更多额度", "高清下载", "高级风格", "商用授权"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["文生图", "图生图", "AI 风格迁移", "中国传统画风", "二次元风格", "API 接口"],
+  "use_cases": ["艺术创作", "国风设计", "插画绘制", "概念设计", "品牌视觉"],
+  "rating": 4.3,
+  "review_count": 7500,
+  "favorites_count": 16000,
+  "alternatives": ["midjourney", "prisma-labs", "tongyi-wanxiang"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

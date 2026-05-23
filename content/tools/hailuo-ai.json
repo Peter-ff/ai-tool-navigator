@@ -1,0 +1,32 @@
+{
+  "slug": "hailuo-ai",
+  "name": "海螺AI",
+  "tagline": "MiniMax 出品的 AI 视频生成平台，画质精良，语义理解精准",
+  "description": "海螺AI（Hailuo AI）是 MiniMax 推出的 AI 创意平台，以 AI 视频生成为核心功能。海螺视频在语义理解、画面质量、镜头稳定性方面表现突出。支持文生视频和图生视频，可生成长达 6 秒的高质量视频片段。MiniMax 是国内估值最高的大模型独角兽之一，海螺AI 是其面向消费者的旗舰产品，全球用户超千万。",
+  "category": "ai-video",
+  "subcategory": "text-to-video",
+  "tags": ["文生视频", "图生视频", "MiniMax", "高质量", "商业产品"],
+  "website": "https://hailuoai.com",
+  "logo": "/logos/hailuo.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "新用户免费额度",
+    "starting_price": "¥49/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日免费额度", "基础画质"] },
+      { "name": "Pro", "price": "¥49/月", "features": ["更多额度", "高清水印去除", "优先生成"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["文生视频", "图生视频", "高清画质", "精准语义理解", "快速生成", "多风格支持"],
+  "use_cases": ["短视频制作", "创意内容", "广告营销", "社交媒体", "艺术创作"],
+  "rating": 4.4,
+  "review_count": 6200,
+  "favorites_count": 13000,
+  "alternatives": ["runway", "kling", "jimeng"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

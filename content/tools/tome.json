@@ -1,0 +1,47 @@
+{
+  "slug": "tome",
+  "name": "Tome",
+  "tagline": "AI 叙事和演示工具，一键将想法转化为引人入胜的故事",
+  "description": "Tome 是面向现代职场的 AI 叙事和演示工具。它打破了传统 PPT 的线性结构，以卡片式、响应式的页面呈现信息。用户输入一个主题，AI 即可生成结构完整、设计精美的演示文稿，支持嵌入 Figma 设计稿、视频和实时数据。",
+  "category": "ai-office",
+  "subcategory": "presentations",
+  "tags": [
+    "演示工具",
+    "叙事",
+    "AI 生成",
+    "商业产品"
+  ],
+  "website": "https://tome.app",
+  "logo": "/logos/tome.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费页面",
+    "starting_price": "$8/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 主题生成",
+    "卡片式排版",
+    "响应式设计",
+    "Figma 嵌入",
+    "数据分析集成"
+  ],
+  "use_cases": [
+    "商业提案",
+    "策略概览",
+    "项目展示",
+    "设计评审"
+  ],
+  "rating": 4.4,
+  "review_count": 7000,
+  "favorites_count": 11000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

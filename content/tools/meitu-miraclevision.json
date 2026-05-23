@@ -1,0 +1,32 @@
+{
+  "slug": "meitu-miraclevision",
+  "name": "美图 MiracleVision",
+  "tagline": "美图自研 AI 视觉大模型，AI 修图、AI 绘画、AI 设计一站式平台",
+  "description": "MiracleVision（奇想智能）是美图公司自研的 AI 视觉大模型，为美图秀秀、Wink、美颜相机等产品提供 AI 能力。功能覆盖：AI 绘画（文生图和图生图）、AI 人像修图（智能美颜、背景替换、AI 扩图）、AI 商品图（电商产品图一键生成场景）、AI 设计（海报/Logo 生成）。美图全球月活用户超 2.5 亿，是国内 AI 图像领域的绝对领导者。",
+  "category": "ai-image",
+  "subcategory": "ai-retouch",
+  "tags": ["修图", "美图", "AI 绘画", "电商", "商业产品"],
+  "website": "https://miraclevision.meitu.com",
+  "logo": "/logos/miraclevision.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础美颜和修图免费",
+    "starting_price": "¥12/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础美颜", "AI 修图", "滤镜"] },
+      { "name": "VIP", "price": "¥12/月", "features": ["高清导出", "AI 扩图", "AI 绘画", "商用授权"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 文生图", "AI 图生图", "AI 智能美颜", "AI 背景替换", "AI 扩图", "AI 商品图生成"],
+  "use_cases": ["人像修图", "电商设计", "社交媒体", "艺术创作", "证件照"],
+  "rating": 4.5,
+  "review_count": 35000,
+  "favorites_count": 68000,
+  "alternatives": ["leonardo-ai", "remove-bg", "canva"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

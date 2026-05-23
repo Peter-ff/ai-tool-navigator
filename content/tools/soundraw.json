@@ -1,0 +1,46 @@
+{
+  "name": "Soundraw",
+  "tagline": "AI 免版税音乐生成，为创作者而生",
+  "description": "Soundraw 是专注于创作者的 AI 音乐平台。用户可以自定义音乐长度、速度、情绪和乐器配置，AI 生成独特的原创音乐。生成的音乐无版权问题，可直接用于视频、播客、游戏等商业项目。",
+  "category": "ai-audio",
+  "tags": [
+    "AI 音乐",
+    "免版税",
+    "商业授权",
+    "商业产品"
+  ],
+  "website": "https://soundraw.io",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 音乐生成",
+    "情绪选择",
+    "乐器配置",
+    "无版权音乐",
+    "无限下载"
+  ],
+  "use_cases": [
+    "视频配乐",
+    "播客音乐",
+    "游戏配乐",
+    "广告音乐"
+  ],
+  "rating": 4.3,
+  "review_count": 5000,
+  "favorites_count": 8000,
+  "status": "published",
+  "slug": "soundraw",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "无限试听",
+    "starting_price": "$16.99/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "calm-ai",
+  "name": "Calm AI",
+  "tagline": "AI 个性化冥想和睡眠指导，帮你找回内心的平静",
+  "description": "Calm 是全球领先的冥想和心理健康应用，2025 年引入 AI 功能后提供更个性化的冥想推荐。AI 根据用户的情绪状态、睡眠数据和偏好自动推荐冥想课程、睡前故事和呼吸练习。帮助你更好地管理压力、改善睡眠。",
+  "category": "ai-lifestyle",
+  "subcategory": "",
+  "tags": [
+    "冥想",
+    "睡眠",
+    "AI 推荐",
+    "心理健康",
+    "商业产品"
+  ],
+  "website": "https://www.calm.com",
+  "logo": "/logos/calm-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限课程免费",
+    "starting_price": "$14.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "mobile",
+    "web"
+  ],
+  "features": [
+    "AI 冥想推荐",
+    "睡眠故事",
+    "呼吸练习",
+    "情绪追踪",
+    "个性化课程"
+  ],
+  "use_cases": [
+    "冥想入门",
+    "改善睡眠",
+    "减压放松",
+    "专注力提升"
+  ],
+  "rating": 4.6,
+  "review_count": 40000,
+  "favorites_count": 42000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

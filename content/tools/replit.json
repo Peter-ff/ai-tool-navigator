@@ -1,0 +1,49 @@
+{
+  "slug": "replit",
+  "name": "Replit",
+  "tagline": "云端 AI 开发环境，浏览器里完成从编码到部署全流程",
+  "description": "Replit 是全球最大的云端开发环境之一，内置 AI 编程助手 Ghostwriter。用户无需安装任何软件，在浏览器中即可完成编码、调试、协作和部署。支持 50+ 种编程语言，是学习和快速原型开发的绝佳选择。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": [
+    "云端 IDE",
+    "在线编程",
+    "AI 助手",
+    "协作开发",
+    "商业产品"
+  ],
+  "website": "https://replit.com",
+  "logo": "/logos/replit.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限计算资源",
+    "starting_price": "$15/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "云端开发环境",
+    "Ghostwriter AI",
+    "实时协作",
+    "一键部署",
+    "50+ 语言支持"
+  ],
+  "use_cases": [
+    "快速原型",
+    "编程学习",
+    "协作开发",
+    "项目演示"
+  ],
+  "rating": 4.6,
+  "review_count": 15000,
+  "favorites_count": 20000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

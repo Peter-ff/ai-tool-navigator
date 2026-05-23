@@ -1,0 +1,47 @@
+{
+  "slug": "socratic-by-google",
+  "name": "Socratic by Google",
+  "tagline": "Google 的 AI 作业助手，拍照解题并引导学习",
+  "description": "Socratic 是 Google 推出的 AI 学习应用。学生拍照上传作业题，AI 识别问题并提供解题步骤、概念解释和相关学习资源。基于 Google AI 和搜索技术，覆盖数学、科学、历史、英语等学科。完全免费，是学生完成作业和自学的得力助手。",
+  "category": "ai-education",
+  "subcategory": "homework-help",
+  "tags": [
+    "作业辅导",
+    "拍照解题",
+    "Google",
+    "免费"
+  ],
+  "website": "https://socratic.org",
+  "logo": "/logos/socratic-by-google.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "完全免费",
+    "starting_price": "",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "拍照识题",
+    "AI 解题步骤",
+    "概念讲解",
+    "学习视频推荐",
+    "多学科覆盖"
+  ],
+  "use_cases": [
+    "作业辅导",
+    "考前复习",
+    "自学",
+    "概念理解"
+  ],
+  "rating": 4.4,
+  "review_count": 10000,
+  "favorites_count": 14000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

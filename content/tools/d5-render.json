@@ -1,0 +1,32 @@
+{
+  "slug": "d5-render",
+  "name": "D5 Render",
+  "tagline": "国产实时光线追踪渲染器，AI 降噪/AI 材质/AI 光照，建筑师必备",
+  "description": "D5 Render 是国内领先的实时 3D 渲染和可视化工具，内置 AI 功能加速渲染流程：AI 降噪（实时预览中消除噪点）、AI 材质生成（根据描述生成 PBR 材质）、AI 光照优化（智能匹配最佳灯光参数）、AI 天空替换。与 SketchUp、3ds Max、Rhino、Revit 等主流建模软件无缝导入。国内建筑设计、室内设计行业覆盖率极高，是 Lumion 和 V-Ray 的有力竞争者。免费版功能完整，适合个人设计师和学生。",
+  "category": "ai-design",
+  "subcategory": "3d-generation",
+  "tags": ["3D 渲染", "光线追踪", "AI 降噪", "建筑设计", "国产"],
+  "website": "https://www.d5render.cn",
+  "logo": "/logos/d5.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "个人版免费，功能完整",
+    "starting_price": "¥299/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["实时渲染", "AI 降噪", "基础资源库", "1080P 导出"] },
+      { "name": "Pro", "price": "¥299/月", "features": ["4K 导出", "全量资源库", "AI 材质", "商业授权"] }
+    ]
+  },
+  "platforms": ["desktop"],
+  "features": ["AI 实时降噪", "AI 材质生成", "AI 光照优化", "实时光线追踪", "多软件无缝导入", "海量模型库"],
+  "use_cases": ["建筑设计", "室内设计", "景观可视化", "产品渲染", "虚拟漫游"],
+  "rating": 4.7,
+  "review_count": 5800,
+  "favorites_count": 14000,
+  "alternatives": ["spline", "lumion", "v-ray"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

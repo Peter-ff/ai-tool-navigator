@@ -1,0 +1,33 @@
+{
+  "slug": "julius-ai",
+  "name": "Julius AI",
+  "tagline": "AI 数据分析师，上传数据文件即可对话式分析和可视化",
+  "description": "Julius AI 是面向数据工作者和非技术用户的 AI 数据分析工具。上传 CSV、Excel、JSON 等格式的数据文件，即可用自然语言对话进行分析——提问、生成图表、执行统计分析、建立预测模型。内置 Python 代码执行环境，AI 自动生成并运行分析代码，展示易于理解的文字说明和可视化结果。支持线性回归、聚类、时间序列、假设检验等高级分析方法，被广泛应用于学术研究和商业数据分析。",
+  "category": "ai-data",
+  "subcategory": "data-analysis",
+  "tags": ["数据分析", "可视化", "Python", "统计学", "商业产品"],
+  "website": "https://julius.ai",
+  "logo": "/logos/julius-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 15 条消息",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每月 15 条消息", "基础分析", "CSV 上传"] },
+      { "name": "Basic", "price": "$20/月", "features": ["每月 300 条消息", "高级分析", "大文件支持"] },
+      { "name": "Essential", "price": "$45/月", "features": ["无限消息", "优先支持", "API 访问"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["自然语言数据问答", "AI 自动生成图表", "Python 代码执行", "统计分析（回归/聚类等）", "预测建模", "结果导出"],
+  "use_cases": ["商业数据分析", "学术研究", "市场调研", "财务报表分析", "数据探索"],
+  "rating": 4.5,
+  "review_count": 1500,
+  "favorites_count": 4800,
+  "alternatives": ["chatgpt-code-interpreter", "rows", "notebook-lm"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "google-docs-ai",
+  "name": "Google Docs AI",
+  "tagline": "Google 文档内置 Gemini AI，免费使用 AI 写作/摘要/翻译功能",
+  "description": "Google Docs AI 是集成在 Google 文档中的 Gemini AI 功能，对所有 Google 用户免费开放。AI 功能包括：AI 写作辅助（帮助我撰写/续写/改写文档）、AI 文档摘要（一键提取长文档核心要点）、AI 翻译（文档内直接多语言翻译）、AI 校对（自动检查语法和拼写）、AI 格式建议。与 Google Workspace 深度整合，协作功能强大。是全球使用最广泛的免费在线文档处理工具之一。",
+  "category": "ai-office",
+  "subcategory": "doc-processor",
+  "tags": ["文档处理", "Google", "免费", "AI 写作", "协作"],
+  "website": "https://docs.google.com",
+  "logo": "/logos/googledocs.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "个人用户完全免费",
+    "starting_price": "$12/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 写作", "文档编辑", "协作", "15GB 空间"] },
+      { "name": "Business", "price": "$12/月", "features": ["更多 AI 功能", "更多空间", "企业安全", "管理后台"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 帮助我撰写", "AI 文档摘要", "AI 多语言翻译", "AI 校对", "实时协作", "模板库"],
+  "use_cases": ["文档编辑", "报告撰写", "团队协作", "日常办公", "学习笔记"],
+  "rating": 4.6,
+  "review_count": 45000,
+  "favorites_count": 88000,
+  "alternatives": ["notion-ai", "wps-ai", "microsoft-word-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

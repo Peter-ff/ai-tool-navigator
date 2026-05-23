@@ -1,0 +1,49 @@
+{
+  "slug": "plantid",
+  "name": "Plant.id",
+  "tagline": "拍照识植物 AI，植物学家装在你的手机里",
+  "description": "Plant.id 是基于 AI 图像识别的植物识别应用。用户拍照后，AI 精确识别植物的种类、健康状况和病虫害信息。覆盖 30,000+ 种植物，识别准确率达 92% 以上。是园艺爱好者和专业种植者的必备工具，也提供 API 接口供企业使用。",
+  "category": "ai-lifestyle",
+  "subcategory": "lifestyle",
+  "tags": [
+    "植物识别",
+    "AI 图像",
+    "园艺",
+    "健康检测",
+    "商业产品"
+  ],
+  "website": "https://plant.id",
+  "logo": "/logos/plantid.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费有限识别",
+    "starting_price": "$3.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "AI 植物识别",
+    "病害检测",
+    "健康评估",
+    "30,000+ 物种",
+    "API 接口"
+  ],
+  "use_cases": [
+    "植物识别",
+    "园艺管理",
+    "病虫害防治",
+    "自然教育"
+  ],
+  "rating": 4.3,
+  "review_count": 6000,
+  "favorites_count": 8000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

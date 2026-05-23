@@ -1,0 +1,48 @@
+{
+  "slug": "boomy",
+  "name": "Boomy",
+  "tagline": "AI 音乐创作和发行平台，一键发布到 Spotify 和 Apple Music",
+  "description": "Boomy 让音乐创作变得无比简单。用户选择风格和情绪，AI 几秒内生成完整歌曲。更特别的是，Boomy 直接对接 Spotify、Apple Music、TikTok 等平台，用户可一键发布原创歌曲并获得版税收入。让每个人都能成为音乐人。",
+  "category": "ai-audio",
+  "subcategory": "",
+  "tags": [
+    "音乐创作",
+    "AI 作曲",
+    "音乐发行",
+    "版税"
+  ],
+  "website": "https://boomy.com",
+  "logo": "/logos/boomy.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费发布",
+    "starting_price": "$2.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "一键生成歌曲",
+    "多风格",
+    "平台发行",
+    "版税收入",
+    "协作创作"
+  ],
+  "use_cases": [
+    "音乐创作",
+    "内容配乐",
+    "个人表达",
+    "版税收入"
+  ],
+  "rating": 4.2,
+  "review_count": 6000,
+  "favorites_count": 9000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

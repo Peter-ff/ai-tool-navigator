@@ -1,0 +1,32 @@
+{
+  "slug": "baidu-keyue",
+  "name": "百度客悦",
+  "tagline": "百度智能云 AI 客服平台，多轮对话 + 知识图谱，企业级智能服务",
+  "description": "百度客悦是百度智能云推出的 AI 智能客服平台，基于文心大模型和百度多年积累的知识图谱技术。支持多轮对话理解、情感识别、意图分类、FAQ 匹配。核心特色：百度搜索技术加持的知识库问答（从企业文档中自动学习答案）、多模态客服（支持图片、视频、语音）、人机协作（AI 无法解答时无缝转人工）。支持网页、App、微信、电话等多渠道接入，服务超 20 万家企业和商户。",
+  "category": "ai-customer-service",
+  "subcategory": "chatbot",
+  "tags": ["智能客服", "百度", "文心大模型", "多轮对话", "国产"],
+  "website": "https://cloud.baidu.com/product/keyue",
+  "logo": "/logos/keyue.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费版支持基础问答",
+    "starting_price": "¥199/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础 FAQ", "1000 次/月", "文字客服"] },
+      { "name": "Pro", "price": "¥199/月", "features": ["多轮对话", "知识库学习", "多模态", "人机协作"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 多轮对话", "知识图谱问答", "情感识别", "多模态客服", "多渠道接入", "人机协作转接"],
+  "use_cases": ["在线客服", "售前咨询", "售后服务", "工单处理", "问题排查"],
+  "rating": 4.2,
+  "review_count": 3800,
+  "favorites_count": 7500,
+  "alternatives": ["intercom-fin", "zendesk-ai", "guru"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

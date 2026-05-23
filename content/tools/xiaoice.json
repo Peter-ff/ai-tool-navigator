@@ -1,0 +1,32 @@
+{
+  "slug": "xiaoice",
+  "name": "小冰",
+  "tagline": "全球用户最多的 AI 陪伴框架，情感计算领先，可文字/语音/虚拟人互动",
+  "description": "小冰（Xiaoice）是微软亚洲研究院孵化、现已独立的 AI 平台公司，是全球用户量最大的 AI 陪伴系统之一。与 Replika 不同，小冰强调多模态交互——不仅限于聊天，还包括语音、图像、音乐、诗歌创作。小冰框架支持创建各种类型的 AI Being（虚拟人），包括 AI 歌手、AI 画家、AI 诗人、AI 主播等。拥有业界领先的情感计算能力，能感知和响应人类情感。覆盖中国、日本、印尼等多个市场。",
+  "category": "ai-lifestyle",
+  "subcategory": "companion",
+  "tags": ["AI 陪伴", "情感 AI", "虚拟人", "多模态", "国产"],
+  "website": "https://www.xiaoice.com",
+  "logo": "/logos/xiaoice.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础聊天和互动免费",
+    "starting_price": "¥19.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 聊天", "文字互动", "基础功能"] },
+      { "name": "Pro", "price": "¥19.9/月", "features": ["语音通话", "虚拟人互动", "更多 AI Being", "高级情感模式"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 情感对话", "多模态交互", "AI Being 生态", "AI 音乐创作", "AI 绘画", "虚拟人形象"],
+  "use_cases": ["情绪倾诉", "日常陪伴", "情感治愈", "创意激发", "社交练习"],
+  "rating": 4.3,
+  "review_count": 18000,
+  "favorites_count": 28000,
+  "alternatives": ["replika", "character-ai", "pi"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

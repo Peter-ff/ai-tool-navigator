@@ -1,0 +1,74 @@
+{
+  "slug": "synthesia",
+  "name": "Synthesia",
+  "tagline": "企业级 AI 数字人视频制作平台，无需拍摄即可批量生产视频",
+  "description": "Synthesia 是全球领先的 AI 数字人视频制作平台。用户只需输入文本，即可生成由逼真数字人播报的专业视频。支持 140+ 种语言和 230+ 个 AI 虚拟形象，也可以创建自己的数字分身。广泛应用于企业培训、营销和内部沟通。",
+  "category": "ai-video",
+  "subcategory": "video-generation",
+  "tags": [
+    "数字人",
+    "视频制作",
+    "企业培训",
+    "多语言",
+    "商业产品"
+  ],
+  "website": "https://www.synthesia.io",
+  "logo": "/logos/synthesia.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$22/月",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "$22/月",
+        "features": [
+          "1 个 AI 形象",
+          "120 种语言"
+        ]
+      },
+      {
+        "name": "Creator",
+        "price": "$67/月",
+        "features": [
+          "3 个 AI 形象",
+          "自定义背景"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "定制",
+        "features": [
+          "数字分身",
+          "团队管理",
+          "API"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 数字人播报",
+    "140+ 语言",
+    "230+ 虚拟形象",
+    "自定义数字分身",
+    "模板库"
+  ],
+  "use_cases": [
+    "企业培训",
+    "营销视频",
+    "产品演示",
+    "内部沟通"
+  ],
+  "rating": 4.7,
+  "review_count": 16000,
+  "favorites_count": 24000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

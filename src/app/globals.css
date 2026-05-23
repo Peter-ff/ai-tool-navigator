@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@theme {
+  --color-apple-blue: #007aff;
+  --color-apple-blue-hover: #0070e9;
+  --color-apple-blue-dark: #0070d8;
+  --color-apple-text: #1d1d1f;
+  --color-apple-secondary: #86868b;
+  --color-apple-tertiary: #6e6e73;
+  --color-apple-quaternary: #b0b0b5;
+  --color-apple-bg: #f5f5f7;
+  --color-apple-bg-hover: #ebebed;
+  --color-apple-green: #34c759;
+  --color-apple-green-dark: #248a3d;
+  --color-apple-red: #ff3b30;
+  --color-apple-orange: #ff9500;
+  --color-apple-purple: #af52de;
+  --color-apple-purple-dark: #8944ab;
+  --color-apple-border: #d1d1d6;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 9%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+    --border: 0 0% 90%;
+    --primary: 211 100% 50%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 211 100% 97%;
+    --radius-sm: 0.625rem;
+    --radius: 0.75rem;
+    --radius-lg: 1rem;
+    --radius-xl: 1.25rem;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: var(--color-apple-bg);
+    color: var(--color-apple-text);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto max-w-6xl px-5 sm:px-6 lg:px-8;
+  }
+}
+
+/* Apple-style glass card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* Apple-style transitions */
+.apple-transition {
+  transition: all 0.2s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+/* Subtle text selection */
+::selection {
+  background: rgba(0, 122, 255, 0.2);
+  color: inherit;
+}

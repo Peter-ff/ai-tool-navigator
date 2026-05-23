@@ -1,0 +1,32 @@
+{
+  "slug": "tencent-hunyuan",
+  "name": "腾讯混元",
+  "tagline": "腾讯自研万亿参数大模型，写文案、做策划，微信/QQ 生态深度整合",
+  "description": "腾讯混元（Tencent Hunyuan）是腾讯自研的超大规模大语言模型，参数规模超万亿。面向 C 端提供混元助手（聊天、写作、翻译等），面向 B 端通过腾讯云提供 API 和行业解决方案。在文案写作方面表现突出——广告文案、营销策划、品牌故事等。混元已深度整合进微信搜一搜、QQ、腾讯广告、腾讯新闻等 50+ 腾讯内部产品。开源 Hunyuan-DiT 文生图模型。",
+  "category": "ai-marketing",
+  "subcategory": "ad-copy",
+  "tags": ["大模型", "腾讯", "文案", "广告", "国产"],
+  "website": "https://hunyuan.tencent.com",
+  "logo": "/logos/hunyuan.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "个人基础使用免费",
+    "starting_price": "¥39.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础模型", "文案生成", "对话"] },
+      { "name": "Pro", "price": "¥39.9/月", "features": ["优先响应", "更长上下文", "高级文案", "API 调用"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["万亿参数大模型", "广告文案生成", "营销策划写作", "品牌故事创作", "微信生态整合", "开源 Hunyuan-DiT"],
+  "use_cases": ["广告文案", "品牌营销", "社交媒体", "内容策划", "产品描述"],
+  "rating": 4.3,
+  "review_count": 6200,
+  "favorites_count": 13000,
+  "alternatives": ["chatgpt", "claude", "jasper"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

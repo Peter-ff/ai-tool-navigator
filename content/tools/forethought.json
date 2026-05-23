@@ -1,0 +1,48 @@
+{
+  "slug": "forethought",
+  "name": "Forethought",
+  "tagline": "AI 客服智能工单，自动分类、路由和解决客户问题",
+  "description": "Forethought 是 AI 客服平台的创新者，由前 NASA 工程师创立。AI 自动对客户咨询进行分类、路由和回答，能处理复杂的企业级客服场景。其 Solve 产品可自动解决高达 40% 的常见问题，大幅减少人工工单量。",
+  "category": "ai-customer-service",
+  "subcategory": "",
+  "tags": [
+    "客服自动化",
+    "AI 分类",
+    "工单路由",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://forethought.ai",
+  "logo": "/logos/forethought.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "联系销售",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 自动分类",
+    "智能路由",
+    "自动回答",
+    "情感分析",
+    "知识库整合"
+  ],
+  "use_cases": [
+    "客服中心",
+    "IT 服务",
+    "HR 咨询",
+    "售前支持"
+  ],
+  "rating": 4.3,
+  "review_count": 2000,
+  "favorites_count": 3000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

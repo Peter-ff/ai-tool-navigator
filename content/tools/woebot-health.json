@@ -1,0 +1,47 @@
+{
+  "slug": "woebot-health",
+  "name": "Woebot Health",
+  "tagline": "AI 心理健康助手，基于 CBT 的对话式情绪管理",
+  "description": "Woebot 是基于认知行为疗法（CBT）的 AI 心理健康聊天机器人。通过对话方式帮助用户识别负面思维模式、学习应对技巧和改善情绪状态。由斯坦福大学心理学家团队开发，有临床研究支持其有效性。不能替代专业心理医生。",
+  "category": "ai-lifestyle",
+  "subcategory": "",
+  "tags": [
+    "心理健康",
+    "CBT",
+    "AI 聊天",
+    "情绪管理"
+  ],
+  "website": "https://woebothealth.com",
+  "logo": "/logos/woebot-health.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础功能免费",
+    "starting_price": "",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "AI 情绪对话",
+    "CBT 工具",
+    "情绪追踪",
+    "冥想指导",
+    "心理教育"
+  ],
+  "use_cases": [
+    "情绪管理",
+    "减压",
+    "焦虑应对",
+    "自我认知"
+  ],
+  "rating": 4.2,
+  "review_count": 8000,
+  "favorites_count": 10000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

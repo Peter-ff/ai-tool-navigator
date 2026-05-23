@@ -1,0 +1,32 @@
+{
+  "slug": "duolingo-max",
+  "name": "Duolingo Max",
+  "tagline": "由 GPT-4 驱动的 AI 语言学习，交互式角色扮演 + 语法深度解析",
+  "description": "Duolingo Max 是全球最大语言学习平台 Duolingo 推出的 GPT-4 驱动的高级订阅服务。两大独家 AI 功能：Roleplay（与 AI 角色进行沉浸式真实场景对话练习，如「在巴黎餐厅点餐」）和 Explain My Answer（AI 用中文详细解释你的语法错误）。覆盖 40+ 种语言课程，AI 功能目前支持英语、西班牙语、法语等主要语种。将语言学习从填鸭式升级为对话式。",
+  "category": "ai-education",
+  "subcategory": "language-learning",
+  "tags": ["语言学习", "GPT-4", "AI 对话", "教育", "商业产品"],
+  "website": "https://www.duolingo.com",
+  "logo": "/logos/duolingo.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有广告，基础功能",
+    "starting_price": "$29.99/月",
+    "plans": [
+      { "name": "Super", "price": "$12.99/月", "features": ["去广告", "无限生命", "离线学习"] },
+      { "name": "Max", "price": "$29.99/月", "features": ["全部 Super 功能", "Roleplay AI 对话", "Explain My Answer", "优先新功能"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 角色扮演对话", "AI 语法错误详解", "40+ 语言课程", "游戏化学习", "听说读写全覆盖", "进度追踪"],
+  "use_cases": ["外语学习", "口语练习", "语法理解", "留学准备", "旅行准备"],
+  "rating": 4.7,
+  "review_count": 9800,
+  "favorites_count": 28000,
+  "alternatives": ["memrise", "rosetta-stone", "speak"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

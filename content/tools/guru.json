@@ -1,0 +1,32 @@
+{
+  "slug": "guru",
+  "name": "Guru",
+  "tagline": "AI 企业知识库，将零散的团队信息自动聚合为统一可搜索的知识网络",
+  "description": "Guru 是面向企业团队的 AI 知识管理平台，解决「信息散落在 Slack、邮件、文档各处」的痛点。AI 功能包括：Knowledge Triggers（自动检测可能过时的知识并提醒作者更新）、AI 搜索（跨所有集成平台搜索答案）、AI 知识验证（核验信息准确性）、AI 推荐（根据上下文自动推送相关知识卡片）。集成 Slack、Teams、Salesforce、Zendesk 等 100+ 工具。",
+  "category": "ai-customer-service",
+  "subcategory": "knowledge-base",
+  "tags": ["知识库", "企业", "AI 搜索", "自动化", "商业产品"],
+  "website": "https://www.getguru.com",
+  "logo": "/logos/guru.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$15/人/月",
+    "plans": [
+      { "name": "Starter", "price": "免费（最多 3 人）", "features": ["基础知识卡片", "AI 搜索"] },
+      { "name": "Builder", "price": "$15/人/月", "features": ["AI 知识验证", "触发器", "100+ 集成"] },
+      { "name": "Enterprise", "price": "定制", "features": ["SSO", "高级分析", "专属支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 知识自动聚合", "知识过期自动提醒", "跨平台 AI 搜索", "AI 知识验证", "100+ 应用集成", "知识卡片管理"],
+  "use_cases": ["企业内部知识库", "客服知识管理", "员工入职", "SOP 管理", "产品文档"],
+  "rating": 4.5,
+  "review_count": 1200,
+  "favorites_count": 2800,
+  "alternatives": ["notion-ai", "confluence", "slab"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

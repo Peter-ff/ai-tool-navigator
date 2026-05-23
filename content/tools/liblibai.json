@@ -1,0 +1,32 @@
+{
+  "slug": "liblibai",
+  "name": "LiblibAI",
+  "tagline": "国内最大的 AI 绘画模型社区，海量模型+在线生图，创作者首选平台",
+  "description": "LiblibAI（哩布哩布AI）是国内最大的 AI 绘画模型分享和在线生图平台。特色是模型社区——数万创作者上传分享自训练的 Stable Diffusion 模型（Checkpoint/LoRA/ControlNet），覆盖国风、二次元、写实、产品设计等各种风格。支持云端一键生图，无需本地显卡。用户可在线运行、测试、收藏模型，是国内 AI 绘画创作者的核心聚集地。",
+  "category": "ai-image",
+  "subcategory": "text-to-image",
+  "tags": ["AI 绘画", "模型社区", "S Diousion", "在线生图", "国产"],
+  "website": "https://www.liblib.art",
+  "logo": "/logos/liblibai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日免费生图额度",
+    "starting_price": "¥39/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 50 张图片", "基础模型", "社区"] },
+      { "name": "Pro", "price": "¥39/月", "features": ["无限生图", "高优先级队列", "高清导出", "模型训练"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["海量 AI 绘画模型", "云端在线生图", "模型上传与分享", "LoRA 训练", "社区互动", "热门模型排行"],
+  "use_cases": ["AI 绘画创作", "模型训练", "风格探索", "二次元创作", "设计素材"],
+  "rating": 4.6,
+  "review_count": 18000,
+  "favorites_count": 35000,
+  "alternatives": ["midjourney", "civitai", "tongyi-wanxiang"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

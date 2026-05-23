@@ -1,0 +1,32 @@
+{
+  "slug": "sudowrite",
+  "name": "Sudowrite",
+  "tagline": "专为小说和故事创作打造的 AI 写作伙伴，从构思到章节一气呵成",
+  "description": "Sudowrite 是面向小说作者和故事创作者的 AI 写作工具，从角色设定、情节构思到章节写作提供全程辅助。核心功能包括 Story Engine（从一句话梗概生成完整故事大纲）、Expand（扩写段落）、Rewrite（改写调整语气）、Describe（用五感描写丰富场景）等。支持多种文学类型和风格模仿，是 NaNoWriMo 参与者的热门工具。",
+  "category": "ai-writing",
+  "subcategory": "novel-writing",
+  "tags": ["小说写作", "故事创作", "创意写作", "商业产品"],
+  "website": "https://www.sudowrite.com",
+  "logo": "/logos/sudowrite.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$19/月",
+    "plans": [
+      { "name": "Hobby", "price": "$19/月", "features": ["每月 30,000 AI 字", "基础功能"] },
+      { "name": "Student", "price": "$29/月", "features": ["每月 90,000 AI 字", "Story Engine", "优先支持"] },
+      { "name": "Professional", "price": "$59/月", "features": ["每月 300,000 AI 字", "全部功能", "专属支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["Story Engine 故事引擎", "段落扩写与改写", "五感场景描写", "角色卡片管理", "大纲规划", "多种风格模仿"],
+  "use_cases": ["小说创作", "剧本写作", "故事构思", "角色设计", "情节规划"],
+  "rating": 4.7,
+  "review_count": 950,
+  "favorites_count": 3100,
+  "alternatives": ["novel-ai", "jasper", "chatgpt"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

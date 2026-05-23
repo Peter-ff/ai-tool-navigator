@@ -1,0 +1,46 @@
+{
+  "name": "Coze",
+  "tagline": "字节跳动 AI 机器人平台，零代码搭建智能 Agent",
+  "description": "Coze 是字节跳动推出的 AI Bot 构建平台。通过可视化界面和丰富的插件生态，任何人都可以搭建功能强大的 AI 机器人。支持接入多种 LLM，内置知识库和记忆系统。中文优化极佳，国内使用体验流畅。",
+  "category": "ai-customer-service",
+  "tags": [
+    "AI 机器人",
+    "零代码",
+    "字节跳动",
+    "商业产品"
+  ],
+  "website": "https://www.coze.cn",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "零代码搭建",
+    "插件市场",
+    "知识库",
+    "记忆系统",
+    "多渠道发布"
+  ],
+  "use_cases": [
+    "客服机器人",
+    "营销助手",
+    "知识问答",
+    "工作流自动化"
+  ],
+  "rating": 4.4,
+  "review_count": 6000,
+  "favorites_count": 10000,
+  "status": "published",
+  "slug": "coze",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "免费使用",
+    "starting_price": "高级功能付费",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

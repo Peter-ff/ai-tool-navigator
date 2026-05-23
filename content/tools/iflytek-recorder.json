@@ -1,0 +1,32 @@
+{
+  "slug": "iflytek-recorder",
+  "name": "讯飞听见",
+  "tagline": "科大讯飞 AI 语音转文字，实时录音转写、会议纪要自动生成、多语种翻译",
+  "description": "讯飞听见是科大讯飞推出的 AI 语音转文字服务平台。基于科大讯飞全球领先的语音识别技术，支持实时录音转文字、音频文件转写、会议纪要自动生成、多语种实时翻译。识别准确率超 98%，支持中英日韩等 10+ 语种。适用于会议记录、采访整理、课堂笔记、视频字幕等场景。提供 Web 端、App 端和硬件录音笔。",
+  "category": "ai-office",
+  "subcategory": "meeting-notes",
+  "tags": ["语音识别", "会议纪要", "科大讯飞", "翻译", "商业产品"],
+  "website": "https://www.iflyrec.com",
+  "logo": "/logos/iflytek.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日 1 小时转写",
+    "starting_price": "¥29.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 1 小时", "基础识别", "中英双语"] },
+      { "name": "Pro", "price": "¥29.9/月", "features": ["每月 50 小时", "AI 摘要", "多语种转写", "说话人分离"] }
+    ]
+  },
+  "platforms": ["web", "mobile", "browser-extension"],
+  "features": ["实时语音转文字", "AI 会议纪要", "98%+ 识别准确率", "多语种转写翻译", "说话人分离", "音视频文件转写"],
+  "use_cases": ["会议记录", "采访整理", "课堂笔记", "视频加字幕", "法律取证"],
+  "rating": 4.6,
+  "review_count": 28000,
+  "favorites_count": 51000,
+  "alternatives": ["otter-ai", "fireflies", "descript"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

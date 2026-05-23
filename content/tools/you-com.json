@@ -1,0 +1,47 @@
+{
+  "name": "You.com",
+  "tagline": "AI 生产力搜索引擎，集成多模型一站式查询",
+  "description": "You.com 是集成多种 AI 模型的智能搜索引擎。支持 GPT-4、Claude、Gemini 等多种模型，用户可以根据任务切换。除了搜索，还内置写作、编程、图片生成等 AI 工具。注重隐私保护，提供无广告和无追踪模式。",
+  "category": "ai-office",
+  "tags": [
+    "AI 搜索",
+    "多模型",
+    "隐私",
+    "商业产品"
+  ],
+  "website": "https://you.com",
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "多模型支持",
+    "AI 搜索",
+    "隐私保护",
+    "文件分析",
+    "AI 代理"
+  ],
+  "use_cases": [
+    "网络搜索",
+    "文档分析",
+    "内容创作",
+    "编程辅助"
+  ],
+  "rating": 4.4,
+  "review_count": 7000,
+  "favorites_count": 10000,
+  "status": "published",
+  "slug": "you-com",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$15/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

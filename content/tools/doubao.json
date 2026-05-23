@@ -1,0 +1,32 @@
+{
+  "slug": "doubao",
+  "name": "豆包",
+  "tagline": "字节跳动出品的全能 AI 助手，对话、绘画、搜索一站式，国内用户量领先",
+  "description": "豆包（Doubao）是字节跳动推出的全能型 AI 助手，整合了豆包聊天、图片生成、AI 搜索、文档处理等多种能力。支持多模态交互——文字、图片、语音输入均可理解。内置丰富的 AI 智能体生态，涵盖写作、翻译、编程、学习、娱乐等场景。与抖音、今日头条等字节生态深度打通，是国内用户量最大的 AI 助手之一。",
+  "category": "ai-writing",
+  "subcategory": "general-writing",
+  "tags": ["AI 对话", "多模态", "AI 搜索", "字节跳动", "免费增值"],
+  "website": "https://www.doubao.com",
+  "logo": "/logos/doubao.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "核心功能免费使用",
+    "starting_price": "¥39/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 对话", "文本生成", "基础模型"] },
+      { "name": "Pro", "price": "¥39/月", "features": ["高级模型", "优先响应", "更大上下文", "去广告"] }
+    ]
+  },
+  "platforms": ["web", "mobile", "browser-extension"],
+  "features": ["多模态 AI 对话", "AI 图片生成", "AI 搜索", "文档处理", "智能体生态", "语音输入"],
+  "use_cases": ["日常写作", "信息搜索", "创意绘画", "编程辅助", "语言翻译"],
+  "rating": 4.5,
+  "review_count": 22000,
+  "favorites_count": 45000,
+  "alternatives": ["chatgpt", "kimi", "deepseek"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

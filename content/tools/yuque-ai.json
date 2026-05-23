@@ -1,0 +1,32 @@
+{
+  "slug": "yuque-ai",
+  "name": "语雀AI",
+  "tagline": "阿里语雀知识库 AI 助手，自动整理团队知识，AI 搜索 + AI 问答",
+  "description": "语雀AI 是阿里旗下语雀知识管理平台内置的 AI 助手。功能包括：AI 智能搜索（跨所有文档和知识库搜索答案，不只匹配关键词还能理解语义）、AI 文档总结（长篇文档一键生成摘要和要点）、AI 知识图谱（自动构建文档间的关联网络）、AI 写作辅助（在编辑器中内嵌 AI 续写和润色）。语雀被阿里巴巴内部数万员工使用，也是大量中国科技公司的团队知识库首选。",
+  "category": "ai-customer-service",
+  "subcategory": "knowledge-base",
+  "tags": ["知识库", "阿里", "AI 搜索", "团队协作", "国产"],
+  "website": "https://www.yuque.com",
+  "logo": "/logos/yuque.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "个人用户免费，团队免费 10 人",
+    "starting_price": "¥25/人/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["文档编辑", "基础 AI 搜索", "10 人团队"] },
+      { "name": "Pro", "price": "¥25/人/月", "features": ["AI 知识图谱", "AI 问答", "高级权限", "更大容量"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 智能搜索", "AI 文档总结", "AI 知识图谱", "AI 写作辅助", "多人协作", "阿里内部验证"],
+  "use_cases": ["团队知识库", "项目文档", "技术文档", "产品手册", "内部 Wiki"],
+  "rating": 4.5,
+  "review_count": 7500,
+  "favorites_count": 16000,
+  "alternatives": ["notion-ai", "guru", "confluence"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

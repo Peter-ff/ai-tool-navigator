@@ -1,0 +1,48 @@
+{
+  "slug": "getimg-ai",
+  "name": "GetImg AI",
+  "tagline": "一站式 AI 图像平台，生成、编辑和训练自定义模型",
+  "description": "GetImg AI 是多功能 AI 图像平台，整合了图像生成（Stable Diffusion 驱动）、图像编辑、AI 头像和自定义模型训练功能。支持 Dreambooth 训练个人模型，可在线管理多个自定义模型。是 AI 创作者的综合性工具箱。",
+  "category": "ai-image",
+  "subcategory": "",
+  "tags": [
+    "图像生成",
+    "模型训练",
+    "AI 头像",
+    "在线工作流",
+    "商业产品"
+  ],
+  "website": "https://getimg.ai",
+  "logo": "/logos/getimg-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 100 次生成",
+    "starting_price": "$9/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生图",
+    "图生图",
+    "自定义模型训练",
+    "AI 头像",
+    "图像编辑"
+  ],
+  "use_cases": [
+    "数字创作",
+    "角色设计",
+    "模型训练",
+    "AI 写真"
+  ],
+  "rating": 4.4,
+  "review_count": 8000,
+  "favorites_count": 11000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

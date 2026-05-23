@@ -1,0 +1,74 @@
+{
+  "slug": "novelai",
+  "name": "NovelAI",
+  "tagline": "专为故事和小说创作打造的 AI 写作工具，想象力无限",
+  "description": "NovelAI 是一款面向小说作者和故事创作者的 AI 写作工坊。基于自研的 Kayra 模型，支持故事续写、情节生成、世界观构建和角色设定。特色功能包括 Lorebook（世界观管理）和图片生成，让文字与视觉创作融为一体。在二次元创作社区拥有极高人气。",
+  "category": "ai-writing",
+  "subcategory": "novel-writing",
+  "tags": [
+    "小说写作",
+    "故事创作",
+    "二次元",
+    "AI 图片",
+    "商业产品"
+  ],
+  "website": "https://novelai.net",
+  "logo": "/logos/novelai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$10/月",
+    "plans": [
+      {
+        "name": "Tablet",
+        "price": "$10/月",
+        "features": [
+          "1000 次生成",
+          "基础模型"
+        ]
+      },
+      {
+        "name": "Scroll",
+        "price": "$15/月",
+        "features": [
+          "2000 次生成",
+          "Kayra 模型"
+        ]
+      },
+      {
+        "name": "Opus",
+        "price": "$25/月",
+        "features": [
+          "无限生成",
+          "图片生成",
+          "高级模型"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "故事续写",
+    "世界观管理",
+    "角色设定",
+    "AI 图片生成",
+    "多模型选择"
+  ],
+  "use_cases": [
+    "小说创作",
+    "故事构思",
+    "角色发展",
+    "世界观构建"
+  ],
+  "rating": 4.5,
+  "review_count": 6500,
+  "favorites_count": 12000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

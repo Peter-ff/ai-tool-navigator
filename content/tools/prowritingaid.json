@@ -1,0 +1,50 @@
+{
+  "slug": "prowritingaid",
+  "name": "ProWritingAid",
+  "tagline": "专业级写作分析和风格改进工具，作家的第二双眼睛",
+  "description": "ProWritingAid 是面向专业作者的深度写作分析工具，提供 25+ 种写作报告，涵盖语法、风格、可读性、黏着词、节奏等维度。与 Grammarly 不同，它更侧重于教授写作技巧而不仅仅是纠错。支持与 Scrivener、Word、Google Docs 深度集成。",
+  "category": "ai-writing",
+  "subcategory": "grammar-check",
+  "tags": [
+    "写作分析",
+    "风格改进",
+    "专业写作",
+    "商业产品"
+  ],
+  "website": "https://prowritingaid.com",
+  "logo": "/logos/prowritingaid.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "500 词/次分析",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop",
+    "browser-extension"
+  ],
+  "features": [
+    "25+ 写作报告",
+    "语法风格分析",
+    "可读性评估",
+    "节奏分析",
+    "黏着词检测",
+    "Scrivener 集成"
+  ],
+  "use_cases": [
+    "小说写作",
+    "学术论文",
+    "商务写作",
+    "写作学习"
+  ],
+  "rating": 4.5,
+  "review_count": 9000,
+  "favorites_count": 11000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

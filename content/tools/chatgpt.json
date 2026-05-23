@@ -1,0 +1,33 @@
+{
+  "slug": "chatgpt",
+  "name": "ChatGPT",
+  "tagline": "OpenAI 出品的全能型 AI 助手，支持对话、写作、编程、分析",
+  "description": "ChatGPT 是目前最广泛使用的 AI 对话助手，由 OpenAI 开发。基于 GPT-4o 等先进模型，能理解并生成自然语言文本。支持联网搜索、文件上传、图片生成（DALL-E 集成）、代码解释器等功能。适用于写作辅助、代码调试、数据分析、创意头脑风暴等多种场景。2024 年推出的 GPT-4o 模型大幅提升了多模态理解和生成速度。",
+  "category": "ai-writing",
+  "subcategory": "general-writing",
+  "tags": ["对话助手", "写作", "编程", "多模态", "商业产品"],
+  "website": "https://chatgpt.com",
+  "logo": "/logos/chatgpt.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "GPT-4o mini 无限使用，GPT-4o 有限额",
+    "starting_price": "$20/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["GPT-4o mini 无限", "GPT-4o 有限额", "基础功能"] },
+      { "name": "Plus", "price": "$20/月", "features": ["GPT-4o 更高限额", "DALL-E 图片生成", "联网搜索", "高级数据分析"] },
+      { "name": "Pro", "price": "$200/月", "features": ["无限访问所有模型", "o1 pro 模式", "最高优先级"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["自然语言对话", "DALL-E 图片生成", "代码解释器", "联网搜索", "文件上传分析", "GPTs 自定义应用"],
+  "use_cases": ["日常写作", "编程辅助", "学习研究", "数据分析", "创意生成"],
+  "rating": 4.7,
+  "review_count": 1256,
+  "favorites_count": 8920,
+  "alternatives": ["claude", "gemini", "deepseek", "kimi"],
+  "related_collections": ["best-ai-chatbots-2026"],
+  "added_date": "2026-01-01",
+  "updated_date": "2026-05-20",
+  "status": "published"
+}

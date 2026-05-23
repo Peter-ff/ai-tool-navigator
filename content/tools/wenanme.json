@@ -1,0 +1,32 @@
+{
+  "slug": "wenanme",
+  "name": "文案吗",
+  "tagline": "国产 AI 文案生成平台，电商文案/短视频脚本/小红书文案一站式生成",
+  "description": "文案吗是国内专业的 AI 文案生成平台，聚焦中文营销文案场景。覆盖：电商文案（淘宝/京东商品描述、主图文案）、短视频脚本（抖音、小红书脚本自动生成）、朋友圈文案、公众号推文、广告语等。内置数百种文案模板和行业话术库，AI 可基于产品信息自动生成多种风格的文案。支持品牌语气设置，确保生成的文案风格统一。特别适合电商运营、新媒体和市场营销人员。",
+  "category": "ai-writing",
+  "subcategory": "copywriting",
+  "tags": ["AI 文案", "电商", "营销", "短视频脚本", "国产"],
+  "website": "https://www.wenanme.com",
+  "logo": "/logos/wenanme.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "每日免费生成 5 条文案",
+    "starting_price": "¥39/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 5 条", "基础模板", "短文案"] },
+      { "name": "Pro", "price": "¥39/月", "features": ["无限生成", "全行业模板", "品牌风格", "长文撰写"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 电商文案生成", "AI 短视频脚本", "AI 小红书文案", "品牌语气定制", "百种文案模板", "行业话术库"],
+  "use_cases": ["电商运营", "新媒体文案", "品牌营销", "产品推广", "广告创意"],
+  "rating": 4.3,
+  "review_count": 4500,
+  "favorites_count": 10000,
+  "alternatives": ["copy-ai", "jasper", "chatgpt"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

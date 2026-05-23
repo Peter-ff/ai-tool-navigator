@@ -1,0 +1,33 @@
+{
+  "slug": "descript",
+  "name": "Descript",
+  "tagline": "像编辑文档一样编辑视频和音频，AI 驱动的全功能媒体编辑器",
+  "description": "Descript 是革命性的 AI 视频和音频编辑器，将所有媒体视为可编辑的文档。核心功能包括：通过编辑文字脚本来剪辑视频（基于转录）、AI 语音克隆（Overdub）修复口误、Studio Sound 一键降噪、AI 自动移除填充词（嗯、啊）、绿幕抠像、屏幕录制。广泛用于播客制作、视频课程、YouTube 创作和企业内部沟通。",
+  "category": "ai-video",
+  "subcategory": "video-editing",
+  "tags": ["视频编辑", "音频编辑", "播客", "AI 剪辑", "商业产品"],
+  "website": "https://www.descript.com",
+  "logo": "/logos/descript.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 1 小时转录 + 基础编辑",
+    "starting_price": "$24/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["1 小时转录/月", "基础编辑", "720p 导出"] },
+      { "name": "Hobbyist", "price": "$24/月", "features": ["10 小时转录/月", "Overdub 语音克隆", "4K 导出"] },
+      { "name": "Business", "price": "$40/月", "features": ["30 小时转录/月", "团队协作", "优先支持"] }
+    ]
+  },
+  "platforms": ["desktop", "web"],
+  "features": ["文字编辑即视频剪辑", "AI 语音克隆 (Overdub)", "一键降噪 (Studio Sound)", "填充词自动移除", "绿幕抠像", "屏幕录制"],
+  "use_cases": ["播客制作", "视频课程", "YouTube 创作", "企业宣传", "会议记录"],
+  "rating": 4.6,
+  "review_count": 2900,
+  "favorites_count": 7600,
+  "alternatives": ["capcut", "adobe-premiere", "davinci-resolve"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

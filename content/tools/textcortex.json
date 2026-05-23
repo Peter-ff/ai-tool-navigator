@@ -1,0 +1,48 @@
+{
+  "slug": "textcortex",
+  "name": "TextCortex",
+  "tagline": "企业级 AI 写作和内容自动化平台，打造品牌专属写作助手",
+  "description": "TextCortex 是面向企业的 AI 内容自动化平台。除了基础的文本生成和改写外，还支持品牌声音定制、知识库管理和多语言翻译。支持 API 接入和浏览器扩展，可与 Zendesk、Salesforce 等企业工具集成。",
+  "category": "ai-writing",
+  "subcategory": "content-writing",
+  "tags": [
+    "企业写作",
+    "品牌定制",
+    "内容自动化",
+    "商业产品"
+  ],
+  "website": "https://textcortex.com",
+  "logo": "/logos/textcortex.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每天 20 次生成",
+    "starting_price": "$5.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "文本生成",
+    "品牌声音定制",
+    "知识库管理",
+    "多语言翻译",
+    "API 接入"
+  ],
+  "use_cases": [
+    "企业内容",
+    "品牌文案",
+    "客服回复",
+    "多语言内容"
+  ],
+  "rating": 4.4,
+  "review_count": 3500,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

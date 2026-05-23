@@ -1,0 +1,31 @@
+{
+  "slug": "zuoshou-doctor",
+  "name": "左手医生",
+  "tagline": "国内领先的 AI 健康管理助手，症状分析 + 智能问诊 + 用药提醒",
+  "description": "左手医生是国内知名的 AI 医疗健康平台，通过 AI 对话式问诊帮助用户进行健康管理。功能包括：AI 症状分析（描述症状 AI 给出可能原因和就医建议）、AI 智能导诊（告诉你应该挂哪个科室）、AI 用药助手（药品信息查询、用药提醒、药物禁忌检查）、AI 健康档案管理。已与全国数千家医院合作，服务数千万用户。不是替代医生诊断，而是帮助用户更合理地进行健康决策。",
+  "category": "ai-lifestyle",
+  "subcategory": "health",
+  "tags": ["健康管理", "AI 问诊", "用药助手", "症状分析", "国产"],
+  "website": "https://www.zuoshouyisheng.com",
+  "logo": "/logos/zuoshou.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础健康咨询免费",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 症状分析", "智能导诊", "用药提醒", "健康档案"] },
+      { "name": "VIP", "price": "¥19.9/月", "features": ["专家在线问诊", "专属健康计划", "体检报告解读", "无限咨询"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 症状智能分析", "AI 科室导诊", "AI 用药助手", "AI 健康档案", "体检报告解读", "医院科室匹配"],
+  "use_cases": ["日常健康", "症状自查", "就医指导", "慢病管理", "用药管理"],
+  "rating": 4.0,
+  "review_count": 3500,
+  "favorites_count": 8000,
+  "alternatives": ["whoop", "dingxiang", "webmd"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

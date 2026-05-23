@@ -1,0 +1,47 @@
+{
+  "slug": "playground-ai",
+  "name": "Playground AI",
+  "tagline": "免费在线 AI 图像创作画布，混合编辑模式独树一帜",
+  "description": "Playground AI 提供免费在线的 AI 图像生成和编辑画布。其独特的混合编辑模式允许用户在实际图像上进行局部 AI 重绘，精准控制创作过程。社区活跃，大量用户分享提示词和作品灵感。",
+  "category": "ai-image",
+  "subcategory": "image-generation",
+  "tags": [
+    "图像生成",
+    "在线画布",
+    "混合编辑",
+    "免费"
+  ],
+  "website": "https://playground.com",
+  "logo": "/logos/playground-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每天 500 张免费生成",
+    "starting_price": "$12/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生图",
+    "混合编辑画布",
+    "图像扩展",
+    "社区灵感",
+    "多模型支持"
+  ],
+  "use_cases": [
+    "创意设计",
+    "图像编辑",
+    "灵感探索",
+    "社交媒体"
+  ],
+  "rating": 4.4,
+  "review_count": 10000,
+  "favorites_count": 15000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

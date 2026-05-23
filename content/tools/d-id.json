@@ -1,0 +1,47 @@
+{
+  "slug": "d-id",
+  "name": "D-ID",
+  "tagline": "AI 数字人面部动画技术，让静态照片开口说话",
+  "description": "D-ID 是 AI 面部动画技术的先驱，专注于让静态照片和图像产生逼真的说话动画。其 Creative Reality™ 技术结合了面部动画和文本生成，可创建个性化的数字人视频。广泛应用于教育、营销和客户服务场景。",
+  "category": "ai-video",
+  "subcategory": "video-generation",
+  "tags": [
+    "数字人",
+    "面部动画",
+    "AI 视频",
+    "商业产品"
+  ],
+  "website": "https://www.d-id.com",
+  "logo": "/logos/d-id.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费额度",
+    "starting_price": "$5.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "面部动画",
+    "AI 说话视频",
+    "数字人创作",
+    "API 接口",
+    "多语言支持"
+  ],
+  "use_cases": [
+    "虚拟讲师",
+    "客服视频",
+    "营销互动",
+    "个性化视频"
+  ],
+  "rating": 4.3,
+  "review_count": 6000,
+  "favorites_count": 10000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "taskade",
+  "name": "Taskade",
+  "tagline": "AI 驱动的团队协作工作空间，任务、文档和思维导图一体",
+  "description": "Taskade 是新一代 AI 协作工作空间，将任务管理、文档编辑、思维导图和团队沟通合而为一。内置 AI 代理可以自动生成项目计划、会议议程、工作流模板等。支持实时多人协作和跨平台同步。",
+  "category": "ai-office",
+  "subcategory": "meeting-assistant",
+  "tags": [
+    "协作",
+    "任务管理",
+    "AI 代理",
+    "思维导图",
+    "商业产品"
+  ],
+  "website": "https://www.taskade.com",
+  "logo": "/logos/taskade.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$8/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "desktop",
+    "mobile"
+  ],
+  "features": [
+    "AI 生成项目计划",
+    "智能任务管理",
+    "思维导图",
+    "实时协作",
+    "AI 代理"
+  ],
+  "use_cases": [
+    "项目管理",
+    "会议准备",
+    "知识管理",
+    "团队协作"
+  ],
+  "rating": 4.5,
+  "review_count": 6000,
+  "favorites_count": 9000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

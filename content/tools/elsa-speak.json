@@ -1,0 +1,47 @@
+{
+  "slug": "elsa-speak",
+  "name": "ELSA Speak",
+  "tagline": "AI 英语发音教练，精准到音素级别的口语纠正",
+  "description": "ELSA Speak 是专注于英语发音纠正的 AI 应用。使用专利级语音识别技术，能检测到音素级别的发音错误并提供个性化纠正方案。提供实时反馈、评分和渐进式学习路径。被全球 100+ 国家用户使用，是英语口语提升的效率工具。",
+  "category": "ai-education",
+  "subcategory": "language-learning",
+  "tags": [
+    "英语学习",
+    "发音纠正",
+    "AI 教练",
+    "商业产品"
+  ],
+  "website": "https://elsaspeak.com",
+  "logo": "/logos/elsa-speak.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础课程免费",
+    "starting_price": "$11.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "音素级发音检测",
+    "实时纠错",
+    "个性化学习路径",
+    "评分系统",
+    "情景对话"
+  ],
+  "use_cases": [
+    "英语口语",
+    "发音纠正",
+    "面试准备",
+    "日常沟通"
+  ],
+  "rating": 4.5,
+  "review_count": 12000,
+  "favorites_count": 15000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

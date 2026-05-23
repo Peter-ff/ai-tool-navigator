@@ -1,0 +1,46 @@
+{
+  "name": "Phind",
+  "tagline": "AI 编程搜索助手，实时联网搜索技术问题",
+  "description": "Phind 是专为开发者打造的 AI 搜索引擎。结合了 LLM 和实时网络搜索，能用自然语言回答编程和技术问题。支持代码生成、调试建议和技术方案选型，每次都提供信息来源链接。比通用搜索更懂开发者的需求。",
+  "category": "ai-coding",
+  "tags": [
+    "AI 搜索",
+    "编程助手",
+    "代码搜索",
+    "商业产品"
+  ],
+  "website": "https://www.phind.com",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "自然语言搜索",
+    "代码生成",
+    "实时联网",
+    "来源引用",
+    "多模型支持"
+  ],
+  "use_cases": [
+    "技术问答",
+    "代码调试",
+    "方案选型",
+    "学习新技术"
+  ],
+  "rating": 4.5,
+  "review_count": 6000,
+  "favorites_count": 10000,
+  "status": "published",
+  "slug": "phind",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日 10 次搜索",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

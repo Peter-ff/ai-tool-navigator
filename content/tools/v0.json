@@ -1,0 +1,48 @@
+{
+  "slug": "v0",
+  "name": "v0",
+  "tagline": "Vercel 出品的 AI UI 生成工具，用文字描述直接生成前端代码",
+  "description": "v0 是 Vercel 开发的 AI 前端 UI 生成工具。用户通过自然语言描述界面需求，v0 即可生成 React/Next.js 组件代码。生成的代码基于 shadcn/ui 和 Tailwind CSS，可直接复制到项目中使用。特别适合快速搭建产品原型和落地页。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": [
+    "UI 生成",
+    "前端开发",
+    "React",
+    "原型设计",
+    "商业产品"
+  ],
+  "website": "https://v0.dev",
+  "logo": "/logos/v0.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月有限免费额度",
+    "starting_price": "$20/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "自然语言生成 UI",
+    "React 组件输出",
+    "Tailwind CSS",
+    "shadcn/ui 集成",
+    "可复制代码"
+  ],
+  "use_cases": [
+    "UI 原型",
+    "落地页开发",
+    "组件设计",
+    "前端加速"
+  ],
+  "rating": 4.6,
+  "review_count": 12000,
+  "favorites_count": 18000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

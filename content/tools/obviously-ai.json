@@ -1,0 +1,48 @@
+{
+  "slug": "obviously-ai",
+  "name": "Obviously AI",
+  "tagline": "无代码 AI 预测建模，上传数据即可获得预测结果",
+  "description": "Obviously AI 是无代码 AI 预测平台，面向非技术用户设计。用户只需上传 CSV 数据，选择预测目标列，平台自动完成所有建模步骤并生成可用的预测 API。所有操作通过点击完成，无需编写代码，是商业分析师进行快速数据建模的理想工具。",
+  "category": "ai-data",
+  "subcategory": "data-analysis",
+  "tags": [
+    "无代码",
+    "预测分析",
+    "CSV 建模",
+    "商业智能",
+    "商业产品"
+  ],
+  "website": "https://www.obviously.ai",
+  "logo": "/logos/obviously-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$299/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "无代码建模",
+    "自动数据预处理",
+    "模型评估报告",
+    "预测 API",
+    "CSV 上传"
+  ],
+  "use_cases": [
+    "商业预测",
+    "客户分析",
+    "风险评估",
+    "快速建模"
+  ],
+  "rating": 4.3,
+  "review_count": 2000,
+  "favorites_count": 3000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

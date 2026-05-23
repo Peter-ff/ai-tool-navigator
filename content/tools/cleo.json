@@ -1,0 +1,48 @@
+{
+  "slug": "cleo",
+  "name": "Cleo",
+  "tagline": "AI 理财助手，用聊天的方式管理个人财务",
+  "description": "Cleo 是面向年轻人的 AI 理财聊天机器人。用户以自然语言与 Cleo 聊天，即可了解消费习惯、设置预算、自动储蓄和获取理财建议。幽默风趣的互动风格深受 Z 世代用户喜爱，让原本枯燥的理财变得有趣和个性化。",
+  "category": "ai-lifestyle",
+  "subcategory": "health",
+  "tags": [
+    "理财",
+    "AI 助手",
+    "聊天",
+    "预算",
+    "商业产品"
+  ],
+  "website": "https://www.cleo.com",
+  "logo": "/logos/cleo.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$5.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "AI 消费分析",
+    "智能预算",
+    "自动储蓄",
+    "理财建议",
+    "账单提醒"
+  ],
+  "use_cases": [
+    "个人理财",
+    "预算管理",
+    "储蓄目标",
+    "消费追踪"
+  ],
+  "rating": 4.4,
+  "review_count": 10000,
+  "favorites_count": 14000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

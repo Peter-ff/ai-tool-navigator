@@ -1,0 +1,48 @@
+{
+  "slug": "oura-ai",
+  "name": "Oura AI",
+  "tagline": "智能戒指 + AI 健康数据分析，比你更了解你的身体",
+  "description": "Oura Ring 是智能健康戒指的行业标杆，结合 AI 分析睡眠、活动、心率和体温等数据。Oura AI Advisor 功能可基于你的长期健康数据提供个性化建议，帮助改善睡眠质量、管理压力和优化运动表现。是量化自我运动的代表产品。",
+  "category": "ai-lifestyle",
+  "subcategory": "health",
+  "tags": [
+    "健康",
+    "智能穿戴",
+    "睡眠分析",
+    "AI 健康",
+    "商业产品"
+  ],
+  "website": "https://ouraring.com",
+  "logo": "/logos/oura-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$299（硬件）+ $5.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "AI 睡眠分析",
+    "健康趋势洞察",
+    "压力管理",
+    "运动恢复评估",
+    "体温监测"
+  ],
+  "use_cases": [
+    "睡眠改善",
+    "健康管理",
+    "运动优化",
+    "压力调节"
+  ],
+  "rating": 4.5,
+  "review_count": 15000,
+  "favorites_count": 20000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

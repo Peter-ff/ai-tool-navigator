@@ -1,0 +1,31 @@
+{
+  "slug": "jianying",
+  "name": "剪映",
+  "tagline": "字节跳动免费视频剪辑工具，AI 字幕/配音/剪辑一站完成，抖音创作者必备",
+  "description": "剪映（CapCut/Jianying）是字节跳动推出的专业级免费视频剪辑软件，国内版叫剪映，海外版叫 CapCut。AI 功能极其丰富：AI 智能字幕（语音自动识别生成字幕，准确率高）、AI 配音（多种声音风格）、AI 智能抠像（无需绿幕）、AI 美颜美体、AI 自动卡点、AI 图文成片（输入文字自动生成视频）。拥有海量模板、特效、转场和音乐素材库，是抖音、快手创作者的首选工具。",
+  "category": "ai-video",
+  "subcategory": "subtitle",
+  "tags": ["视频剪辑", "字节跳动", "免费", "AI 字幕", "国产"],
+  "website": "https://www.capcut.cn",
+  "logo": "/logos/jianying.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "核心功能全部免费",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 字幕", "AI 抠像", "基础特效", "模板"] },
+      { "name": "VIP", "price": "¥35/月", "features": ["高级特效", "更多模板", "高级调色", "云空间"] }
+    ]
+  },
+  "platforms": ["desktop", "mobile"],
+  "features": ["AI 自动字幕生成", "AI 智能配音", "AI 智能抠像", "AI 图文成片", "AI 美颜美体", "海量模板素材"],
+  "use_cases": ["短视频创作", "Vlog 制作", "抖音/快手", "视频字幕", "社交媒体内容"],
+  "rating": 4.8,
+  "review_count": 45000,
+  "favorites_count": 88000,
+  "alternatives": ["captions", "descript", "wondershare-filmora"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

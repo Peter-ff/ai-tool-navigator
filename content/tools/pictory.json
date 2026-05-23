@@ -1,0 +1,47 @@
+{
+  "slug": "pictory",
+  "name": "Pictory",
+  "tagline": "AI 长视频转短视频，博客文章自动变视频",
+  "description": "Pictory 是专注内容再利用的 AI 视频工具。能自动将长篇文章或长视频转化为适合社交媒体的短视频片段，AI 自动提取要点、添加字幕和品牌标识。是企业内容营销团队的效率倍增器。",
+  "category": "ai-video",
+  "subcategory": "",
+  "tags": [
+    "视频剪辑",
+    "内容再利用",
+    "社交媒体",
+    "商业产品"
+  ],
+  "website": "https://pictory.ai",
+  "logo": "/logos/pictory.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$19/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "长视频转短视频",
+    "文章转视频",
+    "自动字幕",
+    "品牌模板",
+    "AI 要点提取"
+  ],
+  "use_cases": [
+    "内容营销",
+    "社交媒体",
+    "YouTube Shorts",
+    "博客转视频"
+  ],
+  "rating": 4.4,
+  "review_count": 8000,
+  "favorites_count": 11000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

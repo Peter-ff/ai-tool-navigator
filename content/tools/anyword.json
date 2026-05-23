@@ -1,0 +1,49 @@
+{
+  "slug": "anyword",
+  "name": "Anyword",
+  "tagline": "AI 预测文案效果，数据驱动优化营销内容转化率",
+  "description": "Anyword 是专注转化率优化的 AI 文案平台。其独特之处在于能预测文案在不同渠道和受众中的表现，给出转化率评分。支持广告文案、落地页、社交媒体和邮件等多种营销场景，基于数据不断优化内容策略。",
+  "category": "ai-marketing",
+  "subcategory": "copywriting",
+  "tags": [
+    "文案优化",
+    "转化率",
+    "预测分析",
+    "A/B 测试",
+    "商业产品"
+  ],
+  "website": "https://anyword.com",
+  "logo": "/logos/anyword.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$39/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "文案效果预测",
+    "转化率评分",
+    "受众定向",
+    "A/B 测试",
+    "多场景模板"
+  ],
+  "use_cases": [
+    "广告文案",
+    "落地页优化",
+    "邮件营销",
+    "社媒内容"
+  ],
+  "rating": 4.4,
+  "review_count": 4000,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

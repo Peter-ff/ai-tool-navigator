@@ -1,0 +1,33 @@
+{
+  "slug": "leonardo-ai",
+  "name": "Leonardo AI",
+  "tagline": "专业级 AI 图像生成与编辑平台，游戏资产和概念设计的首选工具",
+  "description": "Leonardo AI 是面向游戏开发者和设计师的 AI 图像创作平台。提供强大的文生图、图生图、图像编辑功能，以游戏资产生成和概念设计见长。支持丰富的预训练模型（DreamShaper、Absolute Reality 等），提供 Canvas 编辑器进行精细的局部重绘（Inpainting）和扩展（Outpainting）。Image Guidance 功能支持姿态、深度、边缘等多种控制方式，确保生成结果精准可控。",
+  "category": "ai-image",
+  "subcategory": "image-to-image",
+  "tags": ["图生图", "游戏资产", "概念设计", "图像编辑", "商业产品"],
+  "website": "https://leonardo.ai",
+  "logo": "/logos/leonardo-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日 150 代币",
+    "starting_price": "$12/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 150 代币", "基础模型", "社区分享"] },
+      { "name": "Apprentice", "price": "$12/月", "features": ["8,500 代币/月", "更多模型", "图像指导"] },
+      { "name": "Artisan", "price": "$30/月", "features": ["25,000 代币/月", "全部模型", "私有生成", "优先队列"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["文生图与图生图", "Canvas 编辑器", "局部重绘/扩展", "Image Guidance 控制", "丰富模型库", "实景/概念艺术风格"],
+  "use_cases": ["游戏资产设计", "概念艺术", "角色设计", "建筑可视化", "广告素材"],
+  "rating": 4.7,
+  "review_count": 2800,
+  "favorites_count": 9100,
+  "alternatives": ["midjourney", "stable-diffusion", "dalle"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

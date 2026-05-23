@@ -1,0 +1,48 @@
+{
+  "slug": "uizard",
+  "name": "Uizard",
+  "tagline": "手绘草图秒变 UI 设计稿，AI 让产品原型设计零门槛",
+  "description": "Uizard 是面向产品经理和非设计师的 AI UI 设计工具。支持将手绘草图拍照后自动转换为数字设计稿，也能用文字描述生成界面设计。内置丰富的模板和组件库，支持实时协作和导出为代码。",
+  "category": "ai-design",
+  "subcategory": "ux-ui",
+  "tags": [
+    "UI 设计",
+    "原型",
+    "AI 转换",
+    "快速设计",
+    "商业产品"
+  ],
+  "website": "https://uizard.io",
+  "logo": "/logos/uizard.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$12/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "手绘转设计",
+    "文字生成 UI",
+    "模板库",
+    "实时协作",
+    "代码导出"
+  ],
+  "use_cases": [
+    "产品原型",
+    "快速验证",
+    "设计沟通",
+    "非设计者创作"
+  ],
+  "rating": 4.4,
+  "review_count": 6000,
+  "favorites_count": 9000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

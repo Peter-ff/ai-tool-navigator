@@ -1,0 +1,49 @@
+{
+  "slug": "clockwise",
+  "name": "Clockwise",
+  "tagline": "AI 智能日历调度，自动优化你的工作时间安排",
+  "description": "Clockwise 是 AI 驱动的智能日历工具，自动分析你的会议安排和时间使用模式，智能调度以创造更多的深度工作时间。支持团队范围的日历优化，减少碎片化时间，提升整体效率。与 Google Calendar 和 Outlook 集成。",
+  "category": "ai-office",
+  "subcategory": "calendar",
+  "tags": [
+    "日历管理",
+    "时间优化",
+    "深度工作",
+    "Google 集成",
+    "商业产品"
+  ],
+  "website": "https://www.getclockwise.com",
+  "logo": "/logos/clockwise.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$6.75/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "智能时间调度",
+    "专注时间保护",
+    "团队日历优化",
+    "会议冲突解决",
+    "工作时间分析"
+  ],
+  "use_cases": [
+    "日程管理",
+    "深度工作",
+    "会议优化",
+    "团队效率"
+  ],
+  "rating": 4.6,
+  "review_count": 4000,
+  "favorites_count": 7000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "krisp",
+  "name": "Krisp",
+  "tagline": "AI 降噪神器，会议和通话的背景噪音一键消失",
+  "description": "Krisp 是全球领先的 AI 实时降噪工具，在会议通话中过滤背景噪音、回声和他人声音。支持所有主流会议平台（Zoom、Teams、Meet 等），本地处理确保隐私安全。全球超过 2000 家企业使用，是远程办公的刚需工具。",
+  "category": "ai-audio",
+  "subcategory": "audio-editing",
+  "tags": [
+    "降噪",
+    "会议",
+    "AI 音频",
+    "远程办公",
+    "商业产品"
+  ],
+  "website": "https://krisp.ai",
+  "logo": "/logos/krisp.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每天 60 分钟免费",
+    "starting_price": "$8/月",
+    "plans": []
+  },
+  "platforms": [
+    "desktop",
+    "mobile"
+  ],
+  "features": [
+    "AI 实时降噪",
+    "回声消除",
+    "他人声音过滤",
+    "所有会议平台兼容",
+    "本地处理保隐私"
+  ],
+  "use_cases": [
+    "远程会议",
+    "客户通话",
+    "播客录制",
+    "线上教学"
+  ],
+  "rating": 4.7,
+  "review_count": 14000,
+  "favorites_count": 18000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

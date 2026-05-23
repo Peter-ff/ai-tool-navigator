@@ -1,0 +1,48 @@
+{
+  "slug": "picturethis",
+  "name": "PictureThis",
+  "tagline": "拍照识植物，AI 植物医生和园艺顾问",
+  "description": "PictureThis 是全球最受欢迎的植物识别应用之一。拍照即可识别 30,000+ 种植物，AI 分析植物健康状况并提供病虫害诊断和养护建议。深受园艺爱好者和户外运动者喜爱，是 Apple 设计奖获得者。",
+  "category": "ai-lifestyle",
+  "subcategory": "",
+  "tags": [
+    "植物识别",
+    "AI 图像",
+    "园艺",
+    "健康诊断",
+    "商业产品"
+  ],
+  "website": "https://www.picturethisai.com",
+  "logo": "/logos/picturethis.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日有限识别",
+    "starting_price": "$29.99/年",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "AI 植物识别",
+    "病害诊断",
+    "养护建议",
+    "园艺社区",
+    "AR 功能"
+  ],
+  "use_cases": [
+    "植物识别",
+    "园艺养护",
+    "户外探索",
+    "自然教育"
+  ],
+  "rating": 4.7,
+  "review_count": 35000,
+  "favorites_count": 38000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

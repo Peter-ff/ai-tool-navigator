@@ -1,0 +1,47 @@
+{
+  "slug": "windsurf",
+  "name": "Windsurf",
+  "tagline": "Codeium 出品的 AI 原生 IDE，代码编辑器的下一代形态",
+  "description": "Windsurf（原名 Codeium）是 Codeium 公司推出的 AI 原生代码编辑器，基于 VS Code 但完全重构了 AI 交互体验。核心特色是 Cascade 模式——AI 能自动分析代码库上下文并进行多文件编辑。支持多种编程语言和框架，提供免费的个人使用方案。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": [
+    "代码编辑器",
+    "AI 编程",
+    "IDE",
+    "商业产品"
+  ],
+  "website": "https://codeium.com/windsurf",
+  "logo": "/logos/windsurf.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "个人免费",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "platforms": [
+    "desktop"
+  ],
+  "features": [
+    "Cascade 多文件编辑",
+    "智能代码补全",
+    "自然语言编程",
+    "代码库上下文理解",
+    "多模型支持"
+  ],
+  "use_cases": [
+    "日常编码",
+    "代码重构",
+    "Bug 修复",
+    "项目生成"
+  ],
+  "rating": 4.7,
+  "review_count": 18000,
+  "favorites_count": 22000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

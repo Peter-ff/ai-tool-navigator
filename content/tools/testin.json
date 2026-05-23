@@ -1,0 +1,32 @@
+{
+  "slug": "testin",
+  "name": "Testin云测",
+  "tagline": "国内最大的 AI 自动化测试平台，兼容数千款设备，敏捷测试一站式",
+  "description": "Testin云测是国内最大的云测试服务平台，将 AI 技术深度融入软件测试全流程。核心功能：AI 自动化测试（智能录制回放、AI 元素识别）、兼容性测试（覆盖数千款真实 Android/iOS 设备）、AI 性能测试、AI 安全测试、AI 测试报告生成。支持 App、Web、小程序等多端测试。开发者可快速发现 Bug、Crash 和适配问题，大幅缩短测试周期。",
+  "category": "ai-coding",
+  "subcategory": "testing",
+  "tags": ["自动化测试", "AI 测试", "兼容性", "移动测试", "国产"],
+  "website": "https://www.testin.cn",
+  "logo": "/logos/testin.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础自动化测试免费",
+    "starting_price": "¥299/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础 AI 测试", "部分设备", "测试报告"] },
+      { "name": "Pro", "price": "¥299/月", "features": ["全设备覆盖", "AI 深度测试", "性能分析", "优先支持"] }
+    ]
+  },
+  "platforms": ["web", "desktop"],
+  "features": ["AI 自动化测试", "千款真机兼容", "智能 Bug 检测", "性能测试", "安全测试", "测试报告自动生成"],
+  "use_cases": ["App 测试", "Web 测试", "小程序测试", "兼容性验证", "性能调优"],
+  "rating": 4.3,
+  "review_count": 5200,
+  "favorites_count": 11000,
+  "alternatives": ["coderabbit", "selenium", "appium"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "hubspot-ai",
+  "name": "HubSpot AI",
+  "tagline": "营销自动化巨头的 AI 升级，内容、邮件和 CRM 全覆盖",
+  "description": "HubSpot AI 是 HubSpot 营销平台内置的 AI 功能集。支持 AI 撰写营销邮件、生成社交媒体内容、创建落地页、分析客户数据等。与 HubSpot CRM 深度集成，可根据客户行为自动触发个性化营销。是企业级入站营销的 AI 驱动引擎。",
+  "category": "ai-marketing",
+  "subcategory": "marketing-automation",
+  "tags": [
+    "营销自动化",
+    "CRM",
+    "邮件营销",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://www.hubspot.com",
+  "logo": "/logos/hubspot-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$15/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 邮件撰写",
+    "社媒内容生成",
+    "落地页创建",
+    "客户行为分析",
+    "自动化工作流"
+  ],
+  "use_cases": [
+    "邮件营销",
+    "社媒运营",
+    "线索培育",
+    "数据分析"
+  ],
+  "rating": 4.5,
+  "review_count": 20000,
+  "favorites_count": 25000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

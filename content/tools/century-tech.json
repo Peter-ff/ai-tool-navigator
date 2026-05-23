@@ -1,0 +1,48 @@
+{
+  "slug": "century-tech",
+  "name": "Century Tech",
+  "tagline": "AI 自适应学习平台，为每个学生定制学习路径",
+  "description": "Century Tech 是 AI 驱动的自适应学习平台。AI 分析每个学生的知识掌握程度、学习速度和遗忘曲线，动态推荐学习内容和练习。教师端可以实时查看全班学习进度和薄弱环节。已获多个国际教育科技奖项。",
+  "category": "ai-education",
+  "subcategory": "",
+  "tags": [
+    "自适应学习",
+    "个性化",
+    "K-12",
+    "AI 教育",
+    "商业产品"
+  ],
+  "website": "https://www.century.tech",
+  "logo": "/logos/century-tech.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "学校定价",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 学习路径",
+    "知识诊断",
+    "实时进度",
+    "教师仪表盘",
+    "遗忘曲线优化"
+  ],
+  "use_cases": [
+    "课堂教学",
+    "个性化学习",
+    "课后辅导",
+    "教育评估"
+  ],
+  "rating": 4.4,
+  "review_count": 2500,
+  "favorites_count": 4000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

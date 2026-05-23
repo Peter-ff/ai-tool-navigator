@@ -1,0 +1,48 @@
+{
+  "slug": "marketmuse",
+  "name": "MarketMuse",
+  "tagline": "AI 内容策略和 SEO 优化平台，数据驱动的内容规划",
+  "description": "MarketMuse 是面向内容营销团队的 AI 策略平台。通过分析 SERP 和竞争对手内容，AI 自动生成内容简报、关键词建议和主题覆盖度评分。帮助团队系统化地产出高排名内容，而非凭感觉写作。",
+  "category": "ai-marketing",
+  "subcategory": "seo",
+  "tags": [
+    "SEO",
+    "内容策略",
+    "关键词分析",
+    "内容规划",
+    "商业产品"
+  ],
+  "website": "https://www.marketmuse.com",
+  "logo": "/logos/marketmuse.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$149/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 内容简报",
+    "关键词分析",
+    "主题覆盖度评分",
+    "竞争对手分析",
+    "内容优化建议"
+  ],
+  "use_cases": [
+    "SEO 内容策略",
+    "博客规划",
+    "知识库建设",
+    "内容审计"
+  ],
+  "rating": 4.3,
+  "review_count": 3000,
+  "favorites_count": 5000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

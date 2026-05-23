@@ -1,0 +1,48 @@
+{
+  "slug": "monkeylearn",
+  "name": "MonkeyLearn",
+  "tagline": "AI 文本分析平台，自动分类、标签和情感分析",
+  "description": "MonkeyLearn 是专注文本分析的 AI 平台。无需编码即可训练文本分类、情感分析和关键词提取模型。支持批量处理、自定义标签和 API 集成。被广泛用于客户反馈分析、评论监控和工单分类。",
+  "category": "ai-data",
+  "subcategory": "",
+  "tags": [
+    "文本分析",
+    "情感分析",
+    "分类",
+    "AI 平台",
+    "商业产品"
+  ],
+  "website": "https://monkeylearn.com",
+  "logo": "/logos/monkeylearn.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费额度",
+    "starting_price": "$299/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文本分类",
+    "情感分析",
+    "关键词提取",
+    "自定义标签",
+    "API 集成"
+  ],
+  "use_cases": [
+    "客户反馈分析",
+    "评论监控",
+    "工单分类",
+    "舆情分析"
+  ],
+  "rating": 4.4,
+  "review_count": 3000,
+  "favorites_count": 4000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "motion",
+  "name": "Motion",
+  "tagline": "AI 智能日程与项目管理，自动规划待办事项并动态调整优先级",
+  "description": "Motion 是 AI 驱动的智能日程管理工具，不再需要手动安排待办事项。用户只需输入任务、截止日期和预估耗时，Motion 的 AI 引擎会自动将其排入日历最优时间槽，并在突发情况时动态重排。还支持项目管理（看板、甘特图）、团队协作、会议调度、时间追踪等功能。自动保护深度工作时间，减少打断，提升个人和团队效率。",
+  "category": "ai-office",
+  "subcategory": "schedule",
+  "tags": ["日程管理", "项目管理", "AI 调度", "自动化", "商业产品"],
+  "website": "https://www.usemotion.com",
+  "logo": "/logos/motion.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$19/月",
+    "plans": [
+      { "name": "Individual", "price": "$19/月", "features": ["AI 自动调度", "日历管理", "任务管理"] },
+      { "name": "Team", "price": "$15/人/月", "features": ["全部功能", "团队协作", "项目管理", "分析报告"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 自动排程", "动态优先级调整", "深度工作保护", "项目管理（看板/甘特图）", "会议自动调度", "时间追踪"],
+  "use_cases": ["个人任务管理", "团队项目规划", "时间优化", "会议安排", "深度工作保护"],
+  "rating": 4.3,
+  "review_count": 1500,
+  "favorites_count": 4500,
+  "alternatives": ["reclaim", "clockwise", "todoist"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

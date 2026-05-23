@@ -1,0 +1,31 @@
+{
+  "slug": "penpot",
+  "name": "Penpot",
+  "tagline": "开源免费 UI/UX 设计工具，AI 辅助设计，Figma 开源替代品",
+  "description": "Penpot 是开源的 UI/UX 设计和原型工具，完全免费且无需付费计划。支持矢量设计、组件系统、自动布局、多人实时协作等专业功能。AI 功能包括：AI 设计转代码（自动生成 CSS/React 代码）、AI 色彩调色板生成、AI 可访问性检查。完全基于 Web 标准（SVG/CSS），无需安装。代码完全开源（GitHub 30k+ Stars），可自部署。是 Figma 最有力的开源替代方案，被欧盟、Mozilla 等机构采用。",
+  "category": "ai-design",
+  "subcategory": "ui-design",
+  "tags": ["UI 设计", "开源", "免费", "Figma 替代", "协作"],
+  "website": "https://penpot.app",
+  "logo": "/logos/penpot.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "open-source",
+    "free_tier": "完全免费开源",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["无限项目", "实时协作", "AI 功能", "社区支持"] },
+      { "name": "Enterprise", "price": "定制", "features": ["自部署", "SSO", "专属支持", "SLA 保障"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 设计转代码", "AI 色彩生成", "矢量设计", "组件系统", "实时协作", "完全开源"],
+  "use_cases": ["UI 设计", "原型制作", "设计系统", "开源项目", "企业自部署"],
+  "rating": 4.4,
+  "review_count": 2800,
+  "favorites_count": 8000,
+  "alternatives": ["relume", "jishi-design", "figma"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

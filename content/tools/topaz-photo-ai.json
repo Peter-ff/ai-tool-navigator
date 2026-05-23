@@ -1,0 +1,47 @@
+{
+  "name": "Topaz Photo AI",
+  "tagline": "AI 照片增强三合一：去噪、锐化、放大",
+  "description": "Topaz Photo AI 集成了降噪、锐化和图像放大三大核心功能。利用深度学习自动识别照片问题并智能修复。对于老照片修复、低光拍摄和社交媒体素材优化非常高效。是摄影师和设计师的必备工具之一。",
+  "category": "ai-image",
+  "tags": [
+    "图像增强",
+    "降噪",
+    "放大",
+    "桌面软件",
+    "商业产品"
+  ],
+  "website": "https://www.topazlabs.com",
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "features": [
+    "AI 降噪",
+    "智能锐化",
+    "图像放大",
+    "批量处理",
+    "面部恢复"
+  ],
+  "use_cases": [
+    "老照片修复",
+    "摄影后期",
+    "图片放大",
+    "低光修复"
+  ],
+  "rating": 4.6,
+  "review_count": 9000,
+  "favorites_count": 15000,
+  "status": "published",
+  "slug": "topaz-photo-ai",
+  "pricing": {
+    "type": "paid",
+    "starting_price": "$199",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

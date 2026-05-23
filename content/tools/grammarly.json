@@ -1,0 +1,81 @@
+{
+  "slug": "grammarly",
+  "name": "Grammarly",
+  "tagline": "全球领先的 AI 写作助手，语法纠错与风格优化一步到位",
+  "description": "Grammarly 是全球最知名的 AI 写作辅助工具，提供语法检查、拼写纠正、语气调整、风格优化和查重等功能。支持浏览器扩展、桌面应用和移动设备，深度集成 Gmail、Google Docs、Word 等办公场景。企业版还提供品牌语气定制和团队协作功能。",
+  "category": "ai-writing",
+  "subcategory": "grammar-check",
+  "tags": [
+    "写作助手",
+    "语法检查",
+    "风格优化",
+    "商业产品"
+  ],
+  "website": "https://www.grammarly.com",
+  "logo": "/logos/grammarly.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础语法和拼写检查免费",
+    "starting_price": "$12/月",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "免费",
+        "features": [
+          "基础语法检查",
+          "拼写纠正",
+          "语气检测"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$12/月",
+        "features": [
+          "高级语法建议",
+          "语气调整",
+          "查重",
+          "全句改写"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$15/人/月",
+        "features": [
+          "品牌语气定制",
+          "团队管理",
+          "优先支持"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "web",
+    "desktop",
+    "browser-extension",
+    "mobile"
+  ],
+  "features": [
+    "语法纠错",
+    "拼写检查",
+    "语气调整",
+    "风格优化",
+    "查重",
+    "句子改写",
+    "品牌语气定制"
+  ],
+  "use_cases": [
+    "日常写作",
+    "商务邮件",
+    "学术论文",
+    "品牌文案"
+  ],
+  "rating": 4.8,
+  "review_count": 45000,
+  "favorites_count": 32000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

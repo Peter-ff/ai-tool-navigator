@@ -1,0 +1,49 @@
+{
+  "slug": "quizlet-ai",
+  "name": "Quizlet AI",
+  "tagline": "全球最大的学习平台 AI 升级，智能生成闪卡和测验",
+  "description": "Quizlet AI（Q-Chat）是 Quizlet 学习平台的 AI 增强功能。AI 自动从学习材料中生成闪卡、测验题和学习计划。Q-Chat 提供对话式学习体验，模拟导师提问帮助学生巩固知识。全球超过 6000 万学习者使用。",
+  "category": "ai-education",
+  "subcategory": "flashcards",
+  "tags": [
+    "学习工具",
+    "闪卡",
+    "AI 测验",
+    "记忆",
+    "商业产品"
+  ],
+  "website": "https://quizlet.com",
+  "logo": "/logos/quizlet-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$7.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "AI 生成闪卡",
+    "智能测验",
+    "Q-Chat 学习",
+    "学习计划",
+    "记忆曲线"
+  ],
+  "use_cases": [
+    "语言学习",
+    "考试备考",
+    "知识记忆",
+    "课堂辅助"
+  ],
+  "rating": 4.5,
+  "review_count": 25000,
+  "favorites_count": 30000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jenni-ai",
+  "name": "Jenni AI",
+  "tagline": "专为学术写作设计的 AI 助手，覆盖论文从构思到润色的全流程",
+  "description": "Jenni AI 是面向学术研究者和学生的 AI 写作工具，专注于论文、学位论文和研究报告的撰写。支持 AI 自动补全（Autocomplete）、引用管理、抄袭检测、AI 润色等功能。内置超过 2 亿篇学术论文的引用库，能根据上下文自动推荐相关文献。支持 APA、MLA、IEEE 等多种引用格式。",
+  "category": "ai-writing",
+  "subcategory": "essay-writing",
+  "tags": ["学术写作", "论文", "引用管理", "润色", "商业产品"],
+  "website": "https://jenni.ai",
+  "logo": "/logos/jenni-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日 200 字 AI 写作",
+    "starting_price": "$12/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 200 字", "基础补全", "引用管理"] },
+      { "name": "Pro", "price": "$12/月", "features": ["无限 AI 写作", "高级润色", "抄袭检测", "优先支持"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 自动补全", "学术引用管理", "AI 润色改写", "抄袭检测", "文献推荐", "多种引用格式"],
+  "use_cases": ["论文写作", "学位论文", "研究报告", "文献综述", "学术润色"],
+  "rating": 4.6,
+  "review_count": 1800,
+  "favorites_count": 4200,
+  "alternatives": ["paperpal", "grammarly", "writefull"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

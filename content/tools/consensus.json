@@ -1,0 +1,46 @@
+{
+  "name": "Consensus",
+  "tagline": "AI 学术搜索，从科研论文中直接提取答案",
+  "description": "Consensus 是专为学术研究和科学问题设计的 AI 搜索引擎。它不搜索网页，而是搜索超过 2 亿篇经过同行评审的科研论文。AI 从论文中直接提取和总结答案，标注引用来源和研究质量评分。",
+  "category": "ai-office",
+  "tags": [
+    "AI 搜索",
+    "学术研究",
+    "论文搜索",
+    "商业产品"
+  ],
+  "website": "https://consensus.app",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "论文搜索",
+    "AI 摘要",
+    "引用提取",
+    "研究质量评分",
+    "文献综述"
+  ],
+  "use_cases": [
+    "学术研究",
+    "文献综述",
+    "健康查询",
+    "政策研究"
+  ],
+  "rating": 4.7,
+  "review_count": 8000,
+  "favorites_count": 13000,
+  "status": "published",
+  "slug": "consensus",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 20 次搜索",
+    "starting_price": "$8.99/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "lovable",
+  "name": "Lovable",
+  "tagline": "AI 驱动的全栈应用构建平台，从想法到产品只需几分钟",
+  "description": "Lovable 是 AI 全栈应用构建平台，用户用自然语言描述产品想法，AI 自动生成完整的前后端代码和数据库。支持一键部署、版本回滚和实时预览。适合非技术创业者快速验证产品想法，也适合开发者加速原型开发。",
+  "category": "ai-coding",
+  "subcategory": "code-completion",
+  "tags": [
+    "全栈开发",
+    "应用构建",
+    "快速原型",
+    "AI 生成",
+    "商业产品"
+  ],
+  "website": "https://lovable.dev",
+  "logo": "/logos/lovable.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "有限免费项目",
+    "starting_price": "$20/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "自然语言构建应用",
+    "全栈代码生成",
+    "数据库自动设计",
+    "一键部署",
+    "实时预览"
+  ],
+  "use_cases": [
+    "MVP 构建",
+    "产品原型",
+    "内部工具",
+    "非技术创业"
+  ],
+  "rating": 4.5,
+  "review_count": 8000,
+  "favorites_count": 14000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

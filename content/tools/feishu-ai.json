@@ -1,0 +1,32 @@
+{
+  "slug": "feishu-ai",
+  "name": "飞书智能伙伴",
+  "tagline": "字节跳动飞书的 AI 办公助手，写邮件/做会议纪要/订日程全自动",
+  "description": "飞书智能伙伴（Feishu My AI）是飞书内置的 AI 办公助手。AI 功能覆盖飞书所有模块：AI 辅助写邮件和文档、AI 会议纪要自动生成（飞书妙记）、AI 日程智能安排、AI 消息总结摘要。深度学习团队沟通和工作习惯，提供个性化建议。支持自定义 AI Agent，企业可训练专属模型。飞书拥有超千万日活用户，My AI 是中国企业用户量最大的 AI 办公助手之一。",
+  "category": "ai-office",
+  "subcategory": "email-assistant",
+  "tags": ["办公", "AI 邮件", "字节跳动", "飞书", "国产"],
+  "website": "https://www.feishu.cn/product/my-ai",
+  "logo": "/logos/feishu.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "飞书免费版含基础 AI 能力",
+    "starting_price": "¥25/人/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["AI 邮件辅助", "基础总结", "日历管理"] },
+      { "name": "Pro", "price": "¥25/人/月", "features": ["无限 AI 功能", "自定义 Agent", "企业训练"] }
+    ]
+  },
+  "platforms": ["web", "desktop", "mobile"],
+  "features": ["AI 邮件撰写", "AI 会议纪要", "AI 日程安排", "AI 消息总结", "自定义 AI Agent", "企业知识训练"],
+  "use_cases": ["邮件写作", "会议管理", "日程安排", "团队协作", "企业办公"],
+  "rating": 4.4,
+  "review_count": 11000,
+  "favorites_count": 24000,
+  "alternatives": ["superhuman", "motion", "otter-ai"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "tidio",
+  "name": "Tidio",
+  "tagline": "轻量级 AI 客服和营销聊天工具，中小企业的首选",
+  "description": "Tidio 是面向中小企业的 AI 客服和营销聊天平台。结合了 Live Chat、AI 聊天机器人和营销自动化功能。Lyro AI 机器人可以自动处理高达 70% 的常见客户问题。界面简洁、设置简单，无需技术背景即可上手。",
+  "category": "ai-customer-service",
+  "subcategory": "chatbot",
+  "tags": [
+    "在线客服",
+    "AI 机器人",
+    "中小企业",
+    "营销",
+    "商业产品"
+  ],
+  "website": "https://www.tidio.com",
+  "logo": "/logos/tidio.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$29/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "AI 聊天机器人",
+    "Live Chat",
+    "营销自动化",
+    "邮件整合",
+    "访客追踪"
+  ],
+  "use_cases": [
+    "在线客服",
+    "销售转化",
+    "客户管理",
+    "订单咨询"
+  ],
+  "rating": 4.7,
+  "review_count": 10000,
+  "favorites_count": 13000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

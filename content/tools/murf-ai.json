@@ -1,0 +1,47 @@
+{
+  "slug": "murf-ai",
+  "name": "Murf AI",
+  "tagline": "最逼真的 AI 语音合成，制作专业配音从未如此简单",
+  "description": "Murf AI 是领先的 AI 语音合成平台，提供 120+ 种超逼真的 AI 声音，覆盖 20+ 种语言。用户可以精细调节语速、语调和停顿，将文本转换为专业级配音。广泛用于视频配音、播客制作、电子学习和广告配音。",
+  "category": "ai-audio",
+  "subcategory": "tts",
+  "tags": [
+    "语音合成",
+    "配音",
+    "AI 声音",
+    "商业产品"
+  ],
+  "website": "https://murf.ai",
+  "logo": "/logos/murf-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "10 分钟免费生成",
+    "starting_price": "$19/月",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "120+ AI 声音",
+    "20+ 语言",
+    "语调调节",
+    "背景音乐",
+    "视频同步"
+  ],
+  "use_cases": [
+    "视频配音",
+    "播客制作",
+    "电子学习",
+    "广告配音"
+  ],
+  "rating": 4.6,
+  "review_count": 10000,
+  "favorites_count": 14000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

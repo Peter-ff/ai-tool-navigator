@@ -1,0 +1,46 @@
+{
+  "name": "DeepL Write",
+  "tagline": "AI 写作助手，多语言润色和改写",
+  "description": "DeepL Write 是全球领先的机器翻译公司 DeepL 推出的 AI 写作工具。能对英语和德语文本进行智能润色、风格调整和措辞优化。不同于翻译，Write 专注于提升原文的表达质量，帮助非母语者写出更地道的文字。",
+  "category": "ai-writing",
+  "tags": [
+    "AI 写作",
+    "语言润色",
+    "翻译",
+    "商业产品"
+  ],
+  "website": "https://www.deepl.com/write",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "智能润色",
+    "风格调整",
+    "措辞优化",
+    "多语言支持",
+    "实时编辑"
+  ],
+  "use_cases": [
+    "邮件写作",
+    "报告优化",
+    "学术论文",
+    "商务沟通"
+  ],
+  "rating": 4.6,
+  "review_count": 8000,
+  "favorites_count": 12000,
+  "status": "published",
+  "slug": "deepl-write",
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "€8.99/月",
+    "plans": []
+  },
+  "logo": "",
+  "screenshots": [],
+  "alternatives": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "related_collections": []
+}

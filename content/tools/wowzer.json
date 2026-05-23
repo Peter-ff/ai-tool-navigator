@@ -1,0 +1,47 @@
+{
+  "slug": "wowzer",
+  "name": "Wowzer",
+  "tagline": "AI 健身教练，根据你的身体状况自动制定训练计划",
+  "description": "Wowzer 是 AI 驱动的个性化健身应用。AI 根据用户的体能水平、目标和可用设备自动生成训练计划，并通过摄像头实时纠正动作姿势。提供瑜伽、力量训练、HIIT 等多种课程类型。把私人教练装进手机里。",
+  "category": "ai-lifestyle",
+  "subcategory": "",
+  "tags": [
+    "健身",
+    "AI 教练",
+    "动作纠正",
+    "健康"
+  ],
+  "website": "https://www.wowzer.ai",
+  "logo": "/logos/wowzer.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础课程免费",
+    "starting_price": "$9.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "mobile"
+  ],
+  "features": [
+    "AI 训练计划",
+    "动作实时纠正",
+    "多课程类型",
+    "进度追踪",
+    "个性化建议"
+  ],
+  "use_cases": [
+    "家庭健身",
+    "瑜伽练习",
+    "体重管理",
+    "运动康复"
+  ],
+  "rating": 4.3,
+  "review_count": 4000,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

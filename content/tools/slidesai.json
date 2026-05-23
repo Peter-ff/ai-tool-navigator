@@ -1,0 +1,48 @@
+{
+  "slug": "slidesai",
+  "name": "SlidesAI",
+  "tagline": "Google Slides 的 AI 插件，输入文本即可生成完整演示文稿",
+  "description": "SlidesAI 是 Google Slides 的 AI 插件，专注于将文本内容自动转换为设计精美的演示幻灯片。支持从文章、笔记或大纲一键生成 PPT，自动提取要点并匹配合适的版式和图片。是教育工作者和职场人士的高效工具。",
+  "category": "ai-office",
+  "subcategory": "presentations",
+  "tags": [
+    "Google Slides",
+    "PPT 生成",
+    "AI 插件",
+    "商业产品"
+  ],
+  "website": "https://www.slidesai.io",
+  "logo": "/logos/slidesai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 3 次生成",
+    "starting_price": "$10/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "文本转 PPT",
+    "Google Slides 集成",
+    "自动排版",
+    "图片推荐",
+    "多语言支持"
+  ],
+  "use_cases": [
+    "教学课件",
+    "会议演示",
+    "内容总结",
+    "快速报告"
+  ],
+  "rating": 4.3,
+  "review_count": 5000,
+  "favorites_count": 8000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

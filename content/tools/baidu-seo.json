@@ -1,0 +1,32 @@
+{
+  "slug": "baidu-seo",
+  "name": "5118",
+  "tagline": "国内 SEO 和关键词分析工具，AI 驱动的内容优化和排名监控",
+  "description": "5118 是国内领先的 SEO 数据分析平台，为中文网站提供关键词研究、竞争对手分析和内容优化服务。AI 功能包括：AI 关键词挖掘（基于百度/搜狗/360 等中文搜索数据）、AI 内容优化建议（根据搜索意图给出写作指导）、AI 排名监控和预测、AI 长尾词生成。拥有海量中文搜索行为数据，对百度生态的理解远超国际工具，是中文 SEO 和 SEM 从业者的首选工具之一。",
+  "category": "ai-marketing",
+  "subcategory": "seo",
+  "tags": ["SEO", "关键词", "百度", "内容优化", "国产"],
+  "website": "https://www.5118.com",
+  "logo": "/logos/5118.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "免费版有限查询",
+    "starting_price": "¥99/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["基础关键词", "有限查询"] },
+      { "name": "VIP", "price": "¥99/月", "features": ["AI 关键词挖掘", "AI 内容优化", "排名监控", "全量数据"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 关键词挖掘", "AI 内容优化", "百度排名监控", "长尾词生成", "竞争对手分析", "搜索意图分析"],
+  "use_cases": ["网站 SEO", "百度优化", "内容营销", "关键词研究", "SEM 投放"],
+  "rating": 4.4,
+  "review_count": 7800,
+  "favorites_count": 15000,
+  "alternatives": ["surfer-seo", "ahrefs", "semrush"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

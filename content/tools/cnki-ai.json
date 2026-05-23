@@ -1,0 +1,32 @@
+{
+  "slug": "cnki-ai",
+  "name": "知网研学AI",
+  "tagline": "知网 AI 学术写作助手，论文检索/文献综述/AI 润色，中文学术标配",
+  "description": "知网研学AI 是中国知网（CNKI）推出的 AI 学术研究和写作辅助平台，深度整合知网海量中文学术文献资源。AI 功能包括：AI 论文选题推荐（基于研究热点和文献分析）、AI 文献综述撰写（自动检索和总结相关文献）、AI 论文润色和改写（学术规范格式）、AI 论文查重降重、AI 翻译（中英学术互译）。与知网查重系统打通，是研究生、教师、科研人员的学术写作必备工具。",
+  "category": "ai-writing",
+  "subcategory": "essay-writing",
+  "tags": ["学术写作", "知网", "论文", "文献综述", "国产"],
+  "website": "https://x.cnki.net",
+  "logo": "/logos/cnki.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "free",
+    "free_tier": "基础检索和阅读免费",
+    "starting_price": "¥19.9/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["文献检索", "在线阅读", "基础笔记"] },
+      { "name": "AI Pro", "price": "¥19.9/月", "features": ["AI 选题", "AI 综述", "AI 润色", "AI 查重"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 论文选题", "AI 文献综述", "AI 论文润色", "AI 查重降重", "AI 学术翻译", "知网文献打通"],
+  "use_cases": ["论文写作", "文献综述", "开题报告", "学术投稿", "毕业设计"],
+  "rating": 4.3,
+  "review_count": 15000,
+  "favorites_count": 32000,
+  "alternatives": ["jenni-ai", "paperpal", "grammarly"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

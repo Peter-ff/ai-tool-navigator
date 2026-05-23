@@ -1,0 +1,32 @@
+{
+  "slug": "copy-ai",
+  "name": "Copy.ai",
+  "tagline": "AI 营销文案生成平台，一键创建品牌一致的广告和社媒文案",
+  "description": "Copy.ai 是专注于营销场景的 AI 写作工具，帮助企业快速生成广告文案、社交媒体帖子、邮件营销内容、产品描述等。内置品牌声音（Brand Voice）功能确保所有内容保持一致的语调。支持 25+ 语言，提供丰富的模板库和 AI 工作流自动化（Workflows），适合市场团队和独立创业者批量产出营销素材。",
+  "category": "ai-writing",
+  "subcategory": "copywriting",
+  "tags": ["文案营销", "社媒内容", "品牌", "自动化", "商业产品"],
+  "website": "https://www.copy.ai",
+  "logo": "/logos/copy-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 2000 字数",
+    "starting_price": "$49/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每月 2000 字", "90+ 模板", "25+ 语言"] },
+      { "name": "Pro", "price": "$49/月", "features": ["无限字数", "5 个品牌声音", "Workflows 自动化", "API 访问"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["品牌声音定制", "90+ 文案模板", "AI 工作流自动化", "25+ 语言支持", "批量生成", "SEO 优化建议"],
+  "use_cases": ["社交媒体运营", "广告文案撰写", "邮件营销", "产品描述", "品牌内容管理"],
+  "rating": 4.5,
+  "review_count": 3200,
+  "favorites_count": 7800,
+  "alternatives": ["jasper", "writesonic", "rytr"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

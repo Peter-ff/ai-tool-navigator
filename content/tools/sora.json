@@ -1,0 +1,48 @@
+{
+  "slug": "sora",
+  "name": "Sora",
+  "tagline": "OpenAI 的文本生成视频模型，开启 AI 视频创作新纪元",
+  "description": "Sora 是 OpenAI 推出的文本到视频生成模型，能根据文字描述生成长达 60 秒的高质量视频。在物理世界理解和运动连贯性方面表现卓越，能生成复杂场景、多角色和精确运动的视频内容。目前通过 ChatGPT Plus/Pro 订阅提供。",
+  "category": "ai-video",
+  "subcategory": "video-generation",
+  "tags": [
+    "视频生成",
+    "OpenAI",
+    "文生视频",
+    "前沿技术",
+    "商业产品"
+  ],
+  "website": "https://openai.com/sora",
+  "logo": "/logos/sora.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "包含在 ChatGPT Plus 订阅中",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文生视频",
+    "长达 60 秒",
+    "多角色场景",
+    "物理世界模拟",
+    "视频扩展和编辑"
+  ],
+  "use_cases": [
+    "创意视频",
+    "概念演示",
+    "社交媒体",
+    "短片制作"
+  ],
+  "rating": 4.5,
+  "review_count": 18000,
+  "favorites_count": 35000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

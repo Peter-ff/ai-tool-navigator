@@ -1,0 +1,49 @@
+{
+  "slug": "zendesk-ai",
+  "name": "Zendesk AI",
+  "tagline": "客服行业标杆的 AI 升级，智能工单、机器人和知识库",
+  "description": "Zendesk AI 是全球领先客服平台 Zendesk 的 AI 功能集。包括智能工单分类和路由、AI 回答机器人、知识库自动生成和客服人员辅助等。帮助企业减少客服响应时间，提高解决率和客户满意度。",
+  "category": "ai-customer-service",
+  "subcategory": "chatbot",
+  "tags": [
+    "客服",
+    "工单",
+    "AI 机器人",
+    "企业",
+    "商业产品"
+  ],
+  "website": "https://www.zendesk.com",
+  "logo": "/logos/zendesk-ai.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "$19/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "智能工单路由",
+    "AI 客服机器人",
+    "知识库自动生成",
+    "客服辅助",
+    "情感分析"
+  ],
+  "use_cases": [
+    "客户支持",
+    "IT 服务台",
+    "HR 服务",
+    "自助服务"
+  ],
+  "rating": 4.4,
+  "review_count": 15000,
+  "favorites_count": 18000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

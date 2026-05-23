@@ -1,0 +1,73 @@
+{
+  "slug": "writesonic",
+  "name": "Writesonic",
+  "tagline": "一站式 AI 内容创作平台，从博客到广告文案全覆盖",
+  "description": "Writesonic 是功能全面的 AI 内容生成平台，覆盖博客文章、广告文案、产品描述、社媒内容、落地页等场景。内置 SEO 优化功能，支持与 WordPress 和 SurferSEO 集成。Ai Article Writer 功能可一键生成长篇 SEO 友好文章。",
+  "category": "ai-writing",
+  "subcategory": "content-writing",
+  "tags": [
+    "内容创作",
+    "SEO",
+    "营销文案",
+    "商业产品"
+  ],
+  "website": "https://writesonic.com",
+  "logo": "/logos/writesonic.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 25 次生成",
+    "starting_price": "$16/月",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "免费",
+        "features": [
+          "25 次生成/月"
+        ]
+      },
+      {
+        "name": "Individual",
+        "price": "$16/月",
+        "features": [
+          "无限生成",
+          "SEO 优化",
+          "AI Article Writer"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "定制",
+        "features": [
+          "团队协作",
+          "SSO",
+          "API 访问"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "文章生成",
+    "广告文案",
+    "SEO 优化",
+    "落地页生成",
+    "WordPress 集成"
+  ],
+  "use_cases": [
+    "博客写作",
+    "广告文案",
+    "产品描述",
+    "社媒运营"
+  ],
+  "rating": 4.5,
+  "review_count": 12000,
+  "favorites_count": 18000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

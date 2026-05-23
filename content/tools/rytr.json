@@ -1,0 +1,72 @@
+{
+  "slug": "rytr",
+  "name": "Rytr",
+  "tagline": "高性价比 AI 写作助手，适合初创团队和个人创作者",
+  "description": "Rytr 是一款轻量级、高性价比的 AI 写作工具，支持 40+ 种使用场景和 30+ 种语言。内置语气调节、文章大纲生成和 SEO 分析功能。以其友好的价格和简洁的界面深受自由职业者和初创团队喜爱。",
+  "category": "ai-writing",
+  "subcategory": "content-writing",
+  "tags": [
+    "写作助手",
+    "多语言",
+    "高性价比",
+    "商业产品"
+  ],
+  "website": "https://rytr.me",
+  "logo": "/logos/rytr.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每月 10,000 字符",
+    "starting_price": "$9/月",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "免费",
+        "features": [
+          "10,000 字符/月"
+        ]
+      },
+      {
+        "name": "Saver",
+        "price": "$9/月",
+        "features": [
+          "100,000 字符/月",
+          "40+ 场景"
+        ]
+      },
+      {
+        "name": "Unlimited",
+        "price": "$29/月",
+        "features": [
+          "无限生成",
+          "专属客服"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    "web",
+    "browser-extension"
+  ],
+  "features": [
+    "多场景模板",
+    "30+ 语言",
+    "语气调节",
+    "SEO 分析",
+    "大纲生成"
+  ],
+  "use_cases": [
+    "日常写作",
+    "内容营销",
+    "邮件写作",
+    "社交媒体"
+  ],
+  "rating": 4.7,
+  "review_count": 8000,
+  "favorites_count": 14000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

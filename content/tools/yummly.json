@@ -1,0 +1,49 @@
+{
+  "slug": "yummly",
+  "name": "Yummly",
+  "tagline": "AI 个性化食谱推荐，根据你的口味和冰箱食材智能匹配",
+  "description": "Yummly 是 AI 驱动的智能食谱和烹饪助手平台。根据用户的饮食偏好、过敏信息和手头食材，AI 智能推荐个性化食谱。支持营养追踪、购物清单自动生成和烹饪指导。让家常烹饪更省心、更健康。",
+  "category": "ai-lifestyle",
+  "subcategory": "lifestyle",
+  "tags": [
+    "食谱",
+    "AI 推荐",
+    "烹饪",
+    "个性化",
+    "商业产品"
+  ],
+  "website": "https://www.yummly.com",
+  "logo": "/logos/yummly.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "基础功能免费",
+    "starting_price": "$4.99/月",
+    "plans": []
+  },
+  "platforms": [
+    "web",
+    "mobile"
+  ],
+  "features": [
+    "个性化食谱推荐",
+    "食材识别",
+    "营养追踪",
+    "购物清单",
+    "烹饪步骤指导"
+  ],
+  "use_cases": [
+    "家庭烹饪",
+    "饮食规划",
+    "健康管理",
+    "食材利用"
+  ],
+  "rating": 4.4,
+  "review_count": 8000,
+  "favorites_count": 11000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

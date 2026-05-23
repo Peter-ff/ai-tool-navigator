@@ -1,0 +1,48 @@
+{
+  "slug": "gradescope",
+  "name": "Gradescope",
+  "tagline": "AI 辅助批改和评分，教师减负神器",
+  "description": "Gradescope 是 Turnitin 旗下的 AI 批改平台。AI 自动识别和分组相似的答案，教师只需批改一次，AI 将评分应用到所有相同答案。支持手写作业识别和编程作业自动评分。已被全球顶尖大学广泛采用。",
+  "category": "ai-education",
+  "subcategory": "",
+  "tags": [
+    "批改",
+    "评分",
+    "教师工具",
+    "教育科技",
+    "商业产品"
+  ],
+  "website": "https://www.gradescope.com",
+  "logo": "/logos/gradescope.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "paid",
+    "free_tier": "",
+    "starting_price": "机构定价",
+    "plans": []
+  },
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "AI 答案分组",
+    "批量评分",
+    "手写识别",
+    "编程自动评分",
+    "评分分析"
+  ],
+  "use_cases": [
+    "作业批改",
+    "考试评分",
+    "编程课程",
+    "大规模教学"
+  ],
+  "rating": 4.5,
+  "review_count": 4000,
+  "favorites_count": 6000,
+  "alternatives": [],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

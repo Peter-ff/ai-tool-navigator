@@ -1,0 +1,32 @@
+{
+  "slug": "jishi-design",
+  "name": "即时设计",
+  "tagline": "国产在线协同 UI 设计工具，Figma 最强替代品，AI 助力界面设计",
+  "description": "即时设计（Jishi Design）是国内领先的在线 UI/UX 设计协作平台，被称为中国版 Figma。支持实时多人协作、矢量设计、组件变体、自动布局等专业功能。AI 功能包括：AI 设计助手（根据描述生成 UI 界面）、AI 设计规范检查、AI 素材推荐、AI 配色方案。完全基于浏览器运行，无需安装，支持插件生态。服务超 100 万设计师和团队。",
+  "category": "ai-design",
+  "subcategory": "ui-design",
+  "tags": ["UI 设计", "协作", "在线", "Figma 替代", "商业产品"],
+  "website": "https://js.design",
+  "logo": "/logos/jishidesign.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "个人用户免费，无限制协作",
+    "starting_price": "¥99/人/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["无限文件", "实时协作", "基础组件"] },
+      { "name": "Pro", "price": "¥99/人/月", "features": ["AI 设计助手", "高级组件", "设计系统", "团队管理"] }
+    ]
+  },
+  "platforms": ["web"],
+  "features": ["AI 界面生成", "实时多人协作", "矢量设计工具", "组件变体", "自动布局", "插件生态"],
+  "use_cases": ["UI 设计", "原型制作", "设计系统", "团队协作", "设计评审"],
+  "rating": 4.4,
+  "review_count": 5600,
+  "favorites_count": 13000,
+  "alternatives": ["relume", "figma", "canva"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}

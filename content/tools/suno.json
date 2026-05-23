@@ -1,0 +1,33 @@
+{
+  "slug": "suno",
+  "name": "Suno",
+  "tagline": "AI 音乐生成器，输入歌词和风格描述即可创作完整歌曲",
+  "description": "Suno 是现象级的 AI 音乐生成平台，用户只需输入歌词或描述想要的音乐风格，AI 即可生成带有歌词和演唱的完整歌曲（最长 4 分钟）。支持各种音乐流派：流行、摇滚、电子、爵士、国风、K-pop 等。V4 版本大幅提升音质和旋律丰富度，支持自定义歌词结构（主歌、副歌、桥段）、多语言创作、歌曲扩展和混音。Suno 已促成了多首 AI 创作歌曲登上音乐榜单。",
+  "category": "ai-audio",
+  "subcategory": "music-generation",
+  "tags": ["音乐生成", "AI 作曲", "歌曲创作", "免费增值"],
+  "website": "https://suno.com",
+  "logo": "/logos/suno.svg",
+  "screenshots": [],
+  "pricing": {
+    "type": "freemium",
+    "free_tier": "每日 50 积分 (~5 首歌)",
+    "starting_price": "$10/月",
+    "plans": [
+      { "name": "Free", "price": "免费", "features": ["每日 50 积分", "基础生成", "非商业用途"] },
+      { "name": "Pro", "price": "$10/月", "features": ["每月 2500 积分", "优先队列", "商业用途许可"] },
+      { "name": "Premier", "price": "$30/月", "features": ["每月 10000 积分", "最高优先级", "更多自定义选项"] }
+    ]
+  },
+  "platforms": ["web", "mobile"],
+  "features": ["AI 作词作曲", "多种音乐风格", "人声演唱合成", "自定义歌词结构", "歌曲扩展与混音", "多语言创作"],
+  "use_cases": ["音乐创作", "视频配乐", "游戏配乐", "灵感收集", "独立音乐制作"],
+  "rating": 4.6,
+  "review_count": 4200,
+  "favorites_count": 13500,
+  "alternatives": ["udio", "aiva", "soundraw"],
+  "related_collections": [],
+  "added_date": "2026-05-23",
+  "updated_date": "2026-05-23",
+  "status": "published"
+}
