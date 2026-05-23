@@ -1,5 +1,6 @@
 "use client";
 
+import "./globals.css";
 import { AlertCircle } from "lucide-react";
 
 export default function GlobalError({

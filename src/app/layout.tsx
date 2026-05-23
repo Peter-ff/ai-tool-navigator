@@ -51,13 +51,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="zh-CN">
-      <body className="min-h-screen bg-gray-50 font-sans antialiased">
+    <html lang="zh-CN" suppressHydrationWarning>
+      <body className="min-h-screen bg-apple-bg font-sans antialiased">
         <Header />
         <main>{children}</main>
         <Footer />
         <CookieConsent />
         <Analytics />
+        <noscript>
+          <div style={{ padding: "16px", textAlign: "center", fontSize: "14px", color: "#86868b" }}>
+            你的浏览器未启用 JavaScript，部分交互功能可能不可用。
+          </div>
+        </noscript>
       </body>
     </html>
   );

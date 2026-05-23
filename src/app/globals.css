@@ -17,6 +17,9 @@
   --color-apple-purple: #af52de;
   --color-apple-purple-dark: #8944ab;
   --color-apple-border: #d1d1d6;
+  --color-gray-50: #f6f6f7;
+  --color-white: #ffffff;
+  --color-black: #000000;
 }
 
 @layer base {
