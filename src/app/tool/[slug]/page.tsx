@@ -6,10 +6,7 @@ import { ToolCard } from "@/components/tool/ToolCard";
 import { ToolActions } from "@/components/tool/ToolActions";
 import { SidebarAd } from "@/components/ads/SidebarAd";
 import { ToolLogo } from "@/components/tool/ToolLogo";
-import {
-  ChevronRight,
-  Star,
-} from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import type { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -125,15 +122,9 @@ export default async function ToolDetailPage({ params }: Props) {
                   {tool.tagline}
                 </p>
                 <div className="mt-4 flex flex-wrap items-center gap-3">
-                  <div className="flex items-center gap-1">
-                    <Star size={14} className="fill-apple-orange text-apple-orange" />
-                    <span className="text-[14px] font-semibold text-apple-text">{tool.rating}</span>
-                    <span className="text-[13px] text-apple-quaternary">({tool.review_count})</span>
-                  </div>
                   <span className={`inline-flex items-center rounded-lg px-2.5 py-0.5 text-[12px] font-medium ${PRICE_COLOR[tool.pricing.type]}`}>
                     {PRICE_TYPE_MAP[tool.pricing.type]}
                   </span>
-                  <span className="text-[13px] text-apple-quaternary">{tool.favorites_count} 人收藏</span>
                 </div>
               </div>
             </div>
